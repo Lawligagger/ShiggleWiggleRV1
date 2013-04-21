@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/turfs
+END
+turf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/turfs/turf.dm
+END
+simulated.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/turfs/simulated.dm
+END
+unsimulated.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/4668/trunk/code/game/turfs/unsimulated.dm
+END

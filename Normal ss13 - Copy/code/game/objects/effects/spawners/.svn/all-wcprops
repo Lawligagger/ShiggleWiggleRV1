@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/effects/spawners
+END
+gibspawner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/4556/trunk/code/game/objects/effects/spawners/gibspawner.dm
+END
+vaultspawner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/4668/trunk/code/game/objects/effects/spawners/vaultspawner.dm
+END
+bombspawner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/effects/spawners/bombspawner.dm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/scripting/Interpreter
+END
+Interpreter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5722/trunk/code/modules/scripting/Interpreter/Interpreter.dm
+END
+Evaluation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/3202/trunk/code/modules/scripting/Interpreter/Evaluation.dm
+END
+Scope.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/3202/trunk/code/modules/scripting/Interpreter/Scope.dm
+END
+Interaction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/scripting/Interpreter/Interaction.dm
+END

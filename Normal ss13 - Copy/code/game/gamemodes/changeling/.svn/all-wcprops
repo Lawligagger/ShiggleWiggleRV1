@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/gamemodes/changeling
+END
+traitor_chan.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/3234/trunk/code/game/gamemodes/changeling/traitor_chan.dm
+END
+changeling_powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/gamemodes/changeling/changeling_powers.dm
+END
+modularchangling.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5224/trunk/code/game/gamemodes/changeling/modularchangling.dm
+END
+changeling.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4897/trunk/code/game/gamemodes/changeling/changeling.dm
+END

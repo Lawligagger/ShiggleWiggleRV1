@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/objects/effects/decals/Cleanable
+END
+robots.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/4779/trunk/code/game/objects/effects/decals/Cleanable/robots.dm
+END
+aliens.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5239/trunk/code/game/objects/effects/decals/Cleanable/aliens.dm
+END
+humans.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5239/trunk/code/game/objects/effects/decals/Cleanable/humans.dm
+END
+misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/objects/effects/decals/Cleanable/misc.dm
+END

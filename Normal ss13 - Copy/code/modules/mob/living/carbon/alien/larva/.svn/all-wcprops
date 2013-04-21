@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5835/trunk/code/modules/mob/living/carbon/alien/larva
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5835/trunk/code/modules/mob/living/carbon/alien/larva/hud.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5500/trunk/code/modules/mob/living/carbon/alien/larva/death.dm
+END
+larva.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/alien/larva/larva.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/4097/trunk/code/modules/mob/living/carbon/alien/larva/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5500/trunk/code/modules/mob/living/carbon/alien/larva/emote.dm
+END
+inventory.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/3866/trunk/code/modules/mob/living/carbon/alien/larva/inventory.dm
+END
+update_icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tgstation/-tg-station/!svn/ver/5500/trunk/code/modules/mob/living/carbon/alien/larva/update_icons.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/modules/mob/living/carbon/alien/larva/life.dm
+END
+powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5500/trunk/code/modules/mob/living/carbon/alien/larva/powers.dm
+END

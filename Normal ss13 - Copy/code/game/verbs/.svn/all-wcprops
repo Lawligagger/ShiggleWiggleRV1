@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tgstation/-tg-station/!svn/ver/5668/trunk/code/game/verbs
+END
+ooc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5578/trunk/code/game/verbs/ooc.dm
+END
+atom_verbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/4668/trunk/code/game/verbs/atom_verbs.dm
+END
+suicide.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5668/trunk/code/game/verbs/suicide.dm
+END
+who.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5128/trunk/code/game/verbs/who.dm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/modules/power/singularity/particle_accelerator
+END
+particle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tgstation/-tg-station/!svn/ver/5757/trunk/code/modules/power/singularity/particle_accelerator/particle.dm
+END
+particle_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/modules/power/singularity/particle_accelerator/particle_control.dm
+END
+particle_chamber.dm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tgstation/-tg-station/!svn/ver/4251/trunk/code/modules/power/singularity/particle_accelerator/particle_chamber.dm
+END
+particle_accelerator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/modules/power/singularity/particle_accelerator/particle_accelerator.dm
+END
+particle_emitter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tgstation/-tg-station/!svn/ver/5700/trunk/code/modules/power/singularity/particle_accelerator/particle_emitter.dm
+END
+particle_power.dm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tgstation/-tg-station/!svn/ver/4251/trunk/code/modules/power/singularity/particle_accelerator/particle_power.dm
+END

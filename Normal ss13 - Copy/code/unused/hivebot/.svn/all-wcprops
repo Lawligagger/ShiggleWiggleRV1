@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/hivebot
+END
+hivebot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/hivebot/hivebot.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/hivebot/hud.dm
+END
+hive_modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/unused/hivebot/hive_modules.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4244/trunk/code/unused/hivebot/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/2500/trunk/code/unused/hivebot/examine.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4031/trunk/code/unused/hivebot/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/unused/hivebot/emote.dm
+END
+hivebotdefine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/unused/hivebot/hivebotdefine.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/unused/hivebot/say.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/4244/trunk/code/unused/hivebot/life.dm
+END
+mainframe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4244/trunk/code/unused/hivebot/mainframe.dm
+END

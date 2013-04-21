@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots
+END
+floorbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5640/trunk/code/game/machinery/bots/floorbot.dm
+END
+bots.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/machinery/bots/bots.dm
+END
+cleanbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots/cleanbot.dm
+END
+mulebot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots/mulebot.dm
+END
+ed209bot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots/ed209bot.dm
+END
+medbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots/medbot.dm
+END
+secbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5900/trunk/code/game/machinery/bots/secbot.dm
+END

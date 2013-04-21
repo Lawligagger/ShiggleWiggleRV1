@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/reagents/reagent_containers/food/drinks
+END
+bottle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/reagents/reagent_containers/food/drinks/bottle.dm
+END
+jar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tgstation/-tg-station/!svn/ver/5230/trunk/code/modules/reagents/reagent_containers/food/drinks/jar.dm
+END
+drinkingglass.dm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tgstation/-tg-station/!svn/ver/5692/trunk/code/modules/reagents/reagent_containers/food/drinks/drinkingglass.dm
+END

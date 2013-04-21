@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/melee
+END
+energy.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/melee/energy.dm
+END
+misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/melee/misc.dm
+END

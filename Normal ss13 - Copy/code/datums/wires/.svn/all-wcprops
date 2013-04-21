@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/datums/wires
+END
+apc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/datums/wires/apc.dm
+END
+airlock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/datums/wires/airlock.dm
+END
+robot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5670/trunk/code/datums/wires/robot.dm
+END
+mulebot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5763/trunk/code/datums/wires/mulebot.dm
+END
+particle_accelerator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5705/trunk/code/datums/wires/particle_accelerator.dm
+END
+camera.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5670/trunk/code/datums/wires/camera.dm
+END
+wires.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/datums/wires/wires.dm
+END
+vending.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/datums/wires/vending.dm
+END
+explosive.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5705/trunk/code/datums/wires/explosive.dm
+END
+radio.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5677/trunk/code/datums/wires/radio.dm
+END

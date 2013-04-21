@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5696/trunk/code/game/objects/items/devices/PDA
+END
+PDA.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5696/trunk/code/game/objects/items/devices/PDA/PDA.dm
+END
+cart.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5647/trunk/code/game/objects/items/devices/PDA/cart.dm
+END
+chatroom.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/devices/PDA/chatroom.dm
+END
+radio.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/devices/PDA/radio.dm
+END

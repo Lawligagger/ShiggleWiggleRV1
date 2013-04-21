@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/awaymissions
+END
+gateway.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5504/trunk/code/modules/awaymissions/gateway.dm
+END
+zlevel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/modules/awaymissions/zlevel.dm
+END
+trigger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5134/trunk/code/modules/awaymissions/trigger.dm
+END
+exile.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5706/trunk/code/modules/awaymissions/exile.dm
+END
+pamphlet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/4862/trunk/code/modules/awaymissions/pamphlet.dm
+END
+bluespaceartillery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/modules/awaymissions/bluespaceartillery.dm
+END
+corpse.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5486/trunk/code/modules/awaymissions/corpse.dm
+END
+loot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/awaymissions/loot.dm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/clothing/glasses
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5529/trunk/code/modules/clothing/glasses/hud.dm
+END
+glasses.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/clothing/glasses/glasses.dm
+END

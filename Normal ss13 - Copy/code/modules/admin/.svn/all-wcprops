@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5916/trunk/code/modules/admin
+END
+IsBanned.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5381/trunk/code/modules/admin/IsBanned.dm
+END
+ToRban.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/modules/admin/ToRban.dm
+END
+admin_ranks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5042/trunk/code/modules/admin/admin_ranks.dm
+END
+admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5916/trunk/code/modules/admin/admin.dm
+END
+create_object.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4978/trunk/code/modules/admin/create_object.dm
+END
+admin_verbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/modules/admin/admin_verbs.dm
+END
+admin_investigate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5686/trunk/code/modules/admin/admin_investigate.dm
+END
+banjob.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5486/trunk/code/modules/admin/banjob.dm
+END
+holder2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5150/trunk/code/modules/admin/holder2.dm
+END
+create_mob.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4978/trunk/code/modules/admin/create_mob.dm
+END
+create_turf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/4978/trunk/code/modules/admin/create_turf.dm
+END
+player_notes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/4758/trunk/code/modules/admin/player_notes.dm
+END
+newbanjob.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4758/trunk/code/modules/admin/newbanjob.dm
+END
+admin_memo.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4998/trunk/code/modules/admin/admin_memo.dm
+END
+NewBan.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4758/trunk/code/modules/admin/NewBan.dm
+END
+player_panel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5230/trunk/code/modules/admin/player_panel.dm
+END
+topic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/modules/admin/topic.dm
+END

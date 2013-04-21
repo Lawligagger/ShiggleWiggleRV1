@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/modules/mob/living/silicon/robot
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5835/trunk/code/modules/mob/living/silicon/robot/hud.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4383/trunk/code/modules/mob/living/silicon/robot/death.dm
+END
+robot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/silicon/robot/robot.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/3994/trunk/code/modules/mob/living/silicon/robot/examine.dm
+END
+laws.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/modules/mob/living/silicon/robot/laws.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4650/trunk/code/modules/mob/living/silicon/robot/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/modules/mob/living/silicon/robot/emote.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/3562/trunk/code/modules/mob/living/silicon/robot/say.dm
+END
+inventory.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5766/trunk/code/modules/mob/living/silicon/robot/inventory.dm
+END
+robot_modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/mob/living/silicon/robot/robot_modules.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/silicon/robot/life.dm
+END
+robot_movement.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/4585/trunk/code/modules/mob/living/silicon/robot/robot_movement.dm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5196/trunk/code/game/gamemodes/nuclear
+END
+pinpointer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5196/trunk/code/game/gamemodes/nuclear/pinpointer.dm
+END
+nuclear.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5148/trunk/code/game/gamemodes/nuclear/nuclear.dm
+END
+nuclearbomb.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5148/trunk/code/game/gamemodes/nuclear/nuclearbomb.dm
+END

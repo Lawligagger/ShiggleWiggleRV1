@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/stacks/sheets
+END
+leather.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5500/trunk/code/game/objects/items/stacks/sheets/leather.dm
+END
+light.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4591/trunk/code/game/objects/items/stacks/sheets/light.dm
+END
+mineral.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/game/objects/items/stacks/sheets/mineral.dm
+END
+glass.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/objects/items/stacks/sheets/glass.dm
+END
+sheets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/stacks/sheets/sheets.dm
+END
+sheet_types.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/stacks/sheets/sheet_types.dm
+END

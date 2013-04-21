@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/modules/mob/living/silicon
+END
+silicon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5608/trunk/code/modules/mob/living/silicon/silicon.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/4188/trunk/code/modules/mob/living/silicon/death.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/4331/trunk/code/modules/mob/living/silicon/login.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5557/trunk/code/modules/mob/living/silicon/say.dm
+END

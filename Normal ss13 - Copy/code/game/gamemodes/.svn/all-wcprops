@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/game/gamemodes
+END
+events.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/game/gamemodes/events.dm
+END
+factions.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5789/trunk/code/game/gamemodes/factions.dm
+END
+intercept_report.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5283/trunk/code/game/gamemodes/intercept_report.dm
+END
+objective.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/game/gamemodes/objective.dm
+END
+setupgame.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4679/trunk/code/game/gamemodes/setupgame.dm
+END
+gameticker.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/game/gamemodes/gameticker.dm
+END
+game_mode.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/game/gamemodes/game_mode.dm
+END

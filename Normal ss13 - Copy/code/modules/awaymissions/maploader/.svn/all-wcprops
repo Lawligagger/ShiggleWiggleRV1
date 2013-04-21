@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4618/trunk/code/modules/awaymissions/maploader
+END
+reader.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4618/trunk/code/modules/awaymissions/maploader/reader.dm
+END
+dmm_suite.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/4618/trunk/code/modules/awaymissions/maploader/dmm_suite.dm
+END
+swapmaps.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4618/trunk/code/modules/awaymissions/maploader/swapmaps.dm
+END
+writer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4618/trunk/code/modules/awaymissions/maploader/writer.dm
+END

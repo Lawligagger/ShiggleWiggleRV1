@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/antimatter
+END
+control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5008/trunk/code/modules/power/antimatter/control.dm
+END
+shielding.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/antimatter/shielding.dm
+END
+containment_jar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/4251/trunk/code/modules/power/antimatter/containment_jar.dm
+END

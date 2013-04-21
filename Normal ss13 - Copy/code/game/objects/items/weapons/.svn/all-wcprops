@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5899/trunk/code/game/objects/items/weapons
+END
+scrolls.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5808/trunk/code/game/objects/items/weapons/scrolls.dm
+END
+AI_modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5631/trunk/code/game/objects/items/weapons/AI_modules.dm
+END
+clown_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4559/trunk/code/game/objects/items/weapons/clown_items.dm
+END
+kitchen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/kitchen.dm
+END
+teleportation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/game/objects/items/weapons/teleportation.dm
+END
+shields.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5448/trunk/code/game/objects/items/weapons/shields.dm
+END
+swords_axes_etc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5834/trunk/code/game/objects/items/weapons/swords_axes_etc.dm
+END
+flamethrower.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5684/trunk/code/game/objects/items/weapons/flamethrower.dm
+END
+paiwire.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/1610/trunk/code/game/objects/items/weapons/paiwire.dm
+END
+manuals.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5460/trunk/code/game/objects/items/weapons/manuals.dm
+END
+explosives.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5779/trunk/code/game/objects/items/weapons/explosives.dm
+END
+singularityhammer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/game/objects/items/weapons/singularityhammer.dm
+END
+dice.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5085/trunk/code/game/objects/items/weapons/dice.dm
+END
+RCD.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5819/trunk/code/game/objects/items/weapons/RCD.dm
+END
+stunbaton.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5834/trunk/code/game/objects/items/weapons/stunbaton.dm
+END
+cigs_lighters.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5892/trunk/code/game/objects/items/weapons/cigs_lighters.dm
+END
+wires.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/4559/trunk/code/game/objects/items/weapons/wires.dm
+END
+cosmetics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4748/trunk/code/game/objects/items/weapons/cosmetics.dm
+END
+RSF.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/weapons/RSF.dm
+END
+mop.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4747/trunk/code/game/objects/items/weapons/mop.dm
+END
+cards_ids.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5486/trunk/code/game/objects/items/weapons/cards_ids.dm
+END
+dna_injector.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5802/trunk/code/game/objects/items/weapons/dna_injector.dm
+END
+tools.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/items/weapons/tools.dm
+END
+table_rack_parts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/4824/trunk/code/game/objects/items/weapons/table_rack_parts.dm
+END
+handcuffs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/items/weapons/handcuffs.dm
+END
+weaponry.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/weaponry.dm
+END
+airlock_painter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5899/trunk/code/game/objects/items/weapons/airlock_painter.dm
+END
+gift_wrappaper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/game/objects/items/weapons/gift_wrappaper.dm
+END
+paint.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5648/trunk/code/game/objects/items/weapons/paint.dm
+END
+twohanded.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/game/objects/items/weapons/twohanded.dm
+END
+power_cells.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/weapons/power_cells.dm
+END
+extinguisher.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5808/trunk/code/game/objects/items/weapons/extinguisher.dm
+END

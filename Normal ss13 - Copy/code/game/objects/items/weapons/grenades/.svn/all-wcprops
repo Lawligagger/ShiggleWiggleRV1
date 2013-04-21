@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5785/trunk/code/game/objects/items/weapons/grenades
+END
+chem_grenade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tgstation/-tg-station/!svn/ver/5785/trunk/code/game/objects/items/weapons/grenades/chem_grenade.dm
+END
+flashbang.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/weapons/grenades/flashbang.dm
+END
+grenade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/weapons/grenades/grenade.dm
+END
+spawnergrenade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tgstation/-tg-station/!svn/ver/5187/trunk/code/game/objects/items/weapons/grenades/spawnergrenade.dm
+END
+emgrenade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5229/trunk/code/game/objects/items/weapons/grenades/emgrenade.dm
+END
+smokebomb.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/4610/trunk/code/game/objects/items/weapons/grenades/smokebomb.dm
+END

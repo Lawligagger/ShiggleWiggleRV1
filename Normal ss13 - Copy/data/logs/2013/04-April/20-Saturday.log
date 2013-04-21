@@ -1,0 +1,1361 @@
+
+
+Starting up. 01:18.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[01:18:35]ADMIN: Loading Banlistjob
+[01:18:35]ADMIN: Loading jobban_rank
+[01:18:35]ADMIN: jobban_keylist was empty
+[01:18:35]ADMIN: Updating jobbanfile!
+[01:18:35]ADMIN: Loading Banlist
+[01:19:06]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[01:19:08]ACCESS: Login: Yolocooey/(Yolocooey) from 50.64.56.63-4040369764 || BYOND v496
+[01:19:10]ACCESS: Logout: Lawligagger/(Lawligagger)
+[01:19:14]ACCESS: Logout: Yolocooey/(Yolocooey)
+
+
+Starting up. 03:41.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[03:41:11]ADMIN: Loading Banlistjob
+[03:41:11]ADMIN: Loading jobban_rank
+[03:41:11]ADMIN: jobban_keylist was empty
+[03:41:11]ADMIN: Updating jobbanfile!
+[03:41:11]ADMIN: Loading Banlist
+[03:41:42]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+
+
+Starting up. 03:50.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[03:50:51]ADMIN: Loading Banlistjob
+[03:50:51]ADMIN: Loading jobban_rank
+[03:50:51]ADMIN: jobban_keylist was empty
+[03:50:51]ADMIN: Updating jobbanfile!
+[03:50:51]ADMIN: Loading Banlist
+[03:51:33]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[03:53:43]ADMIN: Lawligagger has started the game.
+[03:53:45]ACCESS: Logout: *no key*/(Lawligagger)
+[03:53:45]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[03:53:49]ACCESS: Logout: Lawligagger/(John Reverend)
+[03:58:58]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[03:59:08]SAY: mouse/ : Squeek!
+[03:59:08]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[03:59:33]VOTE: Gamemode vote started by Lawligagger.
+[03:59:42]ACCESS: Logout: Lawligagger/(John Reverend)
+[08:07:48]VOTE: <b>Vote Result: wizard</b>
+[08:07:56]GAME: Rebooting due to restart vote
+
+
+Starting up. 08:08.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'wizard'
+[08:08:53]ADMIN: Loading Banlistjob
+[08:08:53]ADMIN: Loading jobban_rank
+[08:08:53]ADMIN: jobban_keylist was empty
+[08:08:53]ADMIN: Updating jobbanfile!
+[08:08:53]ADMIN: Loading Banlist
+[08:59:28]ACCESS: Login: Wer6/(Wer6) from 71.229.100.30-4064688247 || BYOND v496
+[09:18:19]ACCESS: Logout: Wer6/(Wer6)
+[09:22:56]ACCESS: Login: UnTostapane/(UnTostapane) from 2.234.89.29-194873962 || BYOND v498
+[09:25:53]ACCESS: Logout: UnTostapane/(UnTostapane)
+[11:23:41]ACCESS: Login: TeleBison9000/(TeleBison9000) from 72.78.148.184-1217531246 || BYOND v498
+[11:31:08]ACCESS: Logout: TeleBison9000/(TeleBison9000)
+[12:52:49]ACCESS: Login: AntonCJ/(AntonCJ) from 91.78.146.158-1198289184 || BYOND v498
+[12:52:58]ACCESS: Logout: AntonCJ/(AntonCJ)
+[13:23:32]ACCESS: Login: Jairin3/(Jairin3) from 190.157.98.114-2860050428 || BYOND v498
+[13:25:16]ACCESS: Logout: Jairin3/(Jairin3)
+[13:34:12]ACCESS: Login: Lawligagger/(Lawligagger) from 24.231.209.251-3911281500 || BYOND v496
+[13:36:12]VOTE: Gamemode vote started by Lawligagger.
+[13:42:46]ACCESS: Logout: Lawligagger/(Lawligagger)
+[14:23:44]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[14:24:43]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[14:26:56]ACCESS: Logout: Lawligagger/(Lawligagger)
+[14:26:56]ACCESS: Logout: Deathsquied/(Deathsquied)
+
+
+Starting up. 14:28.32
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[14:28:32]ADMIN: Loading Banlistjob
+[14:28:32]ADMIN: Loading jobban_rank
+[14:28:32]ADMIN: jobban_keylist was empty
+[14:28:32]ADMIN: Updating jobbanfile!
+[14:28:32]ADMIN: Loading Banlist
+[14:29:09]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[14:29:34]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[14:30:45]ACCESS: Logout: *no key*/(Deathsquied)
+[14:30:45]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[14:30:46]ACCESS: Logout: *no key*/(Lawligagger)
+[14:30:46]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[14:31:01]SAY: Ian/ : Woof!
+[14:31:31]SAY: mouse/ : Squeek?
+[14:32:03]SAY: Ian/ : Bark!
+[14:32:19]SAY: Tom/ : Squeek?
+[14:33:11]SAY: mouse/ : Squeek!
+[14:34:15]SAY: Runtime/ : Purr!
+[14:35:57]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[14:36:11]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> seizes up and falls limp, her eyes dead and lifeless...
+[14:36:12]GAME: SQL ERROR during death reporting. Failed to connect.
+[14:36:14]SAY: Ian/ : YAP
+[14:36:18]SAY: Tom/ : Squeek?
+[14:36:30]ADMIN: Lawligagger/(John Reverend) healed / revived Deathsquied/(Sarah Monique)
+[14:37:15]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[14:37:22]ACCESS: Logout: *no key*/(Zymechra)
+[14:37:22]ACCESS: Login: Zymechra/(Toodles Sharperton) from 24.129.9.171-2566703428 || BYOND v496
+[14:38:02]ACCESS: Login: Zhaileon/(Zhaileon) from 66.212.209.2-372307502 || BYOND v496
+[14:38:11]ACCESS: Logout: *no key*/(Zhaileon)
+[14:38:11]ACCESS: Login: Zhaileon/(Ryder Fields) from 66.212.209.2-372307502 || BYOND v496
+[14:38:29]ACCESS: Logout: Zhaileon/(Ryder Fields)
+[14:38:35]ACCESS: Login: Zhaileon/(Ryder Fields) from 66.212.209.2-372307502 || BYOND v496
+[14:38:38]ACCESS: Logout: Zhaileon/(Ryder Fields)
+[14:39:36]SAY: Runtime/ : Esp!
+[14:40:12]SAY: mouse/ : Squeek?
+[14:40:33]ACCESS: Login: Taloc111/(Taloc111) from 97.86.243.188-661754653 || BYOND v498
+[14:41:03]ACCESS: Logout: *no key*/(Taloc111)
+[14:41:03]ACCESS: Login: Taloc111/(Lane Roby) from 97.86.243.188-661754653 || BYOND v498
+[14:41:20]SAY: Poly/ : Check the singlo, you chucklefucks!
+[14:43:48]GAME: Lawligagger/(John Reverend) emagged the Holodeck Control Console
+[14:44:40]SAY: Tom/ : Squeek?
+[14:46:38]GAME: PA Control Computer turned ON by deathsquied(Sarah Monique) in (112,71,1)
+[14:47:02]SAY: mouse/ : SQUEEK!
+[14:47:28]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[14:47:58]GAME: PA Control Computer increased to 1 by deathsquied(Sarah Monique) in (112,71,1)
+[14:47:59]GAME: PA Control Computer increased to 2 by deathsquied(Sarah Monique) in (112,71,1)
+[14:48:36]SAY: mouse/ : Squeek!
+[14:49:02]GAME: PA Control Computer increased to 1 by deathsquied(Sarah Monique) in (112,71,1)
+[14:49:03]GAME: PA Control Computer increased to 2 by deathsquied(Sarah Monique) in (112,71,1)
+[14:50:45]SAY: mouse/ : Squeek?
+[14:52:47]SAY: Ian/ : AUUUUUU
+[14:53:02]SAY: mouse/ : Squeek!
+[14:54:12]ACCESS: Logout: *no key*/(John Reverend)
+[14:54:12]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[14:54:14]SAY: mouse/ : Squeek?
+[14:54:20]ADMIN: Taloc111/(Lane Roby) jumped to Taloc111/(Lane Roby)
+[14:54:28]ADMIN: Lawligagger/(John Reverend) teleported Taloc111/(Lane Roby)
+[14:54:36]ACCESS: Logout: *no key*/(John Reverend)
+[14:54:36]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[14:54:44]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> appears to be gasping!
+[14:54:46]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> appears to be gasping!
+[14:54:52]SAY: Poly/ : Check the singlo, you chucklefucks!
+[14:54:52]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> appears to be gasping!
+[14:54:54]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> appears to be gasping!
+[14:54:58]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> appears to be gasping!
+[14:55:00]SAY: mouse/ : SQUEEK!
+[14:55:02]EMOTE: Lane Roby/Taloc111 : <B>Lane Roby</B> seizes up and falls limp, his eyes dead and lifeless...
+[14:55:03]GAME: SQL ERROR during death reporting. Failed to connect.
+[14:55:08]SAY: mouse/ : Squeek!
+[14:55:10]ACCESS: Logout: *no key*/(Lane Roby)
+[14:55:10]ACCESS: Login: Taloc111/(Lane Roby) from 97.86.243.188-661754653 || BYOND v498
+[14:55:27]ACCESS: Logout: *no key*/(Lane Roby)
+[14:55:27]ACCESS: Login: Taloc111/(Lane Roby) from 97.86.243.188-661754653 || BYOND v498
+[14:55:31]ACCESS: Logout: *no key*/(Lane Roby)
+[14:55:31]ACCESS: Login: Taloc111/(Lane Roby) from 97.86.243.188-661754653 || BYOND v498
+[14:55:42]ADMIN: Lawligagger/(John Reverend) modified energy gun's fire_sound to sound/weapons/clown blasterogg
+[14:55:42]SAY: mouse/ : SQUEEK!
+[14:56:26]ADMIN: Lawligagger/(John Reverend) modified laser gun's fire_sound to sound/weapons/clown blaster.ogg
+[14:56:49]ADMIN: Lawligagger/(John Reverend) modified laser gun's name to Clown Blaster
+[14:57:17]ADMIN: Taloc111/(Lane Roby) jumped to Deathsquied/(Sarah Monique)
+[14:58:21]SAY: mouse/ : Squeek!
+[14:58:23]SAY: Pete/ : EHEHEHEHEH
+[14:58:34]SAY: mouse/ : Squeek?
+[14:58:46]ADMIN: Taloc111/(Lane Roby) assumed direct control of Poly.
+[14:58:46]ACCESS: Logout: *no key*/(Lane Roby)
+[14:58:46]ACCESS: Login: taloc111/(Poly) from 97.86.243.188-661754653 || BYOND v498
+[14:59:07]ADMIN: taloc111/(Poly) assumed direct control of Lane Roby.
+[14:59:07]ACCESS: Logout: *no key*/(Poly)
+[14:59:07]ACCESS: Login: taloc111/(Lane Roby) from 97.86.243.188-661754653 || BYOND v498
+[14:59:47]SAY: Pete/ : EHEHEHEHEH
+[14:59:54]ADMIN: taloc111/(Lane Roby) teleported taloc111/(Lane Roby) to the Bar
+[14:59:56]ACCESS: Logout: *no key*/(John Reverend)
+[14:59:56]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[14:59:59]EMOTE: John Reverend/@Lawligagger : <B>John Reverend</B> gasps!
+[15:00:17]ADMIN: Lawligagger/(John Reverend) created a /mob/living/simple_animal/hostile/retaliate/clown
+[15:00:21]ADMIN: Lawligagger/(John Reverend) assumed direct control of  SMIGGY.
+[15:00:21]ACCESS: Logout: *no key*/(John Reverend)
+[15:00:21]ACCESS: Login: lawligagger/( SMIGGY) from 127.0.0.1-3911281500 || BYOND v496
+[15:00:21]EMOTE: John Reverend/@Lawligagger : <B>John Reverend</B> gasps!
+[15:00:29]ADMIN: taloc111/(Lane Roby) dealt -344 amount of brute damage to Lane Roby 
+[15:00:34]ADMIN: taloc111/(Lane Roby) dealt -10 amount of brute damage to Lane Roby 
+[15:00:40]ADMIN: taloc111/(Lane Roby) dealt -174 amount of fire damage to Lane Roby 
+[15:00:47]ADMIN: taloc111/(Lane Roby) dealt -54 amount of oxygen damage to Lane Roby 
+[15:00:51]EMOTE: Unknown/@Lawligagger : <B>Unknown</B> gasps!
+[15:00:53]EMOTE: Unknown/@Lawligagger : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:00:54]GAME: SQL ERROR during death reporting. Failed to connect.
+[15:01:12]SAY: mouse/ : Squeek?
+[15:01:19]ACCESS: Logout: *no key*/( SMIGGY)
+[15:01:19]ACCESS: Login: lawligagger/( SMIGGY) from 127.0.0.1-3911281500 || BYOND v496
+[15:01:19]ADMIN: taloc111/(Lane Roby) dealt -123 amount of clone damage to Lane Roby 
+[15:01:22]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[15:01:26]ADMIN: lawligagger/( SMIGGY) healed / revived Deathsquied/(Sarah Monique)
+[15:01:34]ADMIN: taloc111/(Lane Roby) dealt -400 amount of oxygen damage to Lane Roby 
+[15:01:49]ADMIN: Lawligagger/( SMIGGY) modified Officer Beepsky's move_speed to 30
+[15:02:14]ADMIN: Lawligagger/( SMIGGY) modified Officer Beepsky's move_speed to 500
+[15:02:27]ADMIN: lawligagger/( SMIGGY) healed / revived taloc111/(Lane Roby)
+[15:02:41]ADMIN: lawligagger/( SMIGGY) created a /mob/living/carbon/human/dummy
+[15:02:44]ADMIN: lawligagger/( SMIGGY) assumed direct control of  SMIGGY.
+[15:02:44]ACCESS: Logout: *no key*/( SMIGGY)
+[15:02:44]ACCESS: Login: lawligagger/( SMIGGY) from 127.0.0.1-3911281500 || BYOND v496
+[15:02:51]ADMIN: lawligagger/( SMIGGY) changed the equipment of lawligagger/( SMIGGY) to tunnel clown.
+[15:03:10]ADMIN: Lawligagger/( SMIGGY) modified  SMIGGY's move_speed to 999999999
+[15:03:42]ADMIN: Lawligagger/( SMIGGY) modified clown shoes's move_speed to 9999999
+[15:03:57]ADMIN: Lawligagger/( SMIGGY) modified clown shoes's r_speed to 99999
+[15:04:47]SAY: Tom/ : SQUEEK!
+[15:04:49]SAY: Tom/ : Squeek!
+[15:05:05]SAY: mouse/ : SQUEEK!
+[15:05:31]GAME: Emitter deleted at (122,65,1)
+[15:06:37]ADMIN: taloc111/(Lane Roby) deleted Dormitory at (122,145,1)
+[15:06:45]ADMIN: taloc111/(Lane Roby) deleted Firelock at (122,145,1)
+[15:06:50]ADMIN: lawligagger/( SMIGGY) jumped to Deathsquied/(Sarah Monique)
+[15:06:51]SAY: Sarah Monique/Deathsquied : 0-HURGH
+[15:07:08]SAY: mouse/ : Squeek!
+[15:08:02]ACCESS: Logout: *no key*/( SMIGGY)
+[15:08:02]ACCESS: Login: lawligagger/( SMIGGY) from 127.0.0.1-3911281500 || BYOND v496
+[15:08:11]ADMIN: lawligagger/( SMIGGY) teleported lawligagger/( SMIGGY)
+[15:08:23]ADMIN: lawligagger/( SMIGGY) teleported *no key*/( SMIGGY)
+[15:08:35]ADMIN: lawligagger/( SMIGGY) teleported *no key*/(John Reverend)
+[15:08:40]ADMIN: lawligagger/( SMIGGY) assumed direct control of Unknown.
+[15:08:40]ACCESS: Logout: *no key*/( SMIGGY)
+[15:08:40]ACCESS: Login: lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[15:08:43]ADMIN: lawligagger/(John Reverend) healed / revived lawligagger/(John Reverend)
+[15:08:52]ADMIN: lawligagger/(John Reverend) deleted the reinforced window at (108,143,1)
+[15:10:02]ADMIN: lawligagger/(John Reverend) changed the equipment of lawligagger/(John Reverend) to soviet admiral.
+[15:10:06]ADMIN: lawligagger/(John Reverend) healed / revived lawligagger/(John Reverend)
+[15:10:34]SAY: Ian/ : YAP
+[15:10:52]ACCESS: Logout: *no key*/(John Reverend)
+[15:10:52]ACCESS: Login: lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[15:11:02]EMOTE: John Reverend/@Lawligagger : <B>John Reverend</B> gasps!
+[15:11:05]ADMIN: lawligagger/(John Reverend) created a /mob/living/silicon/robot
+[15:11:07]ADMIN: lawligagger/(John Reverend) assumed direct control of Default Cyborg-721.
+[15:11:07]ACCESS: Logout: *no key*/(John Reverend)
+[15:11:07]ACCESS: Login: lawligagger/(Default Cyborg-721) from 127.0.0.1-3911281500 || BYOND v496
+[15:11:12]EMOTE: John Reverend/@Lawligagger : <B>John Reverend</B> gasps!
+[15:11:32]EMOTE: John Reverend/@Lawligagger : <B>John Reverend</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:11:33]GAME: SQL ERROR during death reporting. Failed to connect.
+[15:11:39]ADMIN: Lawligagger/(Engineering Cyborg-721) modified Engineering Cyborg-721's emagged to 1
+[15:12:06]EMOTE: Pocket/Zymechra : <B>Pocket</B> gasps!
+[15:12:08]SAY: mouse/ : Squeek!
+[15:12:08]EMOTE: Pocket/Zymechra : <B>Pocket</B> gasps!
+[15:12:09]ADMIN: lawligagger/(Engineering Cyborg-721) jumped to taloc111/(Lane Roby)
+[15:12:24]EMOTE: Pocket/Zymechra : <B>Pocket</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:12:25]GAME: SQL ERROR during death reporting. Failed to connect.
+[15:13:07]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:13:15]GAME: Explosion with size (3) in area Space 
+[15:13:41]ADMIN: Lawligagger/(Engineering Cyborg-721) modified Engineering Cyborg-721's jetpack to 1
+[15:13:46]ADMIN: Lawligagger/(Engineering Cyborg-721) modified Engineering Cyborg-721's jeton to 1
+[15:13:49]SAY: mouse/ : SQUEEK!
+[15:15:58]ACCESS: Logout: *no key*/(Pocket)
+[15:15:58]ACCESS: Login: Zymechra/(Pocket) from 24.129.9.171-2566703428 || BYOND v496
+[15:16:39]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:17:43]ADMIN: lawligagger/(Engineering Cyborg-721) deleted Engineering Cyborg-721 at (234,183,6)
+[15:17:43]ACCESS: Logout: *no key*/(Engineering Cyborg-721)
+[15:17:43]ACCESS: Login: lawligagger/(Default Cyborg-721) from 127.0.0.1-3911281500 || BYOND v496
+[15:17:47]SAY: Pete/ : eh?
+[15:17:50]ADMIN: lawligagger/(Default Cyborg-721) jumped to Deathsquied/(Sarah Monique)
+[15:18:06]ADMIN: lawligagger/(Default Cyborg-721) created a /mob/living/silicon/robot
+[15:18:06]SAY: mouse/ : Squeek?
+[15:18:09]ADMIN: lawligagger/(Default Cyborg-721) assumed direct control of Default Cyborg-417.
+[15:18:09]ACCESS: Logout: *no key*/(Default Cyborg-721)
+[15:18:09]ACCESS: Login: lawligagger/(Default Cyborg-417) from 127.0.0.1-3911281500 || BYOND v496
+[15:18:16]SAY: mouse/ : Squeek?
+[15:18:31]ADMIN: Lawligagger/(Security Cyborg-417) modified Security Cyborg-417's emagged to 1
+[15:18:46]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:19:07]ADMIN: Lawligagger/(Security Cyborg-417) modified Security Cyborg-417's digitalcamo to 1
+[15:19:16]ADMIN: Lawligagger/(Security Cyborg-417) modified Security Cyborg-417's digitalcamo to 0
+[15:19:42]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:19:58]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:20:20]SAY: mouse/ : SQUEEK!
+[15:20:41]ADMIN: Lawligagger/(Security Cyborg-417) modified laser gun's fire_sound to sound/weapons/clown blaster.ogg
+[15:21:09]ADMIN: Lawligagger/(CLOWN FRIEND) modified taser gun's fire_sound to sound/weapons/clown blaster.ogg
+[15:21:40]SAY: Runtime/ : Purr!
+[15:21:42]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:22:19]ADMIN: Lawligagger/(CLOWN FRIEND) modified stun baton's hitsound to sound/items/bikehorn.ogg
+[15:22:54]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:23:03]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:23:03]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:23:12]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:23:16]ADMIN: lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:23:19]ADMIN: lawligagger/(CLOWN FRIEND) assumed direct control of CLOWN FRIEND.
+[15:23:19]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:23:19]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:23:22]SAY: Runtime/ : Meow!
+[15:23:52]SAY: Runtime/ : Meow!
+[15:25:08]ACCESS: Login: Cult_of_Personality/(Cult_of_Personality) from 71.68.31.15-3983715975 || BYOND v498
+[15:25:15]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon to 
+[15:25:57]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon_state to honker
+[15:26:00]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:26:10]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon_state to honker
+[15:26:14]SAY: Poly/ : Poly wanna cracker!
+[15:26:20]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:26:22]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:26:42]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:09]ACCESS: Logout: *no key*/(Cult_of_Personality)
+[15:27:09]ACCESS: Login: Cult_of_Personality/(Horatio Rodrigues) from 71.68.31.15-3983715975 || BYOND v498
+[15:27:12]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:14]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon_state to 
+[15:27:18]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:20]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:26]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:34]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:40]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon to icons/mecha/mecha.dmi
+[15:27:52]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:27:59]ADMIN: Lawligagger/(CLOWN FRIEND) modified CLOWN FRIEND's icon_state to honker
+[15:28:03]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:28:03]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:28:06]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:28:20]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[15:28:23]ADMIN: lawligagger/(CLOWN FRIEND) deleted the DNA Scanner at (153,113,1)
+[15:28:23]ACCESS: Logout: *no key*/(Pocket)
+[15:28:23]ACCESS: Login: Zymechra/(Pocket) from 24.129.9.171-2566703428 || BYOND v496
+[15:28:48]ADMIN: <a href='?priv_msg=[0x5000001]'>lawligagger</a>/(CLOWN FRIEND) has traitor'ed .
+[15:28:50]ADMIN: <a href='?priv_msg=[0x5000001]'>lawligagger</a>/(CLOWN FRIEND) has de-traitor'ed .
+[15:28:55]ACCESS: Logout: *no key*/(Pocket)
+[15:28:55]ACCESS: Login: Zymechra/(Pocket) from 24.129.9.171-2566703428 || BYOND v496
+[15:29:14]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:29:14]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:29:54]ADMIN: lawligagger/(CLOWN FRIEND) deleted Robotics Lab at (176,117,1)
+[15:30:21]SAY: Pete/ : eh?
+[15:30:50]ADMIN: Lawligagger/(CLOWN FRIEND) modified laser gun's name to Clown Blaster
+[15:30:58]ADMIN: Lawligagger/(CLOWN FRIEND) modified stun baton's name to Friend Stick
+[15:31:01]SAY: Horatio Rodrigues/Cult_of_Personality : Sup, Cap.
+[15:31:05]ADMIN: Lawligagger/(CLOWN FRIEND) modified taser gun's name to Clown Taser
+[15:31:06]SAY: Sarah Monique/Deathsquied : hey
+[15:31:10]SAY: Sarah Monique/Deathsquied : that guy is dead
+[15:31:13]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:31:13]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:31:13]SAY: Sarah Monique/Deathsquied : making a ripley
+[15:31:18]SAY: Horatio Rodrigues/Cult_of_Personality : Nice nice.
+[15:31:29]ADMIN: <a href='?priv_msg=[0x5000001]'>lawligagger</a>/(CLOWN FRIEND) has wizard'ed Pocket.
+[15:31:31]SAY: Tom/ : Squeek?
+[15:31:35]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:31:45]SAY: Pocket/Zymechra : Neat
+[15:31:53]ACCESS: Logout: lawligagger/(CLOWN FRIEND)
+[15:31:55]ACCESS: Login: Lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:32:02]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[15:32:34]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:32:34]ACCESS: Login: Lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:32:44]SAY: Sarah Monique/Deathsquied :  Horatio come back
+[15:32:51]SAY: Sarah Monique/Deathsquied :  finish the ripley
+[15:32:55]SAY: Sarah Monique/Deathsquied : oh
+[15:32:57]SAY: Horatio Rodrigues/Cult_of_Personality : . .
+[15:32:58]SAY: Sarah Monique/Deathsquied : comms are down
+[15:33:06]SAY: Horatio Rodrigues/Cult_of_Personality : Comms are up.
+[15:33:06]SAY: Sarah Monique/Deathsquied : thats clown friend
+[15:33:11]SAY: Sarah Monique/Deathsquied : hes my firend
+[15:33:35]SAY: Sarah Monique/Deathsquied : see
+[15:33:37]SAY: Sarah Monique/Deathsquied : hes friendly
+[15:33:47]WHISPER: Sarah Monique/Deathsquied : HELP ME
+[15:33:53]SAY: Horatio Rodrigues/Cult_of_Personality : Kay.
+[15:34:16]SAY: Sarah Monique/Deathsquied : :(
+[15:34:26]SAY: Horatio Rodrigues/Cult_of_Personality : Yo.
+[15:34:30]SAY: Sarah Monique/Deathsquied : yes?
+[15:34:32]SAY: Horatio Rodrigues/Cult_of_Personality : Unlock this APC.
+[15:34:41]SAY: mouse/ : Squeek!
+[15:34:41]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[15:34:50]SAY: Sarah Monique/Deathsquied : there
+[15:34:52]SAY: Sarah Monique/Deathsquied : youll need it
+[15:35:37]SAY: Unknown/Zymechra : SCYAR NILA MECH BAY
+[15:35:44]SAY: Unknown/Zymechra : ONI`SOMA
+[15:35:45]GAME: Explosion with size (-1, 0, 2) in area Mech Bay 
+[15:35:54]SAY: Unknown/Zymechra : ONI`SOMA
+[15:35:54]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[15:36:00]SAY: Unknown/Zymechra : ONI SOMA
+[15:36:00]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[15:37:43]SAY: Pocket/Zymechra : SCYAR NILA EVA STORAGE
+[15:38:17]ADMIN: Lawligagger/(CLOWN FRIEND) healed / revived Lawligagger/(CLOWN FRIEND)
+[15:38:38]SAY: Pocket/Zymechra : ONI`SOMA
+[15:38:39]GAME: Explosion with size (-1, 0, 2) in area Cargo Office 
+[15:38:53]ADMIN: Lawligagger/(CLOWN FRIEND) jumped to Deathsquied/(Sarah Monique)
+[15:39:14]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[15:39:16]SAY: Pocket/Zymechra : SCYAR NILA TOXINS STORAGE
+[15:39:22]SAY: mouse/ : Squeek?
+[15:39:27]SAY: Horatio Rodrigues/Cult_of_Personality : Sup.
+[15:39:28]SAY: Pete/ : eh?
+[15:40:22]SAY: mouse/ : Squeek?
+[15:40:52]SAY: Runtime/ : HSSSSS
+[15:41:17]GAME: <a href='?priv_msg=[0x5000004]'>Cult_of_Personality</a>/(Horatio Rodrigues) attached a the timer to a transfer valve.
+[15:41:44]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:42:21]SAY: Sarah Monique/Deathsquied : hey
+[15:42:25]ADMIN: Lawligagger/(CLOWN FRIEND) healed / revived Lawligagger/(CLOWN FRIEND)
+[15:42:48]EMOTE: Lane Roby/taloc111 : <B>Lane Roby</B> twitches violently.
+[15:42:54]EMOTE: Lane Roby/taloc111 : <B>Lane Roby</B> twitches violently.
+[15:43:46]SAY: Runtime/ : Meow!
+[15:44:21]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:44:21]ACCESS: Login: Lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:44:37]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:44:37]ACCESS: Login: Lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:45:15]SAY: mouse/ : Squeek?
+[15:45:41]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:45:41]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:45:52]EMOTE: Lane Roby/taloc111 : <B>Lane Roby</B> giggles silently!
+[15:45:59]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:45:59]ACCESS: Login: Lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:46:10]ADMIN: Lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:46:16]ADMIN: Lawligagger/(CLOWN FRIEND) assumed direct control of CLOWN FRIEND.
+[15:46:16]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:46:16]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:46:39]SAY: Horatio Rodrigues/Cult_of_Personality : Where did everyone go?
+[15:46:40]SAY: Runtime/ : Esp!
+[15:46:44]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:46:44]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:46:46]SAY: CLOWN FRIEND/lawligagger :  honk
+[15:46:58]SAY: Horatio Rodrigues/Cult_of_Personality : Who are you?
+[15:47:16]SAY: mouse/ : Squeek?
+[15:47:20]SAY: mouse/ : Squeek!
+[15:47:36]ADMIN: lawligagger/(CLOWN FRIEND) healed / revived lawligagger/(CLOWN FRIEND)
+[15:47:49]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:47:49]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:48:10]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:48:10]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:48:30]SAY: Runtime/ : Purr!
+[15:48:32]ADMIN: lawligagger/(CLOWN FRIEND) healed / revived lawligagger/(CLOWN FRIEND)
+[15:48:38]EMOTE: Lane Roby/taloc111 : <B>Lane Roby</B> twitches violently.
+[15:49:04]ADMIN: Lawligagger/(CLOWN FRIEND) modified Clown Blaster's hitsound to sound/items/bikehorn.ogg
+[15:49:21]ADMIN: Lawligagger/(CLOWN FRIEND) modified Clown Taser's hitsound to sound/items/bikehorn.ogg
+[15:49:24]SAY: mouse/ : Squeek!
+[15:49:24]ADMIN: lawligagger/(CLOWN FRIEND) healed / revived lawligagger/(CLOWN FRIEND)
+[15:50:08]SAY: Runtime/ : Meow!
+[15:50:26]SAY: mouse/ : Squeek!
+[15:51:10]SAY: mouse/ : Squeek!
+[15:51:18]SAY: mouse/ : Squeek?
+[15:51:26]SAY: Ian/ : Woof!
+[15:51:30]SAY: Tom/ : Squeek!
+[15:51:35]SAY: Pocket/Zymechra : ONI SOMA
+[15:51:35]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:51:41]SAY: Pocket/Zymechra : ONI SOMA
+[15:51:41]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:51:42]SAY: Horatio Rodrigues/Cult_of_Personality : H-H-H-Hi-AC-CK-K-K
+[15:51:47]SAY: Pocket/Zymechra : ONI`SOMA
+[15:51:47]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:51:47]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[15:51:52]SAY: Pocket/Zymechra : ONI`SOMA
+[15:51:52]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:51:57]SAY: Pocket/Zymechra : ONI SOMA
+[15:51:58]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:52:03]SAY: Pocket/Zymechra : ONI SOMA
+[15:52:03]GAME: Explosion with size (-1, 0, 2) in area Mine 
+[15:52:10]GAME: Bomb valve opened in <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=78;Z=5'>Mining Station Port Wing</a> with the timer attacher: Horatio Rodrigues(cultofpersonality)(<A HREF='?_src_=holder;adminmoreinfo=[0x3000022]'>?</A>) Last touched by: Cult_of_Personality
+[15:52:14]SAY: Sarah Monique/Deathsquied : eee
+[15:52:16]SAY: Sarah Monique/Deathsquied : e ee
+[15:52:23]SAY: Poly/ : Check the singlo, you chucklefucks!
+[15:52:29]GAME: Bomb valve opened in <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=78;Z=5'>Mining Station Port Wing</a> with the timer attacher: Horatio Rodrigues(cultofpersonality)(<A HREF='?_src_=holder;adminmoreinfo=[0x3000022]'>?</A>) Last touched by: Cult_of_Personality
+[15:53:04]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:53:04]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:53:13]ADMIN: lawligagger/(CLOWN FRIEND) jumped to Zymechra/(HONK&#39;NATH)
+[15:53:19]ADMIN: lawligagger/(CLOWN FRIEND) jumped to taloc111/(Lane Roby)
+[15:53:33]ACCESS: Logout: Cult_of_Personality/(Horatio Rodrigues)
+[15:54:09]ACCESS: Logout: *no key*/(HONK&#39;NATH)
+[15:54:09]ACCESS: Login: Zymechra/(HONK&#39;NATH) from 24.129.9.171-2566703428 || BYOND v496
+[15:54:24]SAY: Sarah Monique/Deathsquied :  ses
+[15:54:31]SAY: mouse/ : Squeek!
+[15:54:35]SAY: Sarah Monique/Deathsquied :  horatio come to the brdige
+[15:54:36]SAY: CLOWN FRIEND/lawligagger :  no
+[15:56:04]ADMIN: lawligagger/(CLOWN FRIEND) healed / revived taloc111/(Lane Roby)
+[15:56:04]SAY: Sarah Monique/Deathsquied :  horatio to robotics
+[15:56:20]ADMIN: lawligagger/(CLOWN FRIEND) jumped to Zymechra/(HONK&#39;NATH)
+[15:56:49]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:56:49]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:56:56]ADMIN: lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:57:02]ADMIN: lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:57:05]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:57:05]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:57:09]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[15:57:11]ADMIN: lawligagger/(CLOWN FRIEND) jumped to taloc111/(Lane Roby)
+[15:57:20]ADMIN: lawligagger/(CLOWN FRIEND) jumped to Deathsquied/(Sarah Monique)
+[15:58:12]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[15:58:38]SAY: mouse/ : Squeek?
+[15:58:46]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:58:46]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:58:51]ADMIN: lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:59:07]ADMIN: lawligagger/(CLOWN FRIEND) teleported @Lawligagger/(CLOWN FRIEND)
+[15:59:11]ADMIN: lawligagger/(CLOWN FRIEND) assumed direct control of CLOWN FRIEND.
+[15:59:11]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[15:59:11]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[15:59:17]ADMIN: lawligagger/(CLOWN FRIEND) admin-called the emergency shuttle.
+[16:00:26]SAY: Pocket/Zymechra : ONI`SOMA
+[16:00:27]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[16:00:52]SAY: Pocket/Zymechra : ONI`SOMA
+[16:00:52]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[16:01:20]SAY: Pocket/Zymechra : ONI SOMA
+[16:01:20]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[16:01:36]SAY: Pocket/Zymechra : ONI`SOMA
+[16:01:36]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[16:01:40]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[16:01:40]GAME: Explosion with size (10) in area Robotics Lab 
+[16:01:45]SAY: Pocket/Zymechra : ONI`SOMA
+[16:01:45]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> seizes up and falls limp, her eyes dead and lifeless...
+[16:01:46]GAME: SQL ERROR during death reporting. Failed to connect.
+[16:01:46]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[16:01:48]ACCESS: Logout: *no key*/(CLOWN FRIEND)
+[16:01:48]ACCESS: Login: lawligagger/(CLOWN FRIEND) from 127.0.0.1-3911281500 || BYOND v496
+[16:02:03]ADMIN: lawligagger/(CLOWN FRIEND) initiated a reboot.
+[16:02:08]ACCESS: Logout: lawligagger/(CLOWN FRIEND)
+[16:02:09]ACCESS: Logout: Zymechra/(HONK&#39;NATH)
+[16:02:09]ACCESS: Logout: taloc111/(Lane Roby)
+
+
+Starting up. 16:03.15
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[16:03:15]ADMIN: Loading Banlistjob
+[16:03:15]ADMIN: Loading jobban_rank
+[16:03:15]ADMIN: jobban_keylist was empty
+[16:03:15]ADMIN: Updating jobbanfile!
+[16:03:15]ADMIN: Loading Banlist
+[16:03:33]ACCESS: Login: Onule/(Onule) from 217.129.4.86-3204230630 || BYOND v497
+[16:03:58]ACCESS: Logout: Onule/(Onule)
+[16:58:02]ACCESS: Login: TeleBison9000/(TeleBison9000) from 72.78.148.184-1217531246 || BYOND v498
+[16:58:16]ACCESS: Login: Spike2daface/(Spike2daface) from 71.162.152.189-3357886408 || BYOND v498
+[16:59:07]ACCESS: Logout: *no key*/(TeleBison9000)
+[16:59:07]ACCESS: Login: TeleBison9000/(Tele Makah) from 72.78.148.184-1217531246 || BYOND v498
+[16:59:07]ACCESS: Logout: *no key*/(Spike2daface)
+[16:59:07]ACCESS: Login: Spike2daface/(Gavin Leon) from 71.162.152.189-3357886408 || BYOND v498
+[16:59:43]SAY: mouse/ : Squeek?
+[17:00:23]ACCESS: Login: Momo1911/(Momo1911) from 71.162.152.189-1407215468 || BYOND v498
+[17:00:23]ACCESS: Notice: Momo1911/(Momo1911) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:01:08]SAY: Runtime/ : Purr!
+[17:02:26]SAY: mouse/ : Squeek?
+[17:03:16]ACCESS: Logout: *no key*/(Momo1911)
+[17:03:16]ACCESS: Login: Momo1911/(Maegan Howe) from 71.162.152.189-1407215468 || BYOND v498
+[17:03:16]ACCESS: Notice: Momo1911/(Maegan Howe) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:05:13]SAY: mouse/ : Squeek!
+[17:05:41]SAY: mouse/ : Squeek!
+[17:06:25]SAY: mouse/ : Squeek!
+[17:07:01]SAY: mouse/ : Squeek?
+[17:07:21]SAY: Ian/ : YAP
+[17:08:03]SAY: mouse/ : Squeek!
+[17:08:25]SAY: mouse/ : Squeek!
+[17:08:59]SAY: Tom/ : SQUEEK!
+[17:10:56]SAY: Ian/ : Woof!
+[17:11:46]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[17:15:14]SAY: mouse/ : SQUEEK!
+[17:16:38]SAY: Tom/ : Squeek!
+[17:17:18]EMOTE: Maegan Howe/Momo1911 : <B>Maegan Howe</B> gasps!
+[17:17:27]EMOTE: Maegan Howe/Momo1911 : <B>Maegan Howe</B> gasps!
+[17:17:35]EMOTE: Maegan Howe/Momo1911 : <B>Maegan Howe</B> gasps!
+[17:17:48]EMOTE: Maegan Howe/Momo1911 : <B>Maegan Howe</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:17:49]GAME: SQL ERROR during death reporting. Failed to connect.
+[17:18:30]ACCESS: Logout: Momo1911/(Maegan Howe)
+[17:21:34]SAY: mouse/ : Squeek!
+[17:23:34]ACCESS: Login: Momo1911/(Maegan Howe) from 71.162.152.189-1407215468 || BYOND v498
+[17:23:34]ACCESS: Notice: Momo1911/(Maegan Howe) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:24:08]ACCESS: Logout: *no key*/(Maegan Howe)
+[17:24:08]ACCESS: Login: Momo1911/(Maegan Howe) from 71.162.152.189-1407215468 || BYOND v498
+[17:24:08]ACCESS: Notice: Momo1911/(Maegan Howe) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:25:56]SAY: mouse/ : Squeek?
+[17:26:36]SAY: Tom/ : Squeek!
+[17:28:02]SAY: Runtime/ : Meow!
+[17:29:13]ACCESS: Logout: *no key*/(Maegan Howe)
+[17:29:13]ACCESS: Login: Momo1911/(Maegan Howe) from 71.162.152.189-1407215468 || BYOND v498
+[17:29:13]ACCESS: Notice: Momo1911/(Maegan Howe) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:30:54]EMOTE: Gavin Leon/Spike2daface : <B>Gavin Leon</B> gasps!
+[17:32:02]ACCESS: Logout: *no key*/(Maegan Howe)
+[17:32:02]ACCESS: Login: Momo1911/(Maegan Howe) from 71.162.152.189-1407215468 || BYOND v498
+[17:32:02]ACCESS: Notice: Momo1911/(Maegan Howe) has the same IP (71.162.152.189) as Spike2daface/(Gavin Leon).
+[17:32:22]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:33:02]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:33:42]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:33:50]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:34:22]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:34:40]ACCESS: Login: Croke32/(Croke32) from 68.47.74.83-1845786312 || BYOND v495
+[17:34:54]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:35:10]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:35:33]ACCESS: Logout: *no key*/(Croke32)
+[17:35:33]ACCESS: Login: Croke32/(Jimmy Prescott) from 68.47.74.83-1845786312 || BYOND v495
+[17:35:50]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:35:58]SAY: mouse/ : Squeek?
+[17:36:36]SAY: Tom/ : Squeek?
+[17:36:38]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:41:12]SAY: mouse/ : Squeek?
+[17:42:14]SAY: mouse/ : SQUEEK!
+[17:42:16]SAY: Poly/ : Check the singlo, you chucklefucks!
+[17:42:42]SAY: mouse/ : Squeek!
+[17:43:06]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:47:30]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:48:18]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:48:24]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:48:36]GAME: Emitter turned off by croke32(Jimmy Prescott) in (104,65,1)
+[17:48:40]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:48:46]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[17:49:30]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:49:46]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:50:10]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:50:18]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:50:40]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:50:48]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:51:10]SAY: Pete/ : EHEHEHEHEH
+[17:51:32]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:51:43]ACCESS: Login: Shankmore/(Shankmore) from 80.1.248.222-1745485734 || BYOND v498
+[17:52:20]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:05]SAY: Captain/TeleBison9000 : .2...2.2.-G-GL-L-L-LOR-RF-F
+[17:53:09]ACCESS: Logout: TeleBison9000/(Tele Makah)
+[17:53:10]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:22]SAY: Runtime/ : Purr!
+[17:53:29]ACCESS: Logout: Momo1911/(Maegan Howe)
+[17:53:30]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:32]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:34]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:44]GAME: Croke32/(Jimmy Prescott) has called the shuttle.
+[17:53:48]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:52]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:53:54]ACCESS: Logout: *no key*/(Shankmore)
+[17:53:54]ACCESS: Login: Shankmore/(Splund Berk) from 80.1.248.222-1745485734 || BYOND v498
+[17:54:16]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:54:18]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:54:34]EMOTE: Captain/TeleBison9000 : <B>Captain</B> gasps!
+[17:54:48]EMOTE: Captain/TeleBison9000 : <B>Captain</B> gasps!
+[17:54:54]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:55:08]EMOTE: Splund Berk/Shankmore : <B>Splund Berk</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:55:09]GAME: SQL ERROR during death reporting. Failed to connect.
+[17:55:16]ACCESS: Logout: *no key*/(Splund Berk)
+[17:55:16]ACCESS: Login: Shankmore/(Splund Berk) from 80.1.248.222-1745485734 || BYOND v498
+[17:55:38]SAY: Gavin Leon/Spike2daface :  SHANE
+[17:55:41]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:55:52]ACCESS: Logout: Spike2daface/(Gavin Leon)
+[17:55:53]EMOTE: Captain/TeleBison9000 : <B>Captain</B> gasps!
+[17:55:53]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:56:05]EMOTE: Captain/TeleBison9000 : <B>Captain</B> gasps!
+[17:56:11]EMOTE: Captain/TeleBison9000 : <B>Captain</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:56:12]GAME: SQL ERROR during death reporting. Failed to connect.
+[17:56:17]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:56:19]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:56:33]EMOTE: Gavin Leon/Spike2daface : <B>Gavin Leon</B> gasps!
+[17:56:37]SAY: Pete/ : EHEHEHEHEH
+[17:56:37]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:56:49]EMOTE: Gavin Leon/Spike2daface : <B>Gavin Leon</B> gasps!
+[17:56:59]EMOTE: Gavin Leon/Spike2daface : <B>Gavin Leon</B> gasps!
+[17:57:07]EMOTE: Gavin Leon/Spike2daface : <B>Gavin Leon</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:57:08]GAME: SQL ERROR during death reporting. Failed to connect.
+[17:57:10]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:57:28]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:57:32]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:57:56]SAY: mouse/ : Squeek!
+[17:58:22]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:58:26]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:58:34]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:58:40]ACCESS: Login: TeleBison9000/(Tele Makah) from 72.78.148.184-1217531246 || BYOND v498
+[17:58:47]ACCESS: Logout: TeleBison9000/(Tele Makah)
+[17:59:10]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:59:26]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:59:32]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[17:59:37]SAY: Jimmy Prescott/Croke32 : lwhat
+[17:59:39]SAY: Jimmy Prescott/Croke32 :  wot
+[17:59:52]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[17:59:54]SAY: Runtime/ : HSSSSS
+[17:59:58]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:02]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:08]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[18:00:10]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:14]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:18]ACCESS: Logout: Shankmore/(Splund Berk)
+[18:00:22]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:26]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:00:44]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[18:01:02]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[18:01:06]EMOTE: Jimmy Prescott/Croke32 : <B>Jimmy Prescott</B> gasps!
+[18:01:16]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[18:01:18]EMOTE: Unknown/Momo1911 : <B>Unknown</B> gasps!
+[18:01:19]ACCESS: Logout: *no key*/(Jimmy Prescott)
+[18:01:19]ACCESS: Login: Croke32/(Jimmy Prescott) from 68.47.74.83-1845786312 || BYOND v495
+[18:01:30]EMOTE: Unknown/Momo1911 : <B>Unknown</B> seizes up and falls limp, her eyes dead and lifeless...
+[18:01:31]GAME: SQL ERROR during death reporting. Failed to connect.
+[18:01:34]SAY: mouse/ : Squeek?
+[18:01:34]EMOTE: Jimmy Prescott/ : <B>Jimmy Prescott</B> gasps!
+[18:02:02]EMOTE: Jimmy Prescott/ : <B>Jimmy Prescott</B> gasps!
+[18:02:33]ACCESS: Logout: Croke32/(Jimmy Prescott)
+[18:16:21]EMOTE: Jimmy Prescott/ : <B>Jimmy Prescott</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:16:33]ACCESS: Login: Ars12345/(Ars12345) from 174.103.235.210-663483749 || BYOND v498
+[18:16:41]SAY: Runtime/ : Purr!
+[18:16:55]SAY: Runtime/ : Purr!
+[18:17:39]ACCESS: Logout: *no key*/(Ars12345)
+[18:17:39]ACCESS: Login: Ars12345/(Kiako Pain) from 174.103.235.210-663483749 || BYOND v498
+[18:17:49]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:18:50]ACCESS: Logout: Ars12345/(Kiako Pain)
+[20:12:06]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> gasps!
+[20:12:14]ACCESS: Login: Eelijah1232/(Eelijah1232) from 173.238.32.55-842716102 || BYOND v498
+[20:12:18]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> gasps!
+[20:12:54]ACCESS: Logout: *no key*/(Eelijah1232)
+[20:12:54]ACCESS: Login: Eelijah1232/(Colten Beach) from 173.238.32.55-842716102 || BYOND v498
+[20:13:30]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> gasps!
+[20:13:34]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> gasps!
+[20:13:44]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> gasps!
+[20:14:22]ACCESS: Logout: Eelijah1232/(Colten Beach)
+[20:46:33]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[20:46:35]EMOTE: Kiako Pain/Ars12345 : <B>Kiako Pain</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:46:36]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:46:38]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[20:46:38]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[20:46:50]ACCESS: Logout: *no key*/(Zymechra)
+[20:46:50]ACCESS: Login: Zymechra/(Bubble) from 24.129.9.171-2566703428 || BYOND v496
+[20:46:57]ACCESS: Logout: *no key*/(Deathsquied)
+[20:46:57]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:47:09]EMOTE: Colten Beach/Eelijah1232 : <B>Colten Beach</B> gasps!
+[20:47:11]ACCESS: Login: Centrox/(Centrox) from 71.165.16.21-647727097 || BYOND v496
+[20:47:19]ACCESS: Logout: *no key*/(Lawligagger)
+[20:47:19]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[20:47:20]ACCESS: Logout: *no key*/(Centrox)
+[20:47:20]ACCESS: Login: Centrox/(Paul Allen) from 71.165.16.21-647727097 || BYOND v496
+[20:47:25]EMOTE: Colten Beach/Eelijah1232 : <B>Colten Beach</B> gasps!
+[20:47:48]ACCESS: Login: Mrreff/(Mrreff) from 108.38.129.71-494845693 || BYOND v498
+[20:48:04]ACCESS: Logout: *no key*/(Mrreff)
+[20:48:04]ACCESS: Login: Mrreff/(Jaelyn Otis) from 108.38.129.71-494845693 || BYOND v498
+[20:48:15]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[20:48:23]EMOTE: Plasma Clown/Zymechra : <B>Plasma Clown</B> gasps!
+[20:48:23]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[20:48:31]EMOTE: Colten Beach/Eelijah1232 : <B>Colten Beach</B> gasps!
+[20:48:35]SAY: mouse/ : Squeek!
+[20:48:40]GAME: Explosion with size (20) in area Starboard Primary Hallway 
+[20:48:40]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:48:44]EMOTE: Colten Beach/Eelijah1232 : <B>Colten Beach</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:48:44]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:48:44]EMOTE: Plasma Clown/Zymechra : <B>Plasma Clown</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:48:44]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:48:45]ACCESS: Logout: *no key*/(John Reverend)
+[20:48:45]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[20:48:50]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:48:50]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:48:52]ADMIN: Lawligagger/(John Reverend) initiated a reboot.
+[20:48:57]ACCESS: Logout: Lawligagger/(John Reverend)
+[20:48:57]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[20:48:57]ACCESS: Logout: Zymechra/(Plasma Clown)
+[20:48:57]ACCESS: Logout: Centrox/(Paul Allen)
+[20:48:57]ACCESS: Logout: Mrreff/(Jaelyn Otis)
+
+
+Starting up. 20:50.19
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[20:50:20]ADMIN: Loading Banlistjob
+[20:50:20]ADMIN: Loading jobban_rank
+[20:50:20]ADMIN: jobban_keylist was empty
+[20:50:20]ADMIN: Updating jobbanfile!
+[20:50:20]ADMIN: Loading Banlist
+[20:50:34]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[20:50:37]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[20:51:14]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[20:52:07]ACCESS: Login: Centrox/(Centrox) from 71.165.16.21-647727097 || BYOND v496
+[20:52:15]ACCESS: Logout: *no key*/(Deathsquied)
+[20:52:15]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:52:15]ACCESS: Logout: *no key*/(Zymechra)
+[20:52:15]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[20:52:15]ACCESS: Logout: *no key*/(Lawligagger)
+[20:52:15]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[20:52:16]ACCESS: Logout: *no key*/(John Reverend)
+[20:52:16]ACCESS: Login: Lawligagger/(Default Cyborg-499) from 127.0.0.1-3911281500 || BYOND v496
+[20:52:23]ACCESS: Logout: *no key*/(Centrox)
+[20:52:23]ACCESS: Login: Centrox/(Paul Allen) from 71.165.16.21-647727097 || BYOND v496
+[20:53:36]ACCESS: Login: Mrreff/(Mrreff) from 108.38.129.71-494845693 || BYOND v498
+[20:53:54]ACCESS: Logout: *no key*/(Mrreff)
+[20:53:54]ACCESS: Login: Mrreff/(Tristan Lowe) from 108.38.129.71-494845693 || BYOND v498
+[20:55:44]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:56:10]ACCESS: Login: Taloc111/(Taloc111) from 97.86.243.188-661754653 || BYOND v498
+[20:56:29]ACCESS: Logout: *no key*/(Taloc111)
+[20:56:29]ACCESS: Login: Taloc111/(Flop O'Honker) from 97.86.243.188-661754653 || BYOND v498
+[20:57:02]ADMIN: Lawligagger/(Service Cyborg-499) healed / revived Lawligagger/(Service Cyborg-499)
+[20:57:32]SAY: mouse/ : Squeek!
+[20:59:22]SAY: Pete/ : eh?
+[20:59:28]GAME: Zymechra/(Manny Quiles) emagged the Holodeck Control Console
+[20:59:56]SAY: mouse/ : Squeek!
+[21:00:26]SAY: mouse/ : Squeek!
+[21:00:34]SAY: mouse/ : Squeek!
+[21:00:36]EMOTE: Tristan Lowe/Mrreff : <B>Tristan Lowe</B> gasps!
+[21:00:40]EMOTE: Tristan Lowe/Mrreff : <B>Tristan Lowe</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:00:41]GAME: SQL ERROR during death reporting. Failed to connect.
+[21:00:48]ACCESS: Logout: *no key*/(Tristan Lowe)
+[21:00:48]ACCESS: Login: Mrreff/(Tristan Lowe) from 108.38.129.71-494845693 || BYOND v498
+[21:03:28]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[21:03:55]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:03:59]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:01]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:13]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:15]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:19]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> screams!
+[21:04:23]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> screams!
+[21:04:27]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:29]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:39]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[21:04:41]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> seizes up and falls limp, her eyes dead and lifeless...
+[21:04:42]GAME: SQL ERROR during death reporting. Failed to connect.
+[21:05:14]EMOTE: Clownian/Taloc111 : <B>Clownian</B> gasps!
+[21:05:22]EMOTE: Clownian/Taloc111 : <B>Clownian</B> gasps!
+[21:05:35]ACCESS: Logout: *no key*/(Tristan Lowe)
+[21:05:35]ACCESS: Login: Mrreff/(Tristan Lowe) from 108.38.129.71-494845693 || BYOND v498
+[21:05:36]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:05:53]ACCESS: Logout: *no key*/(Tristan Lowe)
+[21:05:53]ACCESS: Login: Mrreff/(Tristan Lowe) from 108.38.129.71-494845693 || BYOND v498
+[21:06:24]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[21:06:46]EMOTE: Unknown/Mrreff : <B>Unknown</B> gasps!
+[21:06:56]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[21:07:14]GAME: Centrox/(Paul Allen) triggered a fueltank explosion.
+[21:07:14]GAME: Explosion with size (-1, 0, 2) in area Bar Maintenance 
+[21:07:15]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[21:07:18]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:07:24]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:07:26]EMOTE: Unknown/Mrreff : <B>Unknown</B> gasps!
+[21:07:48]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[21:08:00]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:08:09]GAME: <a href='?priv_msg=[0x5000003]'>Centrox</a>/(Paul Allen) detonated Service Cyborg-499!
+[21:08:10]ACCESS: Logout: *no key*/(Service Cyborg-499)
+[21:08:10]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:08:14]ACCESS: Logout: *no key*/(John Reverend)
+[21:08:14]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:08:34]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:08:38]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:08:42]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[21:09:04]ADMIN: Lawligagger/(John Reverend) has possessed Man-Machine Interface: John Reverend (/obj/item/device/mmi) at (116, 144, 1)
+[21:09:38]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:09:39]GAME: SQL ERROR during death reporting. Failed to connect.
+[21:10:04]PRAY: Zymechra/(Manny Quiles): Make my body explode violently.
+[21:10:29]ACCESS: Logout: *no key*/(Manny Quiles)
+[21:10:29]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[21:10:43]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[21:10:43]ADMIN: Taloc111/(Clownian) attempted to edit the admin permissions without sufficient rights.
+[21:10:45]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[21:10:53]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[21:10:57]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[21:11:01]ADMIN: Lawligagger/(John Reverend) jumped to Deathsquied/(Sarah Monique)
+[21:11:28]ADMIN: <a href='?priv_msg=[0x5000000]'>Lawligagger</a>/(John Reverend) has wizard'ed Unknown.
+[21:11:39]SAY: Tom/ : SQUEEK!
+[21:11:42]ADMIN: <a href='?priv_msg=[0x5000000]'>Lawligagger</a>/(John Reverend) has traitor'ed John Reverend.
+[21:11:42]ADMIN: <a href='?priv_msg=[0x5000000]'>Lawligagger</a>/(John Reverend) has de-traitor'ed John Reverend.
+[21:11:48]ACCESS: Logout: *no key*/(John Reverend)
+[21:11:48]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:12:11]ACCESS: Logout: *no key*/(Sarah Monique)
+[21:12:11]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[21:12:16]ADMIN: <a href='?priv_msg=[0x5000000]'>Lawligagger</a>/(John Reverend) has wizard'ed John Reverend.
+[21:12:31]ADMIN: Lawligagger/(SMUG NIGGER) healed / revived Zymechra/(Honk&#39;Nath)
+[21:12:39]ADMIN: <a href='?priv_msg=[0x5000000]'>Lawligagger</a>/(SMUG NIGGER) has wizard'ed Sarah Monique.
+[21:12:48]ADMIN: Lawligagger/(SMUG NIGGER) healed / revived *no key*/(Houdini Shado)
+[21:12:58]ADMIN: Lawligagger/(SMUG NIGGER) deleted Sarah Monique at (106,80,2)
+[21:13:05]ACCESS: Logout: *no key*/(Sarah Monique)
+[21:13:05]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[21:13:37]SAY: Sarah Monique/Deathsquied : lawli
+[21:13:41]SAY: Sarah Monique/Deathsquied : Do you want to get on ts3?
+[21:14:05]EMOTE: Clownian/Taloc111 : <B>Clownian</B> snores.
+[21:14:25]SAY: SMUG NIGGER/Lawligagger : KN&#39;A FTAGHU, PUCK &#39;BTHNK!
+[21:14:48]SAY: SMUG NIGGER/Lawligagger : KN&#39;A`FTAGHU,`PUCK`&#39;BTHNK!
+[21:15:19]SAY: mouse/ : SQUEEK!
+[21:15:30]SAY: SMUG NIGGER/Lawligagger : BIRUZ BENNAR
+[21:15:36]SAY: Sarah Monique/Deathsquied : HAAAWWW!
+[21:15:37]SAY: Tristan Lowe/Mrreff : hi
+[21:15:48]ACCESS: Logout: *no key*/(Clownian)
+[21:15:48]ACCESS: Login: Taloc111/(Default Cyborg-49) from 97.86.243.188-661754653 || BYOND v498
+[21:15:54]ACCESS: Logout: *no key*/(Default Cyborg-49)
+[21:15:54]ACCESS: Login: Taloc111/(alien hunter (810)) from 97.86.243.188-661754653 || BYOND v498
+[21:15:55]SAY: Sarah Monique/Deathsquied : HAAAWWW!
+[21:15:55]GAME: Explosion with size (-1, 0, 2) in area Armory 
+[21:16:01]SAY: Sarah Monique/Deathsquied : HAAAWWW!
+[21:16:01]GAME: Explosion with size (-1, 0, 2) in area Armory 
+[21:16:07]SAY: Sarah Monique/Deathsquied : HAAAWWW!
+[21:16:07]GAME: Explosion with size (-1, 0, 2) in area Armory 
+[21:16:15]SAY: Sarah Monique/Deathsquied : NEEIIGGGHHHH!
+[21:16:15]GAME: Explosion with size (-1, 0, 2) in area Armory 
+[21:16:23]ACCESS: Logout: *no key*/(Tristan Lowe)
+[21:16:23]ACCESS: Login: Mrreff/(Brett Best) from 108.38.129.71-494845693 || BYOND v498
+[21:16:23]SAY: SMUG NIGGER/Lawligagger : BIRUZ`BENNAR
+[21:16:24]SAY: Sarah Monique/Deathsquied : NEEIIGGGHHHH!
+[21:16:24]GAME: Explosion with size (-1, 0, 2) in area Armory 
+[21:16:31]ACCESS: Logout: *no key*/(Brett Best)
+[21:16:31]ACCESS: Login: Mrreff/(alien hunter (157)) from 108.38.129.71-494845693 || BYOND v498
+[21:16:34]ACCESS: Logout: *no key*/(alien hunter (157))
+[21:16:34]ACCESS: Login: Mrreff/(alien sentinel (169)) from 108.38.129.71-494845693 || BYOND v498
+[21:16:44]ACCESS: Logout: *no key*/(alien sentinel (169))
+[21:16:44]ACCESS: Login: Mrreff/(grey baby slime (214)) from 108.38.129.71-494845693 || BYOND v498
+[21:16:46]ACCESS: Logout: *no key*/(grey baby slime (214))
+[21:16:46]ACCESS: Login: Mrreff/(Default Cyborg-278) from 108.38.129.71-494845693 || BYOND v498
+[21:16:54]WHISPER: Sarah Monique/Deathsquied : AULIE`OXIN`FIERA
+[21:17:00]ACCESS: Logout: *no key*/(Security Cyborg-278)
+[21:17:00]ACCESS: Login: Mrreff/(grey baby slime (675)) from 108.38.129.71-494845693 || BYOND v498
+[21:17:12]ACCESS: Logout: *no key*/(grey baby slime (675))
+[21:17:12]ACCESS: Login: Mrreff/(alien sentinel (165)) from 108.38.129.71-494845693 || BYOND v498
+[21:17:14]ACCESS: Logout: *no key*/(alien sentinel (165))
+[21:17:14]ACCESS: Login: Mrreff/(Default Cyborg-49) from 108.38.129.71-494845693 || BYOND v498
+[21:17:16]SAY: SMUG NIGGER/Lawligagger : BIRUZ`BENNAR
+[21:17:29]ACCESS: Logout: *no key*/(Default Cyborg-49)
+[21:17:29]ACCESS: Login: Mrreff/(grey baby slime (327)) from 108.38.129.71-494845693 || BYOND v498
+[21:17:30]ACCESS: Logout: *no key*/(grey baby slime (327))
+[21:17:30]ACCESS: Login: Mrreff/(Default Cyborg-370) from 108.38.129.71-494845693 || BYOND v498
+[21:17:44]WHISPER: Sarah Monique/Deathsquied : AULIE`OXIN`FIERA
+[21:17:49]SAY: SMUG NIGGER/Lawligagger : FORTI`GY`AMA
+[21:17:49]ACCESS: Logout: *no key*/(Default Cyborg-370)
+[21:17:49]ACCESS: Login: Mrreff/(Default Cyborg-455) from 108.38.129.71-494845693 || BYOND v498
+[21:17:58]WHISPER: Sarah Monique/Deathsquied : AULIE`OXIN`FIERA
+[21:17:58]ACCESS: Logout: *no key*/(Default Cyborg-455)
+[21:17:58]ACCESS: Login: Mrreff/(Zelda Murray) from 108.38.129.71-494845693 || BYOND v498
+[21:18:26]SAY: SMUG NIGGER/Lawligagger : BIRUZ BENNAR
+[21:18:30]ACCESS: Logout: *no key*/(Sarah Monique)
+[21:18:30]ACCESS: Login: Deathsquied/(Default Cyborg-858) from 96.255.155.85-924558899 || BYOND v498
+[21:18:36]SAY: SMUG NIGGER/Lawligagger : FORTI GY AMA!!
+[21:19:11]ACCESS: Logout: *no key*/(Honk&#39;Nath)
+[21:19:11]ACCESS: Login: Zymechra/(monkey (512)) from 24.129.9.171-2566703428 || BYOND v496
+[21:19:15]ACCESS: Logout: *no key*/(monkey (512))
+[21:19:15]ACCESS: Login: Zymechra/(grey baby slime (279)) from 24.129.9.171-2566703428 || BYOND v496
+[21:19:17]ACCESS: Logout: *no key*/(grey baby slime (279))
+[21:19:17]ACCESS: Login: Zymechra/(Damien Lineman) from 24.129.9.171-2566703428 || BYOND v496
+[21:19:21]ACCESS: Logout: *no key*/(Default Cyborg-858)
+[21:19:21]ACCESS: Login: Deathsquied/(grey baby slime (954)) from 96.255.155.85-924558899 || BYOND v498
+[21:19:25]ACCESS: Logout: *no key*/(grey baby slime (954))
+[21:19:25]ACCESS: Login: Deathsquied/(Khloe Houston) from 96.255.155.85-924558899 || BYOND v498
+[21:19:29]ACCESS: Logout: *no key*/(Khloe Houston)
+[21:19:29]ACCESS: Login: Deathsquied/(grey baby slime (708)) from 96.255.155.85-924558899 || BYOND v498
+[21:19:31]ACCESS: Logout: *no key*/(grey baby slime (708))
+[21:19:31]ACCESS: Login: Deathsquied/(monkey (969)) from 96.255.155.85-924558899 || BYOND v498
+[21:19:47]SAY: SMUG NIGGER/Lawligagger : BIRUZ BENNAR
+[21:19:54]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:20:02]SAY: SMUG NIGGER/Lawligagger : KN&#39;A FTAGHU, PUCK &#39;BTHNK!!!
+[21:20:08]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:20:10]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:20:18]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:20:19]ACCESS: Logout: *no key*/(Damien Lineman)
+[21:20:19]ACCESS: Login: Zymechra/(Default Cyborg-419) from 24.129.9.171-2566703428 || BYOND v496
+[21:20:48]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:21:07]ACCESS: Logout: *no key*/(Default Cyborg-419)
+[21:21:07]ACCESS: Login: Zymechra/(grey baby slime (954)) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:09]ACCESS: Logout: *no key*/(grey baby slime (954))
+[21:21:09]ACCESS: Login: Zymechra/(Default Cyborg-671) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:09]ACCESS: Logout: *no key*/(Default Cyborg-671)
+[21:21:09]ACCESS: Login: Zymechra/(alien sentinel (126)) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:10]ACCESS: Logout: *no key*/(alien sentinel (126))
+[21:21:10]ACCESS: Login: Zymechra/(monkey (93)) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:16]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:21:22]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:21:24]SAY: monkey (93)/Zymechra : ONI`SOMA
+[21:21:24]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:21:26]ACCESS: Logout: *no key*/(monkey (93))
+[21:21:26]ACCESS: Login: Zymechra/(monkey (14)) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:26]SAY: Unknown/Lawligagger : BIRUZ`BENNAR
+[21:21:33]ACCESS: Logout: *no key*/(monkey (14))
+[21:21:33]ACCESS: Login: Zymechra/(Default Cyborg-169) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:36]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:21:38]SAY: Default Cyborg-169/Zymechra : ONI`SOMA
+[21:21:38]ACCESS: Logout: *no key*/(Default Cyborg-169)
+[21:21:38]ACCESS: Login: Zymechra/(Enrique Unk) from 24.129.9.171-2566703428 || BYOND v496
+[21:21:38]GAME: Explosion with size (-1, 0, 2) in area Medbay 
+[21:21:38]SAY: mouse/ : Squeek?
+[21:21:44]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:21:47]SAY: Enrique Unk/Zymechra : ONI ssOMA
+[21:21:47]GAME: Explosion with size (-1, 0, 2) in area Central Primary Hallway 
+[21:21:49]SAY: Unknown/Lawligagger : FORTI`GY`AMA!!
+[21:21:54]SAY: Unknown/Lawligagger : KN&#39;A`FTAGHU,`PUCK`&#39;BTHNK!!!
+[21:22:02]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:22:06]ACCESS: Logout: *no key*/(Enrique Unk)
+[21:22:06]ACCESS: Login: Zymechra/(alien sentinel (98)) from 24.129.9.171-2566703428 || BYOND v496
+[21:22:08]ACCESS: Logout: *no key*/(alien sentinel (98))
+[21:22:08]ACCESS: Login: Zymechra/(Default Cyborg-116) from 24.129.9.171-2566703428 || BYOND v496
+[21:22:09]ACCESS: Logout: *no key*/(Default Cyborg-116)
+[21:22:09]ACCESS: Login: Zymechra/(Alijah Sanders) from 24.129.9.171-2566703428 || BYOND v496
+[21:22:14]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:22:20]SAY: Pete/ : eh?
+[21:22:32]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> gasps!
+[21:22:56]EMOTE: Zelda Murray/Mrreff : <B>Zelda Murray</B> seizes up and falls limp, her eyes dead and lifeless...
+[21:22:57]GAME: SQL ERROR during death reporting. Failed to connect.
+[21:23:00]ACCESS: Logout: *no key*/(monkey (969))
+[21:23:00]ACCESS: Login: Deathsquied/(Default Cyborg-907) from 96.255.155.85-924558899 || BYOND v498
+[21:23:01]GAME: Emitter turned off by taloc111(the alien hunter (810)) in (104,65,1)
+[21:23:14]ACCESS: Logout: *no key*/(Default Cyborg-907)
+[21:23:14]ACCESS: Login: Deathsquied/(David Ivanov) from 96.255.155.85-924558899 || BYOND v498
+[21:23:17]SAY: Ian/ : Woof!
+[21:23:21]SAY: Unknown/Lawligagger : BIRUZ`BENNAR
+[21:23:23]ACCESS: Logout: *no key*/(David Ivanov)
+[21:23:23]ACCESS: Login: Deathsquied/(Default Cyborg-326) from 96.255.155.85-924558899 || BYOND v498
+[21:23:24]ACCESS: Logout: *no key*/(Default Cyborg-326)
+[21:23:24]ACCESS: Login: Deathsquied/(grey baby slime (108)) from 96.255.155.85-924558899 || BYOND v498
+[21:23:25]ACCESS: Logout: *no key*/(grey baby slime (108))
+[21:23:25]ACCESS: Login: Deathsquied/(Default Cyborg-243) from 96.255.155.85-924558899 || BYOND v498
+[21:23:25]ACCESS: Logout: *no key*/(Default Cyborg-243)
+[21:23:25]ACCESS: Login: Deathsquied/(monkey (683)) from 96.255.155.85-924558899 || BYOND v498
+[21:23:26]ACCESS: Logout: *no key*/(monkey (683))
+[21:23:26]ACCESS: Login: Deathsquied/(Santiago James) from 96.255.155.85-924558899 || BYOND v498
+[21:23:54]ACCESS: Logout: *no key*/(Santiago James)
+[21:23:54]ACCESS: Login: Deathsquied/(monkey (484)) from 96.255.155.85-924558899 || BYOND v498
+[21:24:29]SAY: mouse/ : Squeek?
+[21:24:33]ACCESS: Logout: *no key*/(monkey (484))
+[21:24:33]ACCESS: Login: Deathsquied/(monkey (129)) from 96.255.155.85-924558899 || BYOND v498
+[21:24:34]ACCESS: Logout: *no key*/(monkey (129))
+[21:24:34]ACCESS: Login: Deathsquied/(monkey (156)) from 96.255.155.85-924558899 || BYOND v498
+[21:24:35]ACCESS: Logout: *no key*/(monkey (156))
+[21:24:35]ACCESS: Login: Deathsquied/(Default Cyborg-580) from 96.255.155.85-924558899 || BYOND v498
+[21:24:36]ACCESS: Logout: *no key*/(Default Cyborg-580)
+[21:24:36]ACCESS: Login: Deathsquied/(alien hunter (973)) from 96.255.155.85-924558899 || BYOND v498
+[21:24:38]ACCESS: Logout: *no key*/(alien hunter (973))
+[21:24:38]ACCESS: Login: Deathsquied/(alien hunter (726)) from 96.255.155.85-924558899 || BYOND v498
+[21:24:41]SAY: Unknown/Lawligagger : BIRUZ BENNAR
+[21:24:57]ACCESS: Logout: *no key*/(SMUG NIGGER)
+[21:24:57]ACCESS: Login: Lawligagger/(Default Cyborg-586) from 127.0.0.1-3911281500 || BYOND v496
+[21:25:04]ACCESS: Logout: *no key*/(Security Cyborg-586)
+[21:25:04]ACCESS: Login: Lawligagger/(monkey (919)) from 127.0.0.1-3911281500 || BYOND v496
+[21:25:11]ACCESS: Logout: Deathsquied/(alien hunter (726))
+[21:25:24]ACCESS: Logout: *no key*/(Alijah Sanders)
+[21:25:24]ACCESS: Login: Zymechra/(alien sentinel (69)) from 24.129.9.171-2566703428 || BYOND v496
+[21:25:28]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:25:28]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:25:36]ACCESS: Logout: *no key*/(Zelda Murray)
+[21:25:36]ACCESS: Login: Mrreff/(Tristan Lowe) from 108.38.129.71-494845693 || BYOND v498
+[21:25:37]SAY: mouse/ : Squeek?
+[21:25:47]ADMIN: HELP: Mrreff/(Tristan Lowe): they killed me - heard by 2 non-AFK admins.
+[21:25:51]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:25:53]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:03]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:26:04]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:09]SAY: alien sentinel (69)/Zymechra : ONI SOMA
+[21:26:10]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:14]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:26:16]SAY: Ghost/Mrreff : \
+[21:26:18]GAME: Explosion with size (-1, 0, 2) in area Central Primary Hallway 
+[21:26:23]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:26:23]EMOTE: Paul Allen/Centrox : <B>Paul Allen</B> gasps!
+[21:26:23]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:25]SAY: mouse/ : Squeek!
+[21:26:25]SAY: Runtime/ : HSSSSS
+[21:26:25]EMOTE: Paul Allen/Centrox : <B>Paul Allen</B> gasps!
+[21:26:31]SAY: alien sentinel (69)/Zymechra : ONI SOMA
+[21:26:32]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:35]EMOTE: Paul Allen/Centrox : <B>Paul Allen</B> gasps!
+[21:26:37]SAY: alien sentinel (69)/Zymechra : ONI SOMA
+[21:26:37]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:44]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:26:44]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:50]SAY: alien sentinel (69)/Zymechra : ONI`SOMA
+[21:26:50]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:26:52]ACCESS: Logout: *no key*/(monkey (919))
+[21:26:52]ACCESS: Login: Lawligagger/(SMUG NIGGER) from 127.0.0.1-3911281500 || BYOND v496
+[21:26:57]ADMIN: Lawligagger/(SMUG NIGGER) healed / revived Centrox/(Paul Allen)
+[21:27:19]ACCESS: Logout: *no key*/(alien sentinel (69))
+[21:27:19]ACCESS: Login: Zymechra/(Default Cyborg-897) from 24.129.9.171-2566703428 || BYOND v496
+[21:27:25]SAY: Default Cyborg-897/Zymechra : ONI`SOMA
+[21:27:25]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:27:29]ACCESS: Logout: *no key*/(alien hunter (810))
+[21:27:29]ACCESS: Login: Taloc111/(grey baby slime (545)) from 97.86.243.188-661754653 || BYOND v498
+[21:27:30]ACCESS: Logout: *no key*/(grey baby slime (545))
+[21:27:30]ACCESS: Login: Taloc111/(Default Cyborg-926) from 97.86.243.188-661754653 || BYOND v498
+[21:27:39]SAY: Default Cyborg-897/Zymechra : ONI SOMA
+[21:27:39]GAME: Explosion with size (-1, 0, 2) in area Hydroponics 
+[21:27:56]ADMIN: Lawligagger/(SMUG NIGGER) has possessed Man-Machine Interface: John Reverend (/obj/item/device/mmi) at (160, 134, 1)
+[21:29:06]ACCESS: Logout: *no key*/(Janitor Cyborg-897)
+[21:29:06]ACCESS: Login: Zymechra/(Rylie Watson) from 24.129.9.171-2566703428 || BYOND v496
+[21:29:09]ACCESS: Login: Yolocooey/(Yolocooey) from 50.64.56.63-4040369764 || BYOND v496
+[21:29:37]ADMIN: Lawligagger/(Man-Machine Interface: John Reverend) created a /mob/living/simple_animal/hostile/faithless
+[21:29:41]ADMIN: Lawligagger/(Man-Machine Interface: John Reverend) assumed direct control of Faithless.
+[21:29:41]ACCESS: Logout: *no key*/(Man-Machine Interface: John Reverend)
+[21:29:41]ACCESS: Login: lawligagger/(Faithless) from 127.0.0.1-3911281500 || BYOND v496
+[21:29:44]ACCESS: Logout: *no key*/(Security Cyborg-926)
+[21:29:44]ACCESS: Login: Taloc111/(Nova Clarke) from 97.86.243.188-661754653 || BYOND v498
+[21:30:08]ACCESS: Logout: *no key*/(Yolocooey)
+[21:30:08]ACCESS: Login: Yolocooey/(Some Old Guy) from 50.64.56.63-4040369764 || BYOND v496
+[21:30:20]SAY: Unknown/Zymechra : ONI`SOMA
+[21:30:20]GAME: Explosion with size (-1, 0, 2) in area Starboard Primary Hallway 
+[21:30:20]ADMIN: lawligagger/(Faithless) created a /mob/living/simple_animal/hostile/faithless
+[21:30:41]SAY: Runtime/ : HSSSSS
+[21:30:56]ACCESS: Logout: Zymechra/(Rylie Watson)
+[21:30:59]EMOTE: Unknown/Zymechra : <B>Unknown</B> gasps!
+[21:30:59]EMOTE: Nova Clarke/Taloc111 : <B>Nova Clarke</B> gasps!
+[21:31:02]ACCESS: Logout: lawligagger/(Faithless)
+[21:31:08]ACCESS: Logout: Yolocooey/(Some Old Guy)
+[21:31:08]ACCESS: Logout: Centrox/(Paul Allen)
+[21:31:08]ACCESS: Logout: Mrreff/(Tristan Lowe)
+[21:31:08]ACCESS: Logout: Taloc111/(Nova Clarke)
+
+
+Starting up. 21:32.10
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[21:32:11]ADMIN: Loading Banlistjob
+[21:32:11]ADMIN: Loading jobban_rank
+[21:32:11]ADMIN: jobban_keylist was empty
+[21:32:11]ADMIN: Updating jobbanfile!
+[21:32:11]ADMIN: Loading Banlist
+[21:32:19]ACCESS: Login: Centrox/(Centrox) from 71.165.16.21-647727097 || BYOND v496
+[21:32:55]ACCESS: Logout: Centrox/(Centrox)
+[22:45:54]ACCESS: Login: MrTiddleWinkerThe4th/(MrTiddleWinkerThe4th) from 69.117.87.10-815645392 || BYOND v498
+[22:46:01]ACCESS: Logout: MrTiddleWinkerThe4th/(MrTiddleWinkerThe4th)
+[23:59:23]ACCESS: Login: _jesterk/(_jesterk) from 99.253.38.212-504258632 || BYOND v498
+[00:03:12]ACCESS: Logout: _jesterk/(_jesterk)
+[00:40:03]ACCESS: Login: UndeadChili/(UndeadChili) from 72.188.65.15-532902997 || BYOND v498
+[00:42:38]ACCESS: Logout: *no key*/(UndeadChili)
+[00:42:38]ACCESS: Login: UndeadChili/(Deangelo Raub) from 72.188.65.15-532902997 || BYOND v498
+[00:43:21]SAY: Tom/ : Squeek!
+[00:44:23]SAY: mouse/ : Squeek?
+[00:44:57]SAY: mouse/ : Squeek?
+[00:46:19]SAY: Tom/ : Squeek!
+[00:46:33]SAY: mouse/ : SQUEEK!
+[00:52:27]SAY: mouse/ : Squeek!
+[00:52:53]SAY: Ian/ : Woof!
+[00:54:09]SAY: Pete/ : EHEHEHEHEH
+[00:54:39]SAY: mouse/ : Squeek?
+[00:55:41]SAY: Pete/ : eh?
+[00:57:11]SAY: mouse/ : SQUEEK!
+[00:57:13]SAY: mouse/ : Squeek!
+[00:57:33]SAY: mouse/ : Squeek!
+[00:57:47]SAY: Runtime/ : HSSSSS
+[00:58:07]SAY: mouse/ : Squeek!
+[00:58:19]SAY: Tom/ : Squeek?
+[00:58:29]SAY: mouse/ : SQUEEK!
+[01:00:49]SAY: mouse/ : Squeek!
+[01:01:37]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[01:04:49]SAY: mouse/ : SQUEEK!
+[01:05:13]SAY: mouse/ : Squeek?
+[01:06:37]SAY: mouse/ : Squeek?
+[01:07:59]SAY: mouse/ : SQUEEK!
+[01:09:37]ACCESS: Logout: UndeadChili/(Deangelo Raub)
+[01:09:54]ACCESS: Login: UndeadChili/(Deangelo Raub) from 72.188.65.15-532902997 || BYOND v498
+[01:10:21]ACCESS: Logout: UndeadChili/(Deangelo Raub)
+[01:13:48]ACCESS: Login: UndeadChili/(Deangelo Raub) from 72.188.65.15-532902997 || BYOND v498
+[01:15:10]SAY: Tom/ : Squeek?
+[01:17:00]SAY: mouse/ : Squeek?
+[01:19:06]SAY: mouse/ : SQUEEK!
+[01:19:42]SAY: Runtime/ : Esp!
+[01:20:42]SAY: Runtime/ : HSSSSS
+[01:20:44]SAY: mouse/ : SQUEEK!
+[01:20:46]SAY: Ian/ : YAP
+[01:20:56]SAY: Runtime/ : Meow!
+[01:21:18]SAY: mouse/ : Squeek?
+[01:22:24]SAY: Pete/ : EHEHEHEHEH
+[01:22:28]SAY: mouse/ : Squeek!
+[01:22:50]SAY: mouse/ : Squeek!
+[01:23:14]SAY: mouse/ : Squeek!
+[01:23:54]SAY: Pete/ : EHEHEHEHEH
+[01:24:46]SAY: Ian/ : Woof!
+[01:24:55]ACCESS: Logout: *no key*/(Deangelo Raub)
+[01:24:55]ACCESS: Login: UndeadChili/(Deangelo Raub) from 72.188.65.15-532902997 || BYOND v498
+[01:26:08]SAY: mouse/ : Squeek!
+[01:27:00]SAY: Poly/ : Wire the solars, you lazy bums!
+[01:28:45]ACCESS: Logout: UndeadChili/(Deangelo Raub)
+[04:49:12]ACCESS: Login: VDronV/(VDronV) from 89.189.103.161-2456255068 || BYOND v498
+[04:50:00]SAY: Poly/ : Check the singlo, you chucklefucks!
+[04:50:40]SAY: mouse/ : Squeek?
+[04:51:32]SAY: mouse/ : SQUEEK!
+[04:51:39]SAY: Runtime/ : Purr!
+[04:52:35]ACCESS: Logout: *no key*/(VDronV)
+[04:52:35]ACCESS: Login: VDronV/(Griffin Wolfe) from 89.189.103.161-2456255068 || BYOND v498
+[04:53:13]SAY: mouse/ : Squeek!
+[04:58:09]SAY: Runtime/ : Meow!
+[04:58:15]SAY: mouse/ : SQUEEK!
+[04:59:40]SAY: Runtime/ : HSSSSS
+[05:00:16]SAY: mouse/ : SQUEEK!
+[05:00:46]SAY: Tom/ : Squeek?
+[05:00:58]SAY: Runtime/ : HSSSSS
+[05:01:14]SAY: Ian/ : AUUUUUU
+[05:01:55]SAY: mouse/ : SQUEEK!
+[05:02:47]SAY: Pete/ : eh?
+[05:03:54]SAY: mouse/ : Squeek?
+[05:03:59]ACCESS: Logout: VDronV/(Griffin Wolfe)
+[06:29:49]ACCESS: Login: CrashMSO/(CrashMSO) from 86.170.216.2-3696752765 || BYOND v498
+[06:30:10]ACCESS: Logout: *no key*/(CrashMSO)
+[06:30:10]ACCESS: Login: CrashMSO/(Claudia Merryman) from 86.170.216.2-3696752765 || BYOND v498
+[06:30:46]SAY: Pete/ : EHEHEHEHEH
+[06:31:08]SAY: Tom/ : Squeek!
+[06:31:12]SAY: mouse/ : Squeek!
+[06:31:29]OOC: Claudia Merryman/CrashMSO : Anyone here?
+[06:31:34]SAY: Poly/ : Poly wanna cracker!
+[06:32:24]SAY: Poly/ : Wire the solars, you lazy bums!
+[06:34:05]SAY: mouse/ : Squeek?
+[06:36:12]SAY: Tom/ : Squeek?
+[06:36:46]SAY: Claudia Merryman/CrashMSO : ???
+[06:37:26]SAY: Claudia Merryman/CrashMSO :  What&#39;s up with the lights?
+[06:37:29]ACCESS: Logout: CrashMSO/(Claudia Merryman)
+[07:49:20]ACCESS: Login: Muddeh/(Muddeh) from 81.236.10.245-1730327029 || BYOND v498
+[07:50:01]ACCESS: Logout: *no key*/(Muddeh)
+[07:50:01]ACCESS: Login: Muddeh/(Vaas Montenegro) from 81.236.10.245-1730327029 || BYOND v498
+[07:51:35]ACCESS: Logout: Muddeh/(Vaas Montenegro)
+[08:25:04]ACCESS: Login: Cameron David/(Cameron David) from 86.165.185.106-3473817824 || BYOND v498
+[08:25:40]ACCESS: Logout: *no key*/(Cameron David)
+[08:25:40]ACCESS: Login: Cameron David/(Cameron David) from 86.165.185.106-3473817824 || BYOND v498
+[08:26:00]SAY: Cameron David/Cameron David : POWER PLEASE
+[08:27:56]SAY: Ian/ : YAP
+[08:29:08]SAY: mouse/ : SQUEEK!
+[08:33:39]SAY: mouse/ : SQUEEK!
+[08:34:08]SAY: mouse/ : Squeek!
+[08:35:04]SAY: Ian/ : Bark!
+[08:35:46]SAY: Pete/ : eh?
+[08:36:52]SAY: Poly/ : Check the singlo, you chucklefucks!
+[08:37:21]SAY: mouse/ : Squeek?
+[08:37:25]SAY: Runtime/ : HSSSSS
+[08:42:31]SAY: mouse/ : Squeek!
+[08:43:27]SAY: mouse/ : Squeek?
+[08:46:44]SAY: mouse/ : Squeek?
+[08:54:11]SAY: Tom/ : Squeek!
+[08:54:32]SAY: Ian/ : Bark!
+[08:54:50]SAY: mouse/ : SQUEEK!
+[08:55:14]SAY: mouse/ : Squeek!
+[08:59:01]SAY: mouse/ : Squeek?
+[08:59:47]SAY: mouse/ : SQUEEK!
+[09:01:39]SAY: Ian/ : Woof!
+[09:01:47]SAY: mouse/ : Squeek!
+[09:01:52]ACCESS: Logout: Cameron David/(Cameron David)
+[14:07:08]ACCESS: Failed Login: Guest-2597210937 - Guests not allowed
+[15:10:24]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[15:10:40]ACCESS: Logout: Zymechra/(Zymechra)
+[15:10:44]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[15:10:52]ACCESS: Logout: *no key*/(Zymechra)
+[15:10:52]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[15:12:54]SAY: mouse/ : Squeek!
+[15:14:23]ACCESS: Login: Yolocooey/(Yolocooey) from 50.64.56.63-4040369764 || BYOND v496
+[15:14:42]ACCESS: Logout: *no key*/(Yolocooey)
+[15:14:42]ACCESS: Login: Yolocooey/(Pepinpop) from 50.64.56.63-4040369764 || BYOND v496
+[15:14:52]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[15:15:07]ACCESS: Logout: *no key*/(Lawligagger)
+[15:15:07]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[15:15:09]SAY: mouse/ : Squeek!
+[15:17:01]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[15:17:09]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[15:17:38]ADMIN: Lawligagger/(John Reverend) healed / revived Zymechra/(Manny Quiles)
+[15:18:23]SAY: Runtime/ : Purr!
+[15:18:41]SAY: Poly/ : Poly wanna cracker!
+[15:18:47]SAY: mouse/ : Squeek?
+[15:20:43]EMOTE: Claudia Merryman/CrashMSO : <B>Claudia Merryman</B> gasps!
+[15:20:57]ACCESS: Login: Centrox/(Centrox) from 71.165.16.21-647727097 || BYOND v496
+[15:21:01]EMOTE: Claudia Merryman/CrashMSO : <B>Claudia Merryman</B> gasps!
+[15:21:08]ACCESS: Logout: *no key*/(Centrox)
+[15:21:08]ACCESS: Login: Centrox/(Paul Allen) from 71.165.16.21-647727097 || BYOND v496
+[15:21:09]EMOTE: Claudia Merryman/CrashMSO : <B>Claudia Merryman</B> seizes up and falls limp, her eyes dead and lifeless...
+[15:21:10]GAME: SQL ERROR during death reporting. Failed to connect.
+[15:21:14]OOC: Paul Allen/Centrox : hello friends
+[15:22:18]SAY: mouse/ : Squeek?
+[15:22:44]SAY: Runtime/ : HSSSSS
+[15:22:49]GAME: Explosion with size (-1, 2, 4) in area Atmospherics 
+[15:23:27]SAY: mouse/ : SQUEEK!
+[15:23:33]SAY: mouse/ : Squeek?
+[15:24:05]SAY: mouse/ : Squeek!
+[15:24:43]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[15:24:43]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:24:51]ACCESS: Logout: *no key*/(Deathsquied)
+[15:24:51]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[15:24:57]ACCESS: Login: Mrreff/(Mrreff) from 108.38.129.71-494845693 || BYOND v498
+[15:25:23]ACCESS: Logout: *no key*/(Mrreff)
+[15:25:23]ACCESS: Login: Mrreff/(Darin James) from 108.38.129.71-494845693 || BYOND v498

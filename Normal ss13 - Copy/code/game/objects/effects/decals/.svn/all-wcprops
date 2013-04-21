@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/objects/effects/decals
+END
+cleanable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4636/trunk/code/game/objects/effects/decals/cleanable.dm
+END
+contraband.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5185/trunk/code/game/objects/effects/decals/contraband.dm
+END
+crayon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/effects/decals/crayon.dm
+END
+misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/effects/decals/misc.dm
+END
+remains.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4636/trunk/code/game/objects/effects/decals/remains.dm
+END

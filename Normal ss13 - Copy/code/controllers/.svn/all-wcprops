@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/controllers
+END
+verbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/controllers/verbs.dm
+END
+voting.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5487/trunk/code/controllers/voting.dm
+END
+configuration.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5784/trunk/code/controllers/configuration.dm
+END
+lighting_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5657/trunk/code/controllers/lighting_controller.dm
+END
+failsafe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4958/trunk/code/controllers/failsafe.dm
+END
+shuttle_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5781/trunk/code/controllers/shuttle_controller.dm
+END
+_DynamicAreaLighting_TG.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5657/trunk/code/controllers/_DynamicAreaLighting_TG.dm
+END
+master_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/controllers/master_controller.dm
+END

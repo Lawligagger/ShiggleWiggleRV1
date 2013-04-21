@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5670/trunk/code/game/machinery/camera
+END
+tracking.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5603/trunk/code/game/machinery/camera/tracking.dm
+END
+motion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/4634/trunk/code/game/machinery/camera/motion.dm
+END
+presets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/game/machinery/camera/presets.dm
+END
+camera_assembly.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5603/trunk/code/game/machinery/camera/camera_assembly.dm
+END
+camera.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5670/trunk/code/game/machinery/camera/camera.dm
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/hud.dm
+END
+shuttle_engines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/game/shuttle_engines.dm
+END
+dna.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/game/dna.dm
+END
+atoms.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/atoms.dm
+END
+supplyshuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5723/trunk/code/game/supplyshuttle.dm
+END
+atoms_movable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/atoms_movable.dm
+END
+communications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/communications.dm
+END
+skincmd.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/2493/trunk/code/game/skincmd.dm
+END
+sound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/sound.dm
+END
+smoothwall.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/4805/trunk/code/game/smoothwall.dm
+END
+asteroid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/game/asteroid.dm
+END

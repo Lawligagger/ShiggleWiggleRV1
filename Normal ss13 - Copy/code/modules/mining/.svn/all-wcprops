@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mining
+END
+machine_processing.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/modules/mining/machine_processing.dm
+END
+money_bag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/modules/mining/money_bag.dm
+END
+satchel_ore_boxdm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/modules/mining/satchel_ore_boxdm.dm
+END
+mine_areas.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/4240/trunk/code/modules/mining/mine_areas.dm
+END
+ores_coins.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/modules/mining/ores_coins.dm
+END
+machine_unloading.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/modules/mining/machine_unloading.dm
+END
+machine_stacking.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/modules/mining/machine_stacking.dm
+END
+mint.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/modules/mining/mint.dm
+END
+mine_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/modules/mining/mine_items.dm
+END
+machine_input_output_plates.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mining/machine_input_output_plates.dm
+END
+mine_turfs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5808/trunk/code/modules/mining/mine_turfs.dm
+END

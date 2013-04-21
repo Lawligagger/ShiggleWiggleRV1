@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/tgstation/-tg-station/!svn/ver/4901/trunk/bot
+END
+D_help.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/D_help.py
+END
+C_rtd.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_rtd.py
+END
+C_makequote.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_makequote.py
+END
+C_eightball.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_eightball.py
+END
+save_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/save_load.py
+END
+C_heaortai.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_heaortai.py
+END
+Weather.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/Weather.py
+END
+Shortname.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/Shortname.py
+END
+Marakov_Chain.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/Marakov_Chain.py
+END
+FMLformatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/FMLformatter.py
+END
+nudge.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/nudge.py
+END
+some_but_not_all_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/some_but_not_all_2.py
+END
+xkcdparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/xkcdparser.py
+END
+gen_fml.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/gen_fml.py
+END
+YTCv3.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/YTCv3.py
+END
+C_sarcasticball.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_sarcasticball.py
+END
+YTCv4.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tgstation/-tg-station/!svn/ver/4901/trunk/bot/YTCv4.py
+END
+C_rot13.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_rot13.py
+END
+irchat.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/irchat.py
+END
+linereader.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/linereader.py
+END
+NanoTrasenBot.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/4038/trunk/bot/NanoTrasenBot.py
+END
+Namecheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/Namecheck.py
+END
+C_srtd.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_srtd.py
+END
+C_maths.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/C_maths.py
+END
+htmltagremove.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/htmltagremove.py
+END
+_____Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/_____Readme.txt
+END
+CORE_DATA.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/2748/trunk/bot/CORE_DATA.py
+END
+Timeconverter.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/2747/trunk/bot/Timeconverter.py
+END

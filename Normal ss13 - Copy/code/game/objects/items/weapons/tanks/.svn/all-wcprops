@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/weapons/tanks
+END
+tanks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5614/trunk/code/game/objects/items/weapons/tanks/tanks.dm
+END
+jetpack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/items/weapons/tanks/jetpack.dm
+END
+tank_types.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/weapons/tanks/tank_types.dm
+END

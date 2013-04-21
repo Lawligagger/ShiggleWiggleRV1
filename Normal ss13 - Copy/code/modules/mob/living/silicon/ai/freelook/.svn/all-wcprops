@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5815/trunk/code/modules/mob/living/silicon/ai/freelook
+END
+eye.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5329/trunk/code/modules/mob/living/silicon/ai/freelook/eye.dm
+END
+chunk.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5815/trunk/code/modules/mob/living/silicon/ai/freelook/chunk.dm
+END
+update_triggers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tgstation/-tg-station/!svn/ver/4865/trunk/code/modules/mob/living/silicon/ai/freelook/update_triggers.dm
+END
+read_me.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/4540/trunk/code/modules/mob/living/silicon/ai/freelook/read_me.dm
+END
+cameranet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tgstation/-tg-station/!svn/ver/5815/trunk/code/modules/mob/living/silicon/ai/freelook/cameranet.dm
+END

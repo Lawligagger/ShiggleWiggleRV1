@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/datums
+END
+computerfiles.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/2/trunk/code/datums/computerfiles.dm
+END
+datacore.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/4421/trunk/code/datums/datacore.dm
+END
+browser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/datums/browser.dm
+END
+sun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5425/trunk/code/datums/sun.dm
+END
+datumvars.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5230/trunk/code/datums/datumvars.dm
+END
+limbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/5758/trunk/code/datums/limbs.dm
+END
+mixed.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/3680/trunk/code/datums/mixed.dm
+END
+mind.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/datums/mind.dm
+END
+recipe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/4132/trunk/code/datums/recipe.dm
+END
+modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/2/trunk/code/datums/modules.dm
+END
+disease.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5824/trunk/code/datums/disease.dm
+END
+supplypacks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/datums/supplypacks.dm
+END
+ai_laws.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/4845/trunk/code/datums/ai_laws.dm
+END
+spell.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tgstation/-tg-station/!svn/ver/5818/trunk/code/datums/spell.dm
+END

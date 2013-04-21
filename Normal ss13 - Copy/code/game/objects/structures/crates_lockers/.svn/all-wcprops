@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/game/objects/structures/crates_lockers
+END
+crates.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/structures/crates_lockers/crates.dm
+END
+largecrate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tgstation/-tg-station/!svn/ver/5584/trunk/code/game/objects/structures/crates_lockers/largecrate.dm
+END
+closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/structures/crates_lockers/closets.dm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5626/trunk/code/modules/recycling
+END
+sortingmachinery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5626/trunk/code/modules/recycling/sortingmachinery.dm
+END
+conveyor2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5276/trunk/code/modules/recycling/conveyor2.dm
+END
+disposal-construction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4751/trunk/code/modules/recycling/disposal-construction.dm
+END
+disposal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5505/trunk/code/modules/recycling/disposal.dm
+END

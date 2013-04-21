@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/datums/spells
+END
+explosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/explosion.dm
+END
+inflict_handler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/datums/spells/inflict_handler.dm
+END
+area_teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5572/trunk/code/datums/spells/area_teleport.dm
+END
+ethereal_jaunt.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/ethereal_jaunt.dm
+END
+mind_transfer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/mind_transfer.dm
+END
+horsemask.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5541/trunk/code/datums/spells/horsemask.dm
+END
+dumbfire.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5268/trunk/code/datums/spells/dumbfire.dm
+END
+turf_teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/turf_teleport.dm
+END
+wizard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/datums/spells/wizard.dm
+END
+projectile.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5608/trunk/code/datums/spells/projectile.dm
+END
+trigger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/trigger.dm
+END
+knock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/2288/trunk/code/datums/spells/knock.dm
+END
+emplosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4663/trunk/code/datums/spells/emplosion.dm
+END
+conjure.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5657/trunk/code/datums/spells/conjure.dm
+END
+construct_spells.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5612/trunk/code/datums/spells/construct_spells.dm
+END
+genetic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/datums/spells/genetic.dm
+END

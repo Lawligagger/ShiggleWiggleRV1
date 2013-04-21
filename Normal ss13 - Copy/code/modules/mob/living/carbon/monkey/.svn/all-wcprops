@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5898/trunk/code/modules/mob/living/carbon/monkey
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5835/trunk/code/modules/mob/living/carbon/monkey/hud.dm
+END
+monkey.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/monkey/monkey.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/modules/mob/living/carbon/monkey/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/3994/trunk/code/modules/mob/living/carbon/monkey/examine.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/4097/trunk/code/modules/mob/living/carbon/monkey/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5050/trunk/code/modules/mob/living/carbon/monkey/emote.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/3985/trunk/code/modules/mob/living/carbon/monkey/say.dm
+END
+inventory.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/4432/trunk/code/modules/mob/living/carbon/monkey/inventory.dm
+END
+update_icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5898/trunk/code/modules/mob/living/carbon/monkey/update_icons.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/modules/mob/living/carbon/monkey/life.dm
+END
+powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4146/trunk/code/modules/mob/living/carbon/monkey/powers.dm
+END

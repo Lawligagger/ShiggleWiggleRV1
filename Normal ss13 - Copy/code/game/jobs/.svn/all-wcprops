@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/jobs
+END
+access.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/jobs/access.dm
+END
+jobprocs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5611/trunk/code/game/jobs/jobprocs.dm
+END
+whitelist.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/game/jobs/whitelist.dm
+END
+job_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5617/trunk/code/game/jobs/job_controller.dm
+END
+jobs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/4225/trunk/code/game/jobs/jobs.dm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5555/trunk/code/game/gamemodes/malfunction
+END
+Malf_Modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4709/trunk/code/game/gamemodes/malfunction/Malf_Modules.dm
+END
+malfunction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5555/trunk/code/game/gamemodes/malfunction/malfunction.dm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5608/trunk/code/game/machinery/embedded_controller
+END
+access_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tgstation/-tg-station/!svn/ver/4793/trunk/code/game/machinery/embedded_controller/access_controller.dm
+END
+embedded_controller_base.dm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/tgstation/-tg-station/!svn/ver/5608/trunk/code/game/machinery/embedded_controller/embedded_controller_base.dm
+END
+airlock_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tgstation/-tg-station/!svn/ver/4793/trunk/code/game/machinery/embedded_controller/airlock_controller.dm
+END
+simple_vent_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tgstation/-tg-station/!svn/ver/4942/trunk/code/game/machinery/embedded_controller/simple_vent_controller.dm
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/objects
+END
+explosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5614/trunk/code/game/objects/explosion.dm
+END
+items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/items.dm
+END
+structures.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/structures.dm
+END
+explosion_recursive.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5614/trunk/code/game/objects/explosion_recursive.dm
+END
+empulse.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/empulse.dm
+END
+weapons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5448/trunk/code/game/objects/weapons.dm
+END
+objs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5464/trunk/code/game/objects/objs.dm
+END

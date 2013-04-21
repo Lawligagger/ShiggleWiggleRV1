@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/projectiles
+END
+ammunition.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/modules/projectiles/ammunition.dm
+END
+projectile.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/projectiles/projectile.dm
+END
+gun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/projectiles/gun.dm
+END

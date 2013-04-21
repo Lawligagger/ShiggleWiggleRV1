@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/game/objects/structures/crates_lockers/closets/secure
+END
+hydroponics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/tgstation/-tg-station/!svn/ver/5629/trunk/code/game/objects/structures/crates_lockers/closets/secure/hydroponics.dm
+END
+freezer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tgstation/-tg-station/!svn/ver/4646/trunk/code/game/objects/structures/crates_lockers/closets/secure/freezer.dm
+END
+secure_closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/tgstation/-tg-station/!svn/ver/5612/trunk/code/game/objects/structures/crates_lockers/closets/secure/secure_closets.dm
+END
+personal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tgstation/-tg-station/!svn/ver/4636/trunk/code/game/objects/structures/crates_lockers/closets/secure/personal.dm
+END
+bar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tgstation/-tg-station/!svn/ver/4529/trunk/code/game/objects/structures/crates_lockers/closets/secure/bar.dm
+END
+scientist.dm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tgstation/-tg-station/!svn/ver/5452/trunk/code/game/objects/structures/crates_lockers/closets/secure/scientist.dm
+END
+security.dm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/game/objects/structures/crates_lockers/closets/secure/security.dm
+END
+engineering.dm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/tgstation/-tg-station/!svn/ver/5350/trunk/code/game/objects/structures/crates_lockers/closets/secure/engineering.dm
+END
+cargo.dm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/tgstation/-tg-station/!svn/ver/5272/trunk/code/game/objects/structures/crates_lockers/closets/secure/cargo.dm
+END
+medical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/game/objects/structures/crates_lockers/closets/secure/medical.dm
+END

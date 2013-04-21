@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/modules/mob/dead/observer
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/4776/trunk/code/modules/mob/dead/observer/hud.dm
+END
+observer.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/2/trunk/code/modules/mob/dead/observer/observer.dm.bak
+END
+login.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/2/trunk/code/modules/mob/dead/observer/login.dm.bak
+END
+observer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/modules/mob/dead/observer/observer.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4755/trunk/code/modules/mob/dead/observer/login.dm
+END
+say.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/2/trunk/code/modules/mob/dead/observer/say.dm.bak
+END
+logout.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/4331/trunk/code/modules/mob/dead/observer/logout.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5131/trunk/code/modules/mob/dead/observer/say.dm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/pda2
+END
+base_program.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/unused/pda2/base_program.dm
+END
+smallprogs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/unused/pda2/smallprogs.dm
+END
+pda2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/pda2/pda2.dm
+END
+record_progs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/unused/pda2/record_progs.dm
+END
+base_os.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/unused/pda2/base_os.dm
+END
+scanners.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/2500/trunk/code/unused/pda2/scanners.dm
+END

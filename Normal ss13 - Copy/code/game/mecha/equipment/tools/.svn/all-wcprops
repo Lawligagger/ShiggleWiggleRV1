@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/mecha/equipment/tools
+END
+tools.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/mecha/equipment/tools/tools.dm
+END
+unused_tools.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/game/mecha/equipment/tools/unused_tools.dm
+END
+medical_tools.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5526/trunk/code/game/mecha/equipment/tools/medical_tools.dm
+END

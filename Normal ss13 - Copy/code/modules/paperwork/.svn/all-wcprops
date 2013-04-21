@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5899/trunk/code/modules/paperwork
+END
+paperbin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5740/trunk/code/modules/paperwork/paperbin.dm
+END
+handlabeler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/modules/paperwork/handlabeler.dm
+END
+pen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5779/trunk/code/modules/paperwork/pen.dm
+END
+photography.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5740/trunk/code/modules/paperwork/photography.dm
+END
+paper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/paperwork/paper.dm
+END
+stamps.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5740/trunk/code/modules/paperwork/stamps.dm
+END
+photocopier.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5899/trunk/code/modules/paperwork/photocopier.dm
+END
+filingcabinet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/modules/paperwork/filingcabinet.dm
+END
+folders.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5740/trunk/code/modules/paperwork/folders.dm
+END
+clipboard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5740/trunk/code/modules/paperwork/clipboard.dm
+END

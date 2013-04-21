@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/weapons/storage
+END
+boxes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5826/trunk/code/game/objects/items/weapons/storage/boxes.dm
+END
+fancy.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/weapons/storage/fancy.dm
+END
+lockbox.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/weapons/storage/lockbox.dm
+END
+briefcase.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5665/trunk/code/game/objects/items/weapons/storage/briefcase.dm
+END
+storage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/items/weapons/storage/storage.dm
+END
+firstaid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/weapons/storage/firstaid.dm
+END
+belt.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/weapons/storage/belt.dm
+END
+secure.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5665/trunk/code/game/objects/items/weapons/storage/secure.dm
+END
+toolbox.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5259/trunk/code/game/objects/items/weapons/storage/toolbox.dm
+END
+wallets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5457/trunk/code/game/objects/items/weapons/storage/wallets.dm
+END
+bags.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/objects/items/weapons/storage/bags.dm
+END
+uplink_kits.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/5802/trunk/code/game/objects/items/weapons/storage/uplink_kits.dm
+END
+bible.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/objects/items/weapons/storage/bible.dm
+END
+backpack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/weapons/storage/backpack.dm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/mecha/combat
+END
+marauder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/game/mecha/combat/marauder.dm
+END
+combat.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/mecha/combat/combat.dm
+END
+honker.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/game/mecha/combat/honker.dm
+END
+durand.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/game/mecha/combat/durand.dm
+END
+gygax.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/game/mecha/combat/gygax.dm
+END
+phazon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/game/mecha/combat/phazon.dm
+END

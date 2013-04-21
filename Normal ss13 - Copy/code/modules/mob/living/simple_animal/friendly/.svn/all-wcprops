@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/simple_animal/friendly
+END
+corgi.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/simple_animal/friendly/corgi.dm
+END
+tomato.dm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tgstation/-tg-station/!svn/ver/5217/trunk/code/modules/mob/living/simple_animal/friendly/tomato.dm
+END
+lizard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/simple_animal/friendly/lizard.dm
+END
+cat.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/4933/trunk/code/modules/mob/living/simple_animal/friendly/cat.dm
+END
+crab.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/simple_animal/friendly/crab.dm
+END
+mouse.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5743/trunk/code/modules/mob/living/simple_animal/friendly/mouse.dm
+END
+farm_animals.dm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/modules/mob/living/simple_animal/friendly/farm_animals.dm
+END
+mushroom.dm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tgstation/-tg-station/!svn/ver/4933/trunk/code/modules/mob/living/simple_animal/friendly/mushroom.dm
+END
+slime.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5594/trunk/code/modules/mob/living/simple_animal/friendly/slime.dm
+END

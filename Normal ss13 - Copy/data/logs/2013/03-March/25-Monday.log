@@ -1,0 +1,991 @@
+
+
+Starting up. 09:04.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+[09:04:35]ADMIN: Loading Banlistjob
+[09:04:35]ADMIN: Banlistjob is empty.
+[09:04:35]ADMIN: Banlistjob missing base dir.
+[09:04:35]ADMIN: Loading jobban_rank
+[09:04:35]ADMIN: jobban_keylist was empty
+[09:04:35]ADMIN: Updating jobbanfile!
+[09:04:35]ADMIN: Loading Banlist
+[09:04:35]ADMIN: Banlist is empty.
+[09:04:35]ADMIN: Banlist missing base dir.
+
+
+Starting up. 09:06.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+[09:06:52]ADMIN: Loading Banlistjob
+[09:06:52]ADMIN: Loading jobban_rank
+[09:06:52]ADMIN: jobban_keylist was empty
+[09:06:52]ADMIN: Updating jobbanfile!
+[09:06:52]ADMIN: Loading Banlist
+[09:07:09]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[09:07:44]ACCESS: Login: Poxie2815/(Poxie2815) from 96.241.144.75-924558899 || BYOND v498
+[09:08:48]ACCESS: Logout: *no key*/(Lawligagger)
+[09:08:48]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:09:50]SAY: mouse/ : Squeek!
+[09:09:51]ADMIN: Lawligagger/(Taryn Jackson) changed the equipment of Lawligagger/(Taryn Jackson) to tunnel clown.
+[09:10:06]ACCESS: Login: General Cole/(General Cole) from 75.108.236.250-2965678059 || BYOND v498
+[09:10:08]SAY: Tom/ : SQUEEK!
+[09:10:26]ACCESS: Logout: *no key*/(Poxie2815)
+[09:10:26]ACCESS: Login: Poxie2815/(Bob Dole) from 96.241.144.75-924558899 || BYOND v498
+[09:11:08]SAY: mouse/ : Squeek!
+[09:11:16]SAY: Pete/ : eh?
+[09:12:01]ACCESS: Logout: *no key*/(General Cole)
+[09:12:01]ACCESS: Login: General Cole/(Bonker) from 75.108.236.250-2965678059 || BYOND v498
+[09:12:08]SAY: Tom/ : Squeek?
+[09:12:57]SAY: mouse/ : Squeek!
+[09:14:39]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:14:39]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:14:53]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:15:02]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:15:02]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:15:06]SAY: Bob Dole/Poxie2815 : 0-GLORF
+[09:15:09]EMOTE: Taryn Jackson/Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:15:25]EMOTE: Taryn Jackson/Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:15:27]EMOTE: Taryn Jackson/Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:15:42]ADMIN: Lawligagger/(Taryn Jackson) healed / revived Lawligagger/(Taryn Jackson)
+[09:17:03]SAY: Tom/ : SQUEEK!
+[09:17:11]ADMIN: Lawligagger/(Taryn Jackson) has slimeized General Cole.
+[09:17:11]ADMIN: Lawligagger/(Taryn Jackson) made General Cole/(Doc Honk) into a slime.
+[09:17:12]ACCESS: Logout: *no key*/(Doc Honk)
+[09:17:12]ACCESS: Login: General Cole/(grey baby slime (271)) from 75.108.236.250-2965678059 || BYOND v498
+[09:17:31]SAY: Ian/ : AUUUUUU
+[09:17:32]ADMIN: Lawligagger/(Taryn Jackson) used secret wave
+[09:18:05]SAY: mouse/ : Squeek?
+[09:18:38]SAY: mouse/ : Squeek?
+[09:18:41]ACCESS: Logout: *no key*/(grey baby slime (271))
+[09:18:41]ACCESS: Login: General Cole/(grey baby slime (764)) from 75.108.236.250-2965678059 || BYOND v498
+[09:19:21]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:19:21]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:19:30]ADMIN: Lawligagger/(Taryn Jackson) created a /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:30]ADMIN: Lawligagger/(Taryn Jackson) created a /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:31]ADMIN: Lawligagger/(Taryn Jackson) created a /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:31]ADMIN: Lawligagger/(Taryn Jackson) created a /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:38]ADMIN: Lawligagger/(Taryn Jackson) created 10ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:40]ADMIN: Lawligagger/(Taryn Jackson) created 10ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:19:44]GAME: Emitter deleted at (122,65,1)
+[09:19:48]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:19:48]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:20:10]SAY: Clown/ : HONK
+[09:20:16]SAY: Clown/ : Welcome to clown planet!
+[09:20:32]SAY: Runtime/ : HSSSSS
+[09:20:36]SAY: Clown/ : Welcome to clown planet!
+[09:20:38]ADMIN: Lawligagger/(Taryn Jackson) created 10ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:20:40]ADMIN: Lawligagger/(Taryn Jackson) created 10ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:20:40]SAY: Clown/ : HONK
+[09:20:42]SAY: Clown/ : Honk!
+[09:21:00]SAY: Clown/ : Welcome to clown planet!
+[09:21:31]ADMIN: Lawligagger/(Taryn Jackson) created 30ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:21:32]SAY: Clown/ : HONK
+[09:21:33]ADMIN: Lawligagger/(Taryn Jackson) created 30ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:21:39]SAY: Clown/ : Welcome to clown planet!
+[09:21:39]SAY: Clown/ : Welcome to clown planet!
+[09:21:45]SAY: Clown/ : Honk!
+[09:21:49]SAY: Ian/ : Woof!
+[09:21:49]SAY: Clown/ : Honk!
+[09:21:49]SAY: Clown/ : HONK
+[09:21:55]SAY: Clown/ : Welcome to clown planet!
+[09:21:58]ACCESS: Logout: *no key*/(grey baby slime (764))
+[09:21:58]ACCESS: Login: General Cole/(orange baby slime (652)) from 75.108.236.250-2965678059 || BYOND v498
+[09:22:05]SAY: Clown/ : HONK
+[09:22:05]SAY: Clown/ : Welcome to clown planet!
+[09:22:09]SAY: Clown/ : Welcome to clown planet!
+[09:22:13]SAY: Clown/ : Honk!
+[09:22:15]SAY: Clown/ : HONK
+[09:22:26]SAY: Clown/ : Welcome to clown planet!
+[09:22:30]SAY: Clown/ : HONK
+[09:22:30]SAY: Clown/ : Honk!
+[09:22:38]SAY: Clown/ : Welcome to clown planet!
+[09:22:38]SAY: Clown/ : Welcome to clown planet!
+[09:22:45]SAY: Clown/ : Honk!
+[09:22:47]EMOTE: Taryn Jackson/Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:22:48]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:22:48]ACCESS: Login: Lawligagger/(Taryn Jackson) from 127.0.0.1-3911281500 || BYOND v496
+[09:22:51]SAY: Clown/ : Welcome to clown planet!
+[09:22:56]SAY: Clown/ : Welcome to clown planet!
+[09:22:58]SAY: Clown/ : Honk!
+[09:23:00]SAY: Clown/ : Honk!
+[09:23:26]SAY: Clown/ : Honk!
+[09:23:28]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:23:32]SAY: Clown/ : HONK
+[09:23:32]SAY: Clown/ : Honk!
+[09:23:37]ADMIN: Lawligagger/(Taryn Jackson) has used rudimentary transformation on General Cole/(orange baby slime (652)). Transforming to crab; deletemob=1
+[09:23:37]ACCESS: Logout: *no key*/(orange baby slime (652))
+[09:23:37]ACCESS: Login: General Cole/(orange baby slime (652)) from 75.108.236.250-2965678059 || BYOND v498
+[09:23:44]SAY: Clown/ : Honk!
+[09:23:46]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:23:50]SAY: Clown/ : HONK
+[09:23:52]SAY: Clown/ : Honk!
+[09:23:54]SAY: Clown/ : Welcome to clown planet!
+[09:24:00]SAY: Tom/ : SQUEEK!
+[09:24:00]SAY: Clown/ : Welcome to clown planet!
+[09:24:04]SAY: Clown/ : Welcome to clown planet!
+[09:24:06]SAY: Clown/ : Welcome to clown planet!
+[09:24:10]SAY: Clown/ : HONK
+[09:24:16]SAY: Clown/ : Honk!
+[09:24:16]SAY: Clown/ : Honk!
+[09:24:16]ADMIN: Lawligagger/(Taryn Jackson) has used rudimentary transformation on General Cole/(orange baby slime (652)). Transforming to queen; deletemob=1
+[09:24:16]ACCESS: Logout: *no key*/(orange baby slime (652))
+[09:24:16]ACCESS: Login: General Cole/(orange baby slime (652)) from 75.108.236.250-2965678059 || BYOND v498
+[09:24:19]SAY: Clown/ : Welcome to clown planet!
+[09:24:23]SAY: Clown/ : Welcome to clown planet!
+[09:24:30]ADMIN: Lawligagger/(Taryn Jackson) assumed direct control of Clown.
+[09:24:30]ACCESS: Logout: *no key*/(Taryn Jackson)
+[09:24:30]ACCESS: Login: lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[09:24:33]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:24:37]ACCESS: Login: Calliope/(Calliope) from 89.135.144.180-2168102077 || BYOND v496
+[09:24:39]SAY: Clown/ : Honk!
+[09:24:39]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:24:40]SAY: Clown/lawligagger : Welcome to Clown Planet!
+[09:24:43]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:24:49]SAY: Clown/ : HONK
+[09:24:49]EMOTE: Taryn Jackson/@Lawligagger : <B>Taryn Jackson</B> gasps!
+[09:24:58]ADMIN: lawligagger/(Clown) created 30ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:25:01]SAY: Clown/ : Honk!
+[09:25:05]SAY: Clown/ : Honk!
+[09:25:07]SAY: Clown/ : HONK
+[09:25:11]SAY: Clown/ : HONK
+[09:25:19]SAY: Clown/ : Honk!
+[09:25:27]ACCESS: Logout: *no key*/(Clown)
+[09:25:27]ACCESS: Login: lawligagger/(Grace Linton) from 127.0.0.1-3911281500 || BYOND v496
+[09:25:35]EMOTE: Taryn Jackson/ : <B>Taryn Jackson</B> gasps!
+[09:25:39]ACCESS: Logout: *no key*/(Calliope)
+[09:25:39]ACCESS: Login: Calliope/(Kate Fuchs) from 89.135.144.180-2168102077 || BYOND v496
+[09:25:41]SAY: Clown/ : Welcome to clown planet!
+[09:25:50]SAY: Kate Fuchs/Calliope : Hello?
+[09:25:51]SAY: Clown/ : Welcome to clown planet!
+[09:25:55]SAY: Clown/ : Honk!
+[09:25:55]SAY: Clown/ : Honk!
+[09:25:59]ADMIN: lawligagger/(Grace Linton) healed / Revived General Cole/(orange baby slime (652))
+[09:26:11]SAY: Clown/ : Welcome to clown planet!
+[09:26:17]SAY: Clown/ : Honk!
+[09:26:23]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[09:26:27]EMOTE: Taryn Jackson/ : <B>Taryn Jackson</B> gasps!
+[09:26:44]EMOTE: Taryn Jackson/ : <B>Taryn Jackson</B> gasps!
+[09:26:47]SAY: Clown/ : Honk!
+[09:26:48]SAY: Clown/ : Welcome to clown planet!
+[09:26:50]ADMIN: lawligagger/(Grace Linton) jumped to Calliope/(Kate Fuchs)
+[09:26:56]ADMIN: lawligagger/(Grace Linton) assumed direct control of Clown.
+[09:26:56]ACCESS: Logout: *no key*/(Grace Linton)
+[09:26:56]ACCESS: Login: lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[09:26:59]SAY: Clown/ : HONK
+[09:27:02]EMOTE: Taryn Jackson/ : <B>Taryn Jackson</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:27:04]SAY: Clown/@Lawligagger : Honk!
+[09:27:10]ADMIN: lawligagger/(Clown) created 30ea /mob/living/simple_animal/hostile/retaliate/clown
+[09:27:15]EMOTE: Kate Fuchs/Calliope : <B>Kate Fuchs</B> blinks.
+[09:27:19]SAY: Clown/ : Welcome to clown planet!
+[09:27:22]SAY: Clown/ : HONK
+[09:27:26]SAY: Clown/ : HONK
+[09:27:28]SAY: Clown/ : Honk!
+[09:27:28]SAY: Clown/ : Welcome to clown planet!
+[09:27:34]SAY: Clown/ : Honk!
+[09:27:35]ACCESS: Logout: Calliope/(Kate Fuchs)
+[09:27:36]EMOTE: Kate Fuchs/Calliope : <B>Kate Fuchs</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:27:37]GAME: SQL ERROR during death reporting. Failed to connect.
+[09:27:38]SAY: Clown/ : Honk!
+[09:27:42]SAY: Clown/ : HONK
+[09:27:48]SAY: Clown/ : Honk!
+[09:27:54]SAY: Clown/ : HONK
+[09:27:58]SAY: Clown/ : Welcome to clown planet!
+[09:28:04]SAY: Pete/ : eh?
+[09:28:04]SAY: Clown/ : HONK
+[09:28:04]ACCESS: Logout: *no key*/(Clown)
+[09:28:04]ACCESS: Login: lawligagger/(Bethany Roberts) from 127.0.0.1-3911281500 || BYOND v496
+[09:28:12]SAY: Clown/ : HONK
+[09:28:14]SAY: Clown/ : HONK
+[09:28:16]SAY: Clown/ : Welcome to clown planet!
+[09:28:18]SAY: Clown/ : Honk!
+[09:28:22]SAY: Clown/ : HONK
+[09:28:22]SAY: Clown/ : HONK
+[09:28:24]SAY: Clown/ : HONK
+[09:28:24]SAY: Clown/ : HONK
+[09:28:32]SAY: Clown/ : Honk!
+[09:28:34]SAY: Clown/ : HONK
+[09:28:50]SAY: Clown/ : Honk!
+[09:29:02]SAY: Clown/ : Welcome to clown planet!
+[09:29:07]SAY: Clown/ : Welcome to clown planet!
+[09:29:09]SAY: Clown/ : Welcome to clown planet!
+[09:29:19]SAY: Clown/ : Honk!
+[09:29:23]SAY: Clown/ : Honk!
+[09:29:25]SAY: Clown/ : Honk!
+[09:29:35]ADMIN: lawligagger/(Bethany Roberts) assumed direct control of Clown.
+[09:29:35]ACCESS: Logout: *no key*/(Bethany Roberts)
+[09:29:35]ACCESS: Login: lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[09:29:51]SAY: mouse/ : SQUEEK!
+[09:29:59]SAY: Clown/ : Honk!
+[09:29:59]SAY: Clown/ : Honk!
+[09:29:59]SAY: Clown/ : Honk!
+[09:30:00]ADMIN: <a href='?priv_msg=[0x5000000]'>lawligagger</a>/(Clown) has traitor'ed Bob Dole.
+[09:30:01]ADMIN: <a href='?priv_msg=[0x5000000]'>lawligagger</a>/(Clown) has nuke op'ed Bob Dole.
+[09:30:01]SAY: Clown/ : HONK
+[09:30:01]ADMIN: <a href='?priv_msg=[0x5000000]'>lawligagger</a>/(Clown) has changeling'ed Bob Dole.
+[09:30:02]ADMIN: <a href='?priv_msg=[0x5000000]'>lawligagger</a>/(Clown) has wizard'ed Bob Dole.
+[09:30:05]SAY: Clown/ : Welcome to clown planet!
+[09:30:11]ADMIN: lawligagger/(Clown) healed / revived Poxie2815/(Tolly Cigdhsjk)
+[09:30:15]SAY: Clown/ : HONK
+[09:30:17]SAY: Clown/ : Welcome to clown planet!
+[09:30:23]SAY: Clown/ : Welcome to clown planet!
+[09:30:26]SAY: Clown/ : Honk!
+[09:30:30]SAY: Clown/ : HONK
+[09:30:50]ACCESS: Logout: *no key*/(Clown)
+[09:30:50]ACCESS: Login: lawligagger/(Makenzie Reighner) from 127.0.0.1-3911281500 || BYOND v496
+[09:30:52]SAY: Clown/ : Honk!
+[09:30:54]ADMIN: lawligagger/(Makenzie Reighner) initiated a reboot.
+[09:30:56]SAY: Clown/ : HONK
+[09:30:59]ACCESS: Logout: lawligagger/(Makenzie Reighner)
+[09:30:59]ACCESS: Logout: Poxie2815/(Tolly Cigdhsjk)
+[09:30:59]ACCESS: Logout: General Cole/(orange baby slime (652))
+
+
+Starting up. 09:32.07
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+[09:32:08]ADMIN: Loading Banlistjob
+[09:32:08]ADMIN: Loading jobban_rank
+[09:32:08]ADMIN: jobban_keylist was empty
+[09:32:08]ADMIN: Updating jobbanfile!
+[09:32:08]ADMIN: Loading Banlist
+[09:32:22]ACCESS: Login: Poxie2815/(Poxie2815) from 96.241.144.75-924558899 || BYOND v498
+[09:32:24]ACCESS: Login: General Cole/(General Cole) from 75.108.236.250-2965678059 || BYOND v498
+[09:32:57]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[09:34:02]ACCESS: Logout: *no key*/(Poxie2815)
+[09:34:02]ACCESS: Login: Poxie2815/(Bob Dole) from 96.241.144.75-924558899 || BYOND v498
+[09:34:02]ACCESS: Logout: *no key*/(General Cole)
+[09:34:02]ACCESS: Login: General Cole/(Ziggy Yoyo) from 75.108.236.250-2965678059 || BYOND v498
+[09:34:02]ACCESS: Logout: *no key*/(Lawligagger)
+[09:34:02]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:34:13]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:34:13]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:34:24]ADMIN: <a href='?priv_msg=[0x5000002]'>Lawligagger</a>/(Aden Bousum) has wizard'ed Doc Honk.
+[09:34:30]SAY: mouse/ : SQUEEK!
+[09:34:37]ADMIN: Lawligagger/(Aden Bousum) jumped to General Cole/(Doc Honk)
+[09:34:41]ADMIN: Lawligagger/(Aden Bousum) jumped to Poxie2815/(Bob Dole)
+[09:34:46]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to space pirate.
+[09:35:06]SAY: Pete/ : eh?
+[09:35:08]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to special ops officer.
+[09:35:18]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to centcom commander.
+[09:35:30]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to pirate.
+[09:35:34]SAY: mouse/ : Squeek?
+[09:35:38]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to soviet admiral.
+[09:35:53]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to tunnel clown.
+[09:36:00]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to masked killer.
+[09:36:11]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to assassin.
+[09:36:23]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to death commando.
+[09:36:33]ADMIN: Lawligagger/(Aden Bousum) has possessed the mirror (/obj/structure/mirror) at (124, 122, 1)
+[09:36:53]ADMIN: Lawligagger/(mirror) has possessed the soap (/obj/item/weapon/soap/deluxe) at (124, 120, 1)
+[09:37:40]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Poxie2815/(Bob Dole) to centcom commander.
+[09:38:22]SAY: mouse/ : SQUEEK!
+[09:39:12]SAY: mouse/ : Squeek!
+[09:40:13]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/xray
+[09:40:17]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/gun/nuclear
+[09:40:24]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/gun
+[09:40:30]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/pulse_rifle/M1911
+[09:40:34]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/pulse_rifle
+[09:40:47]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/meteorgun
+[09:40:51]ACCESS: Login: Calliope/(Calliope) from 89.135.144.180-2168102077 || BYOND v496
+[09:40:57]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/crossbow/largecrossbow
+[09:41:03]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/energy/crossbow
+[09:41:06]SAY: Ian/ : YAP
+[09:41:11]ACCESS: Logout: *no key*/(Calliope)
+[09:41:11]ACCESS: Login: Calliope/(Kate Fuchs) from 89.135.144.180-2168102077 || BYOND v496
+[09:41:14]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/deagle
+[09:41:18]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/gyropistol
+[09:41:21]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/pistol
+[09:41:25]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/silenced
+[09:41:30]GAME: Explosion with size (-1, 0, 2) in area Bar 
+[09:41:33]GAME: Explosion with size (-1, 0, 2) in area Bar 
+[09:41:34]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/russian
+[09:41:39]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/shotgun/pump/combat
+[09:41:41]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/weapon/gun/projectile/shotgun/pump/sc_pump
+[09:41:46]SAY: mouse/ : Squeek?
+[09:41:47]SAY: Kate Fuchs/Calliope : Kate Fuchs reporting for duty!
+[09:42:16]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/clothing/head/collectable/police
+[09:42:27]SAY: Doc Honk/General Cole : KN&#39;A`FTAGHU,`PUCK`&#39;BTHNK!
+[09:42:27]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/clothing/head/collectable/pirate
+[09:42:32]SAY: Doc Honk/General Cole : SCYAR NILA AFT STARBOARD SOLAR MAINTENANCE
+[09:42:42]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/clothing/head/plaguedoctorhat
+[09:43:23]SAY: Runtime/ : Meow!
+[09:43:29]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/ballistic/missile_rack/banana_mortar
+[09:43:31]SAY: Doc Honk/General Cole : SCYAR NILA MEDBAY
+[09:43:36]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/honker
+[09:43:39]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/energy/laser/heavy
+[09:44:18]ADMIN: Lawligagger/(Aden Bousum) created a /obj/mecha/combat/honker
+[09:44:21]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:44:21]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:44:22]SAY: Doc Honk/General Cole : ONI SOMA
+[09:44:22]GAME: Explosion with size (-1, 0, 2) in area Bar 
+[09:44:28]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Lawligagger/(Aden Bousum) to tunnel clown.
+[09:44:31]SAY: Doc Honk/General Cole : KN&#39;A FTAGHU, PUCK &#39;BTHNK!
+[09:44:45]ADMIN: Lawligagger/(Aden Bousum) has granted Lawligagger full access.
+[09:45:21]SAY: Doc Honk/General Cole : ONI`SOMA
+[09:45:22]GAME: Explosion with size (-1, 0, 2) in area Central Primary Hallway 
+[09:45:31]SAY: Doc Honk/General Cole : ONI SOMA
+[09:45:31]GAME: Explosion with size (-1, 0, 2) in area Medbay 
+[09:45:51]ADMIN: Lawligagger/(Aden Bousum) healed / revived General Cole/(A HONKmother Servant)
+[09:46:03]EMOTE: Aden Bousum/Lawligagger : <B>Aden Bousum</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:46:04]GAME: SQL ERROR during death reporting. Failed to connect.
+[09:46:07]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:46:07]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:46:12]GAME: Explosion with size (1) in area Medbay 
+[09:46:16]GAME: Explosion with size (1) in area Starboard Primary Hallway 
+[09:46:27]ADMIN: Lawligagger/(Aden Bousum) teleported General Cole/(A HONKmother Servant)
+[09:46:32]SAY: mouse/ : SQUEEK!
+[09:46:41]ADMIN: Lawligagger/(Aden Bousum) jumped to General Cole/(A HONKmother Servant)
+[09:46:44]EMOTE: Doc Honk/General Cole : <B>Doc Honk</B> gasps!
+[09:46:44]ADMIN: Lawligagger/(Aden Bousum) healed / revived General Cole/(A HONKmother Servant)
+[09:46:51]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:46:51]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:46:57]ADMIN: Lawligagger/(Aden Bousum) healed / revived Lawligagger/(Aden Bousum)
+[09:47:26]EMOTE: Aden Bousum/Lawligagger : <B>Aden Bousum</B> gasps!
+[09:47:28]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:47:28]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:47:31]GAME: Explosion with size (3) in area Central Primary Hallway 
+[09:47:34]GAME: Explosion with size (3) in area Central Primary Hallway 
+[09:47:36]GAME: Explosion with size (4) in area Central Primary Hallway 
+[09:47:38]GAME: Explosion with size (5) in area Central Primary Hallway 
+[09:47:39]EMOTE: Aden Bousum/@Lawligagger : <B>Aden Bousum</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:47:40]GAME: SQL ERROR during death reporting. Failed to connect.
+[09:47:40]GAME: Explosion with size (6) in area Central Primary Hallway 
+[09:48:00]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:48:00]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:48:12]ADMIN: Lawligagger/(Aden Bousum) changed the equipment of Lawligagger/(Aden Bousum) to tunnel clown.
+[09:48:23]ADMIN: Lawligagger/(Aden Bousum) created a /obj/mecha/combat/honker
+[09:48:27]ADMIN: Lawligagger/(Aden Bousum) has granted Lawligagger full access.
+[09:48:32]SAY: Doc Honk/General Cole : FORTI GY AMA
+[09:48:38]WHISPER: Doc Honk/General Cole : STI KALY
+[09:48:40]SAY: Doc Honk/General Cole : NEC`CANTIO
+[09:48:41]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/ballistic/missile_rack/banana_mortar
+[09:48:45]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/energy/laser/heavy
+[09:48:48]ADMIN: Lawligagger/(Aden Bousum) created a /obj/item/mecha_parts/mecha_equipment/weapon/honker
+[09:49:16]SAY: Doc Honk/General Cole : FORTI GY AMA
+[09:49:33]SAY: Doc Honk/General Cole : NEC`CANTIO
+[09:49:35]SAY: Doc Honk/General Cole : FORTI GY AMA
+[09:49:38]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> collapses!
+[09:49:38]EMOTE: Doc Honk/General Cole : <B>Doc Honk</B> collapses!
+[09:49:56]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> collapses!
+[09:50:02]SAY: Doc Honk/General Cole : FORTI GY AMA
+[09:50:05]ADMIN: Lawligagger/(Aden Bousum) deleted Firelock West at (107,142,1)
+[09:50:08]WHISPER: Doc Honk/General Cole : STI KALY
+[09:50:12]ADMIN: Lawligagger/(Aden Bousum) deleted the hazard door east at (119,142,1)
+[09:50:15]SAY: Doc Honk/General Cole : FORTI`GY`AMA
+[09:50:21]ADMIN: Lawligagger/(Aden Bousum) deleted Firelock North at (129,132,1)
+[09:50:25]ADMIN: Lawligagger/(Aden Bousum) deleted Firelock East at (131,129,1)
+[09:50:29]SAY: Doc Honk/General Cole : F-F-F-FORT-TI G-GY-Y-Y AMA
+[09:51:05]SAY: Doc Honk/General Cole : N-N-NEC`CAN-NT-TIO
+[09:51:08]ACCESS: Logout: Poxie2815/(Bob Dole)
+[09:51:09]SAY: Doc Honk/General Cole : F-FORTI G-GY-Y AM-MA
+[09:51:14]WHISPER: Doc Honk/General Cole : STI KALY
+[09:51:22]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:51:46]SAY: Doc Honk/General Cole : N-NEC C-CAN-NT-TIO
+[09:51:52]WHISPER: Doc Honk/General Cole : STI`KALY
+[09:51:54]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:51:55]SAY: Doc Honk/General Cole : F-FOR-RT-TI`G-GY-Y-Y`AM-MA
+[09:52:04]SAY: Kate Fuchs/Calliope : Anyone needs the lawyer?
+[09:52:04]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:52:18]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:52:26]ADMIN: Lawligagger/(Aden Bousum) healed / revived General Cole/(A HONKmother Servant)
+[09:52:36]SAY: Ian/ : Bark!
+[09:52:40]ADMIN: Lawligagger/(Aden Bousum) jumped to 124,94,2 in the Centcom Control
+[09:52:46]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:53:02]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:53:10]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:53:18]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:53:30]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[09:53:56]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:53:56]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:53:58]ACCESS: Logout: *no key*/(Aden Bousum)
+[09:53:58]ACCESS: Login: Lawligagger/(Aden Bousum) from 127.0.0.1-3911281500 || BYOND v496
+[09:54:04]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:54:05]GAME: SQL ERROR during death reporting. Failed to connect.
+[09:54:10]ADMIN: Lawligagger/(Aden Bousum) initiated an immediate reboot.
+[09:54:10]ACCESS: Logout: General Cole/(A HONKmother Servant)
+[09:54:10]ACCESS: Logout: Lawligagger/(Aden Bousum)
+[09:54:10]ACCESS: Logout: Calliope/(Kate Fuchs)
+
+
+Starting up. 09:55.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+[09:55:43]ADMIN: Loading Banlistjob
+[09:55:43]ADMIN: Loading jobban_rank
+[09:55:43]ADMIN: jobban_keylist was empty
+[09:55:43]ADMIN: Updating jobbanfile!
+[09:55:43]ADMIN: Loading Banlist
+[09:55:58]ACCESS: Login: General Cole/(General Cole) from 75.108.236.250-2965678059 || BYOND v498
+[09:56:05]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[09:57:36]ACCESS: Logout: *no key*/(General Cole)
+[09:57:36]ACCESS: Login: General Cole/(Chauros Finlako) from 75.108.236.250-2965678059 || BYOND v498
+[09:57:37]ACCESS: Logout: *no key*/(Lawligagger)
+[09:57:37]ACCESS: Login: Lawligagger/(Ziggy Yoyo) from 127.0.0.1-3911281500 || BYOND v496
+[09:57:41]ACCESS: Login: Poxie2815/(Poxie2815) from 96.241.144.75-924558899 || BYOND v498
+[09:57:45]SAY: Ziggy Yoyo/Lawligagger : hello
+[09:57:49]SAY: Ziggy Yoyo/Lawligagger :  hello
+[09:57:54]ACCESS: Logout: *no key*/(Poxie2815)
+[09:57:54]ACCESS: Login: Poxie2815/(Bob Dole) from 96.241.144.75-924558899 || BYOND v498
+[09:58:48]SAY: mouse/ : Squeek!
+[09:58:52]SAY: Poly/ : Check the singlo, you chucklefucks!
+[09:58:57]ADMIN: Lawligagger/(Ziggy Yoyo) changed the equipment of Lawligagger/(Ziggy Yoyo) to death commando.
+[09:59:10]SAY: mouse/ : Squeek?
+[09:59:44]SAY: mouse/ : SQUEEK!
+[09:59:59]GAME: Explosion with size (6) in area Starboard Primary Hallway 
+[10:00:03]GAME: Explosion with size (6) in area Starboard Primary Hallway 
+[10:00:07]GAME: Explosion with size (7) in area Starboard Primary Hallway 
+[10:00:08]EMOTE: Ziggy Yoyo/Lawligagger : <B>Ziggy Yoyo</B> seizes up and falls limp, his eyes dead and lifeless...
+[10:00:09]GAME: SQL ERROR during death reporting. Failed to connect.
+[10:00:10]GAME: Explosion with size (7) in area Starboard Primary Hallway 
+[10:00:12]ACCESS: Logout: *no key*/(Ziggy Yoyo)
+[10:00:12]ACCESS: Login: Lawligagger/(Ziggy Yoyo) from 127.0.0.1-3911281500 || BYOND v496
+[10:00:16]ACCESS: Login: Calliope/(Calliope) from 89.135.144.180-2168102077 || BYOND v496
+[10:00:52]ACCESS: Logout: *no key*/(Calliope)
+[10:00:52]ACCESS: Login: Calliope/(Kate Fuchs) from 89.135.144.180-2168102077 || BYOND v496
+[10:01:08]SAY: Kate Fuchs/Calliope : Kate Fuchs, lawyer reporting.
+[10:01:18]SAY: Runtime/ : Purr!
+[10:01:55]ADMIN: Lawligagger/(Ziggy Yoyo) jumped to the Centcom Control
+[10:03:08]SAY: mouse/ : Squeek!
+[10:03:23]ACCESS: Logout: *no key*/(Ziggy Yoyo)
+[10:03:23]ACCESS: Login: Lawligagger/(Ziggy Yoyo) from 127.0.0.1-3911281500 || BYOND v496
+[10:03:37]ADMIN: Lawligagger/(Ziggy Yoyo) changed the equipment of Lawligagger/(Ziggy Yoyo) to tunnel clown.
+[10:03:42]SAY: mouse/ : SQUEEK!
+[10:03:42]SAY: Ziggy Yoyo/Lawligagger : honk
+[10:03:44]SAY: Ziggy Yoyo/Lawligagger :  honk
+[10:03:49]SAY: Chauros Finlako/General Cole :  Honk.
+[10:04:03]ADMIN: <a href='?priv_msg=[0x5000001]'>Lawligagger</a>/(Clandestine Bio-Inc Kingpin) has nuke op'ed Ziggy Yoyo.
+[10:04:16]SAY: Kate Fuchs/Calliope : Hump?
+[10:04:29]ADMIN: <a href='?priv_msg=[0x5000001]'>Lawligagger</a>/(Isiah Elderson) has nuke op'ed Bob Dole.
+[10:04:43]ADMIN: <a href='?priv_msg=[0x5000001]'>Lawligagger</a>/(Isiah Elderson) has nuke op'ed Chauros Finlako.
+[10:05:33]SAY: Unknown/Lawligagger : oh god
+[10:05:36]SAY: Tom/ : Squeek?
+[10:05:38]SAY: Unknown/Lawligagger : they changed the ion rifle sprite
+[10:09:52]SAY: Tom/ : SQUEEK!
+[10:10:38]SAY: Runtime/ : HSSSSS
+[10:12:42]ADMIN: Lawligagger/(Isiah Elderson) created a /obj/item/weapon/storage/backpack/santabag
+[10:13:23]EMOTE: Unknown/Lawligagger : <B>Unknown</B> gasps!
+[10:13:27]EMOTE: Unknown/Lawligagger : <B>Unknown</B> gasps!
+[10:13:33]ADMIN: Lawligagger/(Isiah Elderson) created a /obj/item/weapon/storage/backpack/holding
+[10:14:25]SAY: mouse/ : Squeek!
+[10:14:39]GAME: Bomb valve opened in <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=155;Z=1'>Space</a> with no device attacher: Unknown Last touched by: Lawligagger(<A HREF='?_src_=holder;adminmoreinfo=[0x3000020]'>?</A>)
+[10:14:51]GAME: Explosion with size (1, 2, 4) in area Space 
+[10:14:57]EMOTE: Unknown/Lawligagger : <B>Unknown</B> coughs!
+[10:15:09]EMOTE: Unknown/Lawligagger : <B>Unknown</B> coughs!
+[10:15:10]ADMIN: Lawligagger/(Isiah Elderson) has granted Lawligagger full access.
+[10:15:15]ADMIN: Lawligagger/(Isiah Elderson) has granted General Cole full access.
+[10:15:28]ADMIN: Lawligagger/(Isiah Elderson) teleported Poxie2815/(Clandestine Bio-Inc Operative #1)
+[10:15:29]EMOTE: Unknown/Lawligagger : <B>Unknown</B> coughs!
+[10:15:38]ADMIN: Lawligagger/(Isiah Elderson) created a /obj/item/weapon/storage/backpack/holding
+[10:15:41]ADMIN: Lawligagger/(Isiah Elderson) created a /obj/item/weapon/storage/backpack/holding
+[10:15:43]SAY: mouse/ : Squeek!
+[10:15:57]SAY: Pete/ : eh?
+[10:16:13]EMOTE: Unknown/Lawligagger : <B>Unknown</B> coughs!
+[10:16:57]SAY: mouse/ : Squeek?
+[10:17:25]ACCESS: Logout: *no key*/(Isiah Elderson)
+[10:17:25]ACCESS: Login: Lawligagger/(Isiah Elderson) from 127.0.0.1-3911281500 || BYOND v496
+[10:17:30]GAME: Explosion with size (1) in area EVA Storage 
+[10:17:32]GAME: Explosion with size (1) in area EVA Storage 
+[10:17:34]GAME: Explosion with size (1) in area EVA Storage 
+[10:17:38]GAME: Explosion with size (1) in area EVA Storage 
+[10:17:41]GAME: Explosion with size (1) in area EVA Storage 
+[10:17:49]ACCESS: Logout: *no key*/(Isiah Elderson)
+[10:17:49]ACCESS: Login: Lawligagger/(Isiah Elderson) from 127.0.0.1-3911281500 || BYOND v496
+[10:20:13]SAY: mouse/ : Squeek?
+[10:20:25]ACCESS: Logout: *no key*/(Isiah Elderson)
+[10:20:25]ACCESS: Login: Lawligagger/(Isiah Elderson) from 127.0.0.1-3911281500 || BYOND v496
+[10:20:33]ADMIN: Lawligagger/(Isiah Elderson) jumped to Poxie2815/(Clandestine Bio-Inc Operative #1)
+[10:20:42]ACCESS: Logout: *no key*/(Isiah Elderson)
+[10:20:42]ACCESS: Login: Lawligagger/(Isiah Elderson) from 127.0.0.1-3911281500 || BYOND v496
+[10:20:44]SAY: Poly/ : Wire the solars, you lazy bums!
+[10:21:13]ADMIN: Lawligagger/(Isiah Elderson) used secret timeanomalies
+[10:21:29]SAY: Tom/ : SQUEEK!
+[10:21:55]SAY: Ian/ : Bark!
+[10:22:21]SAY: Kate Fuchs/Calliope : Huh...?
+[10:22:29]SAY: mouse/ : Squeek!
+[10:22:35]SAY: mouse/ : SQUEEK!
+[10:22:44]ACCESS: Logout: Lawligagger/(Isiah Elderson)
+[10:24:11]SAY: mouse/ : SQUEEK!
+[10:25:16]EMOTE: Unknown/General Cole : <B>Unknown</B> gasps!
+[10:25:44]EMOTE: Unknown/Poxie2815 : <B>Unknown</B> gasps!
+[10:26:58]ACCESS: Login: Mightydude/(Mightydude) from 71.194.171.211-1710293576 || BYOND v498
+[10:27:08]ACCESS: Logout: *no key*/(Mightydude)
+[10:27:08]ACCESS: Login: Mightydude/(Duncan Raub) from 71.194.171.211-1710293576 || BYOND v498
+[10:27:42]GAME: Explosion with size (-1, 2, 4) in area Engineering Maintenance 
+[10:27:59]SAY: Poly/ : Wire the solars, you lazy bums!
+[10:28:06]SAY: Unknown/General Cole : No.
+[10:29:35]SAY: Kate Fuchs/Calliope : Hello, captain.
+[10:29:43]SAY: mouse/ : Squeek!
+[10:29:49]SAY: Unknown/General Cole :  Hello, Kate.
+[10:30:07]ACCESS: Logout: General Cole/(Clandestine Bio-Inc Operative #2)
+[10:30:07]ACCESS: Logout: Mightydude/(Duncan Raub)
+[10:30:07]ACCESS: Logout: Poxie2815/(Clandestine Bio-Inc Operative #1)
+[10:30:07]ACCESS: Logout: Calliope/(Kate Fuchs)
+
+
+Starting up. 10:32.23
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+[10:32:23]ADMIN: Loading Banlistjob
+[10:32:23]ADMIN: Loading jobban_rank
+[10:32:23]ADMIN: jobban_keylist was empty
+[10:32:23]ADMIN: Updating jobbanfile!
+[10:32:23]ADMIN: Loading Banlist
+[10:32:31]ACCESS: Login: Poxie2815/(Poxie2815) from 96.241.144.75-924558899 || BYOND v498
+[10:32:33]ACCESS: Login: General Cole/(General Cole) from 75.108.236.250-2965678059 || BYOND v498
+[10:33:12]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[10:33:19]ACCESS: Logout: Lawligagger/(Lawligagger)
+[10:33:19]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[10:33:32]ADMIN: General Cole/(General Cole) delayed the game.
+[10:33:50]ADMIN: Lawligagger/(Lawligagger) deleted Space Station 13 at (1,167,2)
+[10:34:01]ADMIN: General Cole/(General Cole) deleted the wall at (10,175,2)
+[10:34:14]ADMIN: Lawligagger/(Lawligagger) created a /mob/living/simple_animal/hostile/retaliate/clown
+[10:34:21]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (8,175,2)
+[10:34:24]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (9,174,2)
+[10:34:26]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (7,174,2)
+[10:34:28]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (7,175,2)
+[10:34:31]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (9,175,2)
+[10:34:32]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (10,174,2)
+[10:34:34]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (10,173,2)
+[10:34:35]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (9,173,2)
+[10:34:37]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (8,173,2)
+[10:34:39]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (7,173,2)
+[10:34:41]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (6,173,2)
+[10:34:43]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (6,174,2)
+[10:34:44]ADMIN: Lawligagger/(Lawligagger) deleted the wall at (6,175,2)
+[10:34:48]ADMIN: Lawligagger/(Lawligagger) created a /mob/living/simple_animal/hostile/retaliate/clown
+[10:34:51]ADMIN: Lawligagger/(Lawligagger) created 30ea /mob/living/simple_animal/hostile/retaliate/clown
+[10:35:03]ADMIN: Lawligagger/(Lawligagger) assumed direct control of Clown.
+[10:35:03]ACCESS: Logout: *no key*/(Lawligagger)
+[10:35:03]ACCESS: Login: lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[10:35:53]ADMIN: General Cole/(General Cole) removed the delay.
+[10:36:04]ADMIN: DirectNarrate: General Cole/(General Cole) to (Clown/): Erection.
+[10:36:15]ADMIN: lawligagger/(Clown) created a /mob/living/simple_animal/hostile/retaliate/clown
+[10:36:24]ADMIN: lawligagger/(Clown) created a /mob/living/carbon/slime/adult/metal
+[10:36:34]SAY: Clown/ : Honk!
+[10:36:35]SAY: Clown/ : Welcome to clown planet!
+[10:36:35]ACCESS: Logout: *no key*/(Poxie2815)
+[10:36:35]ACCESS: Login: Poxie2815/(Bob Dole) from 96.241.144.75-924558899 || BYOND v498
+[10:36:35]ACCESS: Logout: *no key*/(General Cole)
+[10:36:35]ACCESS: Login: General Cole/(Chauros Finlako) from 75.108.236.250-2965678059 || BYOND v498
+[10:36:39]ACCESS: Logout: *no key*/(Clown)
+[10:36:39]ACCESS: Login: lawligagger/(Karla Whittier) from 127.0.0.1-3911281500 || BYOND v496
+[10:36:46]SAY: Clown/ : Honk!
+[10:36:50]SAY: Tom/ : Squeek?
+[10:36:50]SAY: Clown/ : HONK
+[10:36:58]ADMIN: lawligagger/(Karla Whittier) created a /mob/living/carbon/human/dummy
+[10:37:07]ADMIN: lawligagger/(Karla Whittier) changed the equipment of *no key*/(SMIGGY) to tunnel clown.
+[10:37:10]SAY: Clown/ : Honk!
+[10:37:13]ACCESS: Logout: *no key*/(Karla Whittier)
+[10:37:13]ACCESS: Login: lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[10:37:16]SAY: Clown/ : HONK
+[10:37:17]ACCESS: Logout: lawligagger/(Clown)
+[10:37:20]ACCESS: Login: Lawligagger/(Clown) from 127.0.0.1-3911281500 || BYOND v496
+[10:37:28]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to strip.
+[10:37:29]ACCESS: Logout: *no key*/(Clown)
+[10:37:29]ACCESS: Login: Lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:37:36]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to death commando.
+[10:37:44]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:37:44]ACCESS: Login: Lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:37:48]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to special ops officer.
+[10:37:52]SAY: mouse/ : Squeek!
+[10:38:03]ADMIN: Lawligagger/(Norah Hoenshell) changed the equipment of Lawligagger/(Norah Hoenshell) to standard space gear.
+[10:38:36]GAME: Explosion with size (1) in area Port Primary Hallway 
+[10:38:43]ADMIN: Lawligagger/(Norah Hoenshell) healed / revived Lawligagger/(Norah Hoenshell)
+[10:38:48]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:38:48]ACCESS: Login: Lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:38:56]ADMIN: Lawligagger/(Norah Hoenshell) teleported Lawligagger/(Norah Hoenshell)
+[10:38:59]ADMIN: Lawligagger/(Norah Hoenshell) teleported @Lawligagger/(Norah Hoenshell)
+[10:39:02]ADMIN: Lawligagger/(Norah Hoenshell) assumed direct control of Norah Hoenshell.
+[10:39:02]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:39:02]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:39:17]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:39:17]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:39:24]ADMIN: General Cole/(Chauros Finlako) modified gateway's active to 1
+[10:39:28]ADMIN: General Cole/(Chauros Finlako) modified gateway's active_power_usage to 1
+[10:39:47]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/carbon/brain
+[10:39:54]ADMIN: lawligagger/(Norah Hoenshell) assumed direct control of the brain.
+[10:39:54]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:39:54]ACCESS: Login: lawligagger/(brain) from 127.0.0.1-3911281500 || BYOND v496
+[10:39:58]ACCESS: Logout: *no key*/(brain)
+[10:39:58]ACCESS: Login: lawligagger/(Hugo Buzzard) from 127.0.0.1-3911281500 || BYOND v496
+[10:40:10]ADMIN: lawligagger/(Hugo Buzzard) created a /mob/living/simple_animal/hostile/bear
+[10:40:13]ADMIN: lawligagger/(Hugo Buzzard) assumed direct control of the space bear.
+[10:40:13]ACCESS: Logout: *no key*/(Hugo Buzzard)
+[10:40:13]ACCESS: Login: lawligagger/(space bear) from 127.0.0.1-3911281500 || BYOND v496
+[10:40:15]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to centcom commander.
+[10:40:23]ACCESS: Logout: *no key*/(space bear)
+[10:40:23]ACCESS: Login: lawligagger/(Hadley Lineman) from 127.0.0.1-3911281500 || BYOND v496
+[10:40:29]ADMIN: lawligagger/(Hadley Lineman) jumped to Poxie2815/(Bob Dole)
+[10:40:33]ADMIN: lawligagger/(Hadley Lineman) created a /mob/living/simple_animal/hostile/bear
+[10:40:33]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to tunnel clown.
+[10:40:36]ADMIN: lawligagger/(Hadley Lineman) assumed direct control of the space bear.
+[10:40:36]ACCESS: Logout: *no key*/(Hadley Lineman)
+[10:40:36]ACCESS: Login: lawligagger/(space bear) from 127.0.0.1-3911281500 || BYOND v496
+[10:40:53]SAY: Poly/ : Check the singlo, you chucklefucks!
+[10:40:54]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to space pirate.
+[10:40:57]SAY: Runtime/ : Purr!
+[10:41:00]ADMIN: lawligagger/(space bear) deleted Captain's Desk Door at (122,124,1)
+[10:41:10]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to masked killer.
+[10:41:22]ACCESS: Logout: *no key*/(space bear)
+[10:41:22]ACCESS: Login: lawligagger/(Betsy Donkin) from 127.0.0.1-3911281500 || BYOND v496
+[10:41:23]ADMIN: General Cole/(Chauros Finlako) jumped to 91,143,1 in the Gateway
+[10:41:34]ADMIN: lawligagger/(Betsy Donkin) created a /mob/living/simple_animal/hostile/faithless
+[10:41:35]ADMIN: General Cole/(Chauros Finlako) jumped to 105,134,1 in the Bridge
+[10:41:37]ADMIN: lawligagger/(Betsy Donkin) assumed direct control of Faithless.
+[10:41:37]ACCESS: Logout: *no key*/(Betsy Donkin)
+[10:41:37]ACCESS: Login: lawligagger/(Faithless) from 127.0.0.1-3911281500 || BYOND v496
+[10:41:46]ACCESS: Logout: *no key*/(Faithless)
+[10:41:46]ACCESS: Login: lawligagger/(Anastasia Thomas) from 127.0.0.1-3911281500 || BYOND v496
+[10:41:50]ADMIN: General Cole/(Chauros Finlako) has possessed Captain's Office (/obj/machinery/door/airlock/command) at (120, 132, 1)
+[10:41:59]ADMIN: lawligagger/(Anastasia Thomas) created a /mob/living/simple_animal/hostile/faithless
+[10:42:01]ADMIN: lawligagger/(Anastasia Thomas) assumed direct control of Faithless.
+[10:42:01]ACCESS: Logout: *no key*/(Anastasia Thomas)
+[10:42:01]ACCESS: Login: lawligagger/(Faithless) from 127.0.0.1-3911281500 || BYOND v496
+[10:42:23]ADMIN: lawligagger/(Faithless) created a /mob/living/simple_animal/hostile/giant_spider
+[10:42:28]ADMIN: lawligagger/(Faithless) healed / revived General Cole/(Chauros Finlako)
+[10:42:31]ADMIN: lawligagger/(Faithless) assumed direct control of the giant spider.
+[10:42:31]ACCESS: Logout: *no key*/(Faithless)
+[10:42:31]ACCESS: Login: lawligagger/(giant spider) from 127.0.0.1-3911281500 || BYOND v496
+[10:42:36]ADMIN: lawligagger/(giant spider) deleted the comfy chair at (124,129,1)
+[10:42:45]ADMIN: lawligagger/(giant spider) created a /mob/living/simple_animal/hostile/hivebot/range
+[10:42:50]ADMIN: lawligagger/(giant spider) created a /mob/living/simple_animal/hostile/hivebot/range
+[10:42:56]ADMIN: lawligagger/(giant spider) created a /mob/living/simple_animal/hostile/mimic/crate
+[10:42:59]ADMIN: lawligagger/(giant spider) assumed direct control of the crate.
+[10:42:59]ACCESS: Logout: *no key*/(giant spider)
+[10:42:59]ACCESS: Login: lawligagger/(crate) from 127.0.0.1-3911281500 || BYOND v496
+[10:43:10]ADMIN: lawligagger/(crate) healed / revived Poxie2815/(Bob Dole)
+[10:43:17]ADMIN: General Cole/(Chauros Finlako) deleted the giant spider at (109,134,1)
+[10:43:26]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to assassin.
+[10:43:29]SAY: Pete/ : EHEHEHEHEH
+[10:43:41]ADMIN: lawligagger/(crate) created a /mob/living/simple_animal/hostile/mimic/copy
+[10:43:43]EMOTE: Chauros Finlako/General Cole : <B>Chauros Finlako</B> gasps!
+[10:43:47]EMOTE: Chauros Finlako/General Cole : <B>Chauros Finlako</B> gasps!
+[10:43:47]ADMIN: lawligagger/(crate) deleted the crate at (114,136,1)
+[10:43:50]ADMIN: lawligagger/(crate) created a /mob/living/simple_animal/hostile/pirate/ranged
+[10:43:52]ADMIN: lawligagger/(crate) assumed direct control of Pirate Gunner.
+[10:43:52]ACCESS: Logout: *no key*/(crate)
+[10:43:52]ACCESS: Login: lawligagger/(Pirate Gunner) from 127.0.0.1-3911281500 || BYOND v496
+[10:43:56]EMOTE: Chauros Finlako/General Cole : <B>Chauros Finlako</B> gasps!
+[10:44:00]SAY: Poly/ : Poly wanna cracker!
+[10:44:00]EMOTE: Chauros Finlako/General Cole : <B>Chauros Finlako</B> gasps!
+[10:44:03]ADMIN: General Cole/(Chauros Finlako) healed / Revived General Cole/(Chauros Finlako)
+[10:44:08]ADMIN: lawligagger/(Pirate Gunner) created a /mob/living/simple_animal/hostile/pirate/ranged
+[10:44:20]SAY: Ian/ : AUUUUUU
+[10:44:26]ACCESS: Logout: *no key*/(Pirate Gunner)
+[10:44:26]ACCESS: Login: lawligagger/(Danica Koster) from 127.0.0.1-3911281500 || BYOND v496
+[10:44:34]SAY: Runtime/ : HSSSSS
+[10:44:40]ADMIN: lawligagger/(Danica Koster) assumed direct control of Norah Hoenshell.
+[10:44:40]ACCESS: Logout: *no key*/(Danica Koster)
+[10:44:40]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:44:52]ADMIN: Lawligagger/(Norah Hoenshell) has granted lawligagger full access.
+[10:44:56]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:44:56]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:44:58]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to marisa wizard.
+[10:45:03]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/melee/space
+[10:45:20]SAY: mouse/ : Squeek!
+[10:45:23]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/melee/space
+[10:45:24]SAY: Chauros Finlako/General Cole : EI`NATH
+[10:45:25]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/melee/space
+[10:45:36]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/melee/space
+[10:45:39]ADMIN: General Cole/(Chauros Finlako) changed the equipment of General Cole/(Chauros Finlako) to special ops officer.
+[10:45:42]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/melee
+[10:45:53]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/ranged/space
+[10:45:56]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/ranged
+[10:45:57]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/ranged
+[10:45:57]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate/ranged
+[10:46:17]ADMIN: lawligagger/(Norah Hoenshell) created a /mob/living/simple_animal/hostile/syndicate
+[10:46:18]SAY: mouse/ : SQUEEK!
+[10:46:20]ADMIN: lawligagger/(Norah Hoenshell) assumed direct control of Syndicate Operative.
+[10:46:20]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:46:20]ACCESS: Login: lawligagger/(Syndicate Operative) from 127.0.0.1-3911281500 || BYOND v496
+[10:46:25]ADMIN: General Cole/(Chauros Finlako) healed / Revived General Cole/(Chauros Finlako)
+[10:46:35]ADMIN: General Cole/(Chauros Finlako) has animalized General Cole.
+[10:46:42]ACCESS: Logout: *no key*/(Chauros Finlako)
+[10:46:42]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:46:50]ADMIN: lawligagger/(Syndicate Operative) healed / revived Poxie2815/(Bob Dole)
+[10:46:56]ADMIN: lawligagger/(Syndicate Operative) created a /mob/living/simple_animal/hostile/tree
+[10:46:59]ADMIN: lawligagger/(Syndicate Operative) assumed direct control of the pine tree.
+[10:46:59]ACCESS: Logout: *no key*/(Syndicate Operative)
+[10:46:59]ACCESS: Login: lawligagger/(pine tree) from 127.0.0.1-3911281500 || BYOND v496
+[10:47:20]ADMIN: General Cole/(Hudson) healed / Revived General Cole/(Hudson)
+[10:47:26]ACCESS: Logout: *no key*/(pine tree)
+[10:47:26]ACCESS: Login: lawligagger/(Cassidy Smirnov) from 127.0.0.1-3911281500 || BYOND v496
+[10:47:27]ADMIN: General Cole/(Hudson) healed / Revived General Cole/(Hudson)
+[10:47:28]SAY: mouse/ : Squeek!
+[10:47:32]ADMIN: General Cole/(Hudson) has used rudimentary transformation on General Cole/(Hudson). Transforming to constructwraith; deletemob=1
+[10:47:32]ACCESS: Logout: *no key*/(Hudson)
+[10:47:32]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:47:50]ADMIN: lawligagger/(Cassidy Smirnov) assumed direct control of Norah Hoenshell.
+[10:47:50]ACCESS: Logout: *no key*/(Cassidy Smirnov)
+[10:47:50]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:47:52]ADMIN: General Cole/(Hudson) has used rudimentary transformation on General Cole/(Hudson). Transforming to coffee; deletemob=1
+[10:47:52]ACCESS: Logout: *no key*/(Hudson)
+[10:47:52]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:47:59]ADMIN: General Cole/(Hudson) jumped to 101,135,1 in the Central Primary Hallway
+[10:48:08]ADMIN: lawligagger/(Norah Hoenshell) deleted Gateway Access at (92,143,1)
+[10:48:22]ADMIN: General Cole/(Hudson) jumped to 98,137,1 in the Central Primary Hallway
+[10:48:30]ADMIN: General Cole/(Hudson) deleted Syndicate Commando at (102,137,1)
+[10:48:36]ADMIN: General Cole/(Hudson) healed / Revived General Cole/(Hudson)
+[10:48:37]EMOTE: SMIGGY/ : <B>SMIGGY</B> coughs!
+[10:48:51]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:49:02]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:49:34]ADMIN: General Cole/(Hudson) has used rudimentary transformation on General Cole/(Hudson). Transforming to constructarmoured; deletemob=1
+[10:49:34]ACCESS: Logout: *no key*/(Hudson)
+[10:49:34]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:49:45]ACCESS: Login: XDanilx/(XDanilx) from 46.165.60.218-2666957821 || BYOND v498
+[10:49:52]SAY: mouse/ : Squeek?
+[10:50:00]ACCESS: Logout: XDanilx/(XDanilx)
+[10:50:17]ADMIN: General Cole/(Hudson) jumped to 106,141,1 in the Central Primary Hallway
+[10:50:21]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/slimepotion
+[10:50:24]ADMIN: General Cole/(Hudson) jumped to 117,141,1 in the Central Primary Hallway
+[10:50:27]ADMIN: General Cole/(Hudson) jumped to 126,141,1 in the Central Primary Hallway
+[10:50:32]ADMIN: General Cole/(Hudson) jumped to 129,134,1 in the Central Primary Hallway
+[10:50:34]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/slimepotion2
+[10:50:51]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:50:52]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[10:50:58]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:51:05]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/clothing/head/collectable/slime
+[10:51:11]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:13]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:51:35]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:51:43]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:51:45]ADMIN: lawligagger/(Norah Hoenshell) jumped to General Cole/(Hudson)
+[10:51:50]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:51]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:52]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:54]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:55]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:51:57]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/slime_extract/gold
+[10:52:01]ADMIN: General Cole/(Hudson) has animalized General Cole.
+[10:52:11]SAY: Runtime/ : Purr!
+[10:52:14]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/reagent_containers/food/snacks/slimesoup
+[10:52:16]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/reagent_containers/food/snacks/slimesoup
+[10:52:18]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/reagent_containers/food/snacks/donut/slimejelly
+[10:52:19]ADMIN: General Cole/(Hudson) has used rudimentary transformation on General Cole/(Hudson). Transforming to hunter; deletemob=1
+[10:52:19]ACCESS: Logout: *no key*/(Hudson)
+[10:52:19]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:52:24]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/reagent_containers/food/snacks/jellyburger/slime
+[10:52:30]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/weapon/slimepotion
+[10:52:41]ADMIN: lawligagger/(Norah Hoenshell) created a /obj/item/device/flashlight/slime
+[10:52:57]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[10:53:02]GAME: Explosion with size (3) in area Central Primary Hallway 
+[10:53:03]EMOTE: Norah Hoenshell/lawligagger : <B>Norah Hoenshell</B> gasps!
+[10:53:09]ADMIN: General Cole/(Hudson) healed / Revived General Cole/(Hudson)
+[10:53:09]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[10:53:13]ADMIN: General Cole/(Hudson) has used rudimentary transformation on General Cole/(Hudson). Transforming to queen; deletemob=1
+[10:53:13]ACCESS: Logout: *no key*/(Hudson)
+[10:53:13]ACCESS: Login: General Cole/(Hudson) from 75.108.236.250-2965678059 || BYOND v498
+[10:53:22]GAME: Explosion with size (3) in area Central Primary Hallway 
+[10:53:24]GAME: Explosion with size (6) in area Central Primary Hallway 
+[10:53:25]EMOTE: Norah Hoenshell/lawligagger : <B>Norah Hoenshell</B> seizes up and falls limp, his eyes dead and lifeless...
+[10:53:26]GAME: SQL ERROR during death reporting. Failed to connect.
+[10:53:39]GAME: Explosion with size (1) in area Central Primary Hallway 
+[10:53:41]ACCESS: Logout: *no key*/(Norah Hoenshell)
+[10:53:41]ACCESS: Login: lawligagger/(Norah Hoenshell) from 127.0.0.1-3911281500 || BYOND v496
+[10:53:46]SAY: mouse/ : Squeek?
+[10:53:52]GAME: Explosion with size (17) in area Escape Shuttle Hallway 
+[10:54:13]ADMIN: General Cole/(Hudson) jumped to 105,130,1 in the Heads of Staff Meeting Room
+[10:54:14]GAME: Explosion with size (7) in area Starboard Primary Hallway 
+[10:54:18]GAME: Explosion with size (14) in area Escape Shuttle Hallway 
+[10:54:18]ADMIN: General Cole/(Hudson) has possessed   (/obj/screen) at an unknown location
+[10:54:40]GAME: Explosion with size (15) in area Starboard Primary Hallway 
+[10:54:43]ADMIN: General Cole/( ) jumped to the Escape Shuttle Hallway
+[10:55:00]ACCESS: Logout: lawligagger/(Norah Hoenshell)
+[10:55:13]SAY: mouse/ : SQUEEK!
+[10:55:53]ADMIN: General Cole/( ) modified  's storedPlasma to 1e+012
+[10:56:10]ADMIN: General Cole/( ) jumped to 151,133,1 in the Kitchen
+[10:57:09]ADMIN: General Cole/( ) modified  's heal_rate to 100
+[10:57:10]ACCESS: Logout: Poxie2815/(Bob Dole)
+[10:57:12]SAY: Runtime/ : Esp!
+[10:58:23]ADMIN: General Cole/( ) modified  's see_infrared to 1
+[10:58:51]ADMIN: General Cole/( ) modified  's universal_speak to 1
+[10:58:59]SAY: Ian/ : AUUUUUU
+[10:59:12]ADMIN: General Cole/( ) modified  's storedPlasma to 9000
+[10:59:21]ADMIN: General Cole/( ) jumped to 143,136,1 in the Bar
+[10:59:28]ADMIN: General Cole/( ) jumped to 137,139,1 in the Bar
+[10:59:34]ADMIN: General Cole/( ) jumped to 134,142,1 in the Theatre
+[10:59:45]ADMIN: General Cole/( ) has possessed Theatre Backstage (/obj/machinery/door/airlock) at (135, 144, 1)
+[11:00:38]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/( ) has traitor'ed  .
+[11:00:40]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/( ) has de-traitor'ed  .
+[11:00:41]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/( ) has traitor'ed  .
+[11:00:48]ADMIN: General Cole/( ) has used rudimentary transformation on General Cole/( ). Transforming to monkey; deletemob=1
+[11:00:48]ACCESS: Logout: *no key*/( )
+[11:00:48]ACCESS: Login: General Cole/( ) from 75.108.236.250-2965678059 || BYOND v498
+[11:01:12]ADMIN: General Cole/( ) has used rudimentary transformation on General Cole/( ). Transforming to human; deletemob=1
+[11:01:12]ACCESS: Logout: *no key*/( )
+[11:01:12]ACCESS: Login: General Cole/( ) from 75.108.236.250-2965678059 || BYOND v498
+[11:01:25]ADMIN: General Cole/( ) changed the equipment of General Cole/( ) to soviet admiral.
+[11:02:10]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/( ) has changeling'ed  .
+[11:02:19]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/( ) has cult'ed  .
+[11:02:23]SAY: mouse/ : Squeek?
+[11:03:40]ADMIN: General Cole/( ) modified  's name to Chauros Finlako
+[11:03:52]ADMIN: General Cole/( ) changed the equipment of General Cole/( ) to special ops officer.
+[11:04:00]SAY: Tom/ : Squeek!
+[11:04:35]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[11:04:41]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[11:04:48]ADMIN: General Cole used Spawn Space Ninja.
+[11:04:48]ACCESS: Logout: *no key*/( )
+[11:04:48]ACCESS: Login: General Cole/(Stalker Donatello) from 75.108.236.250-2965678059 || BYOND v498
+[11:04:53]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[11:04:55]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[11:05:02]SAY: mouse/ : Squeek!
+[11:05:31]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> gasps!
+[11:05:47]EMOTE: Bob Dole/Poxie2815 : <B>Bob Dole</B> seizes up and falls limp, her eyes dead and lifeless...
+[11:05:48]GAME: SQL ERROR during death reporting. Failed to connect.
+[11:06:37]SAY: mouse/ : SQUEEK!
+[11:06:45]SAY: Unknown/General Cole : HURT ME MOOORRREEE!
+[11:06:51]SAY: Unknown/General Cole : IMPRESSIVE!
+[11:07:48]SAY: mouse/ : Squeek?
+[11:08:20]GAME: Explosion with size (-1, -1, 4) in area Chief Engineer's office 
+[11:09:31]SAY: mouse/ : Squeek!
+[11:10:07]GAME: SQL ERROR during death reporting. Failed to connect.
+[11:10:07]ADMIN: General Cole/(Stalker Donatello) used gibself.
+[11:10:09]ACCESS: Logout: *no key*/(Stalker Donatello)
+[11:10:09]ACCESS: Login: General Cole/(Stalker Donatello) from 75.108.236.250-2965678059 || BYOND v498
+[11:10:44]ADMIN: General Cole/(Stalker Donatello) used secret bluespaceanomaly
+[11:11:42]EMOTE:  / : <B> </B> seizes up and falls limp, his eyes dead and lifeless...
+[11:11:49]ADMIN: General Cole/(Stalker Donatello) used secret friendai
+[11:11:57]ADMIN: General Cole/(Stalker Donatello) used secret whiteout
+[11:11:59]ADMIN: General Cole/(Stalker Donatello) used secret eagles
+[11:12:06]SAY: Runtime/ : Meow!
+[11:12:13]ADMIN: General Cole/(Stalker Donatello) used there can be only one.
+[11:12:13]ADMIN: General Cole/(Stalker Donatello) used secret onlyone
+[11:12:24]ADMIN: General Cole/(Stalker Donatello) used everyone is a traitor secret. Objective is Kill
+[11:12:24]ADMIN: General Cole/(Stalker Donatello) used secret traitor_all
+[11:12:28]ADMIN: General Cole/(Stalker Donatello) made all SMESs powered
+[11:12:28]ADMIN: General Cole/(Stalker Donatello) used secret quickpower
+[11:12:35]ADMIN: General Cole/(Stalker Donatello) used secret monkey
+[11:12:40]ADMIN: General Cole/(Stalker Donatello) made all areas unpowered
+[11:12:46]ADMIN: General Cole/(Stalker Donatello) used secret unpower
+[11:12:58]ADMIN: General Cole/(Stalker Donatello) made all areas powered
+[11:13:06]ADMIN: General Cole/(Stalker Donatello) used secret power
+[11:13:12]ADMIN: General Cole/(Stalker Donatello) used secret spacevines
+[11:13:19]ADMIN: General Cole/(Stalker Donatello) used secret carp
+[11:13:23]ADMIN: General Cole/(Stalker Donatello) used secret prison_break
+[11:13:25]SAY: Ian/ : Bark!
+[11:14:00]ADMIN: General Cole/(Stalker Donatello) used secret virus
+[11:14:09]ADMIN: General Cole/(Stalker Donatello) used secret ionstorm
+[11:14:12]ADMIN: General Cole/(Stalker Donatello) used secret lightsout
+[11:14:16]ADMIN: General Cole/(Stalker Donatello) used secret immovable
+[11:14:30]ADMIN: General Cole/(Stalker Donatello) used secret radiation
+[11:14:43]ADMIN: General Cole/(Stalker Donatello) used secret spiders
+[11:14:51]ADMIN: General Cole/(Stalker Donatello) used secret aliens
+[11:14:53]ADMIN: General Cole/(Stalker Donatello) used secret goblob
+[11:14:55]ADMIN: General Cole/(Stalker Donatello) used secret timeanomalies
+[11:14:57]SAY: mouse/ : SQUEEK!
+[11:14:57]ADMIN: General Cole/(Stalker Donatello) used secret gravanomalies
+[11:15:00]ADMIN: General Cole/(Stalker Donatello) used secret gravanomalies
+[11:15:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:15:05]ADMIN: General Cole/(Stalker Donatello) used secret gravity
+[11:15:07]ADMIN: General Cole/(Stalker Donatello) used secret gravanomalies
+[11:15:08]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:15:11]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:15:12]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:15:48]ADMIN: General Cole/(Stalker Donatello) used secret list_job_debug
+[11:16:00]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:01]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:01]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:01]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:02]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:03]ADMIN: General Cole/(Stalker Donatello) used secret wave
+[11:16:03]ADMIN: <a href='?priv_msg=[0x5000000]'>General Cole</a>/(Stalker Donatello) changed the bomb cap to 4, 8, 16
+[11:16:03]ADMIN: General Cole/(Stalker Donatello) used secret togglebombcap
+[11:16:03]ADMIN: General Cole/(Stalker Donatello) used secret comms_blackout
+[11:16:27]ADMIN: General Cole/(Stalker Donatello) admin-recalled the emergency shuttle.
+[11:16:44]ADMIN: General Cole/(Stalker Donatello) admin-called the emergency shuttle.
+[11:16:55]ADMIN: General Cole/(Stalker Donatello) has spawned a changeling.
+[11:17:00]SAY: Ian/ : AUUUUUU
+[11:17:02]ADMIN: General Cole/(Stalker Donatello) teleported General Cole/(Stalker Donatello)
+[11:17:09]GAME: Explosion with size (-1, 0, 2) in area Engineering 
+[11:17:23]ADMIN: General Cole/(Stalker Donatello) initiated a reboot.
+[11:17:24]ACCESS: Logout: General Cole/(Stalker Donatello)

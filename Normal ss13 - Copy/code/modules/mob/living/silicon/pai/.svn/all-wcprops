@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5679/trunk/code/modules/mob/living/silicon/pai
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/modules/mob/living/silicon/pai/hud.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4244/trunk/code/modules/mob/living/silicon/pai/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/3241/trunk/code/modules/mob/living/silicon/pai/examine.dm
+END
+pai.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5668/trunk/code/modules/mob/living/silicon/pai/pai.dm
+END
+personality.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5128/trunk/code/modules/mob/living/silicon/pai/personality.dm
+END
+software.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5679/trunk/code/modules/mob/living/silicon/pai/software.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/1932/trunk/code/modules/mob/living/silicon/pai/say.dm
+END
+recruit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5449/trunk/code/modules/mob/living/silicon/pai/recruit.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5668/trunk/code/modules/mob/living/silicon/pai/life.dm
+END

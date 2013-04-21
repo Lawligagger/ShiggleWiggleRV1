@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5924/trunk/code/modules/mob/living
+END
+living_defense.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/mob/living/living_defense.dm
+END
+damage_procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5531/trunk/code/modules/mob/living/damage_procs.dm
+END
+living_defines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/modules/mob/living/living_defines.dm
+END
+living.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/mob/living/living.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/modules/mob/living/login.dm
+END
+logout.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/4351/trunk/code/modules/mob/living/logout.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5729/trunk/code/modules/mob/living/say.dm
+END

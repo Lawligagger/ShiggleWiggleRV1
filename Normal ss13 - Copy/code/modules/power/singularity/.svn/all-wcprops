@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/modules/power/singularity
+END
+containment_field.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/4546/trunk/code/modules/power/singularity/containment_field.dm
+END
+investigate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/3688/trunk/code/modules/power/singularity/investigate.dm
+END
+collector.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/singularity/collector.dm
+END
+generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4612/trunk/code/modules/power/singularity/generator.dm
+END
+emitter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5462/trunk/code/modules/power/singularity/emitter.dm
+END
+field_generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/singularity/field_generator.dm
+END
+singularity.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5756/trunk/code/modules/power/singularity/singularity.dm
+END

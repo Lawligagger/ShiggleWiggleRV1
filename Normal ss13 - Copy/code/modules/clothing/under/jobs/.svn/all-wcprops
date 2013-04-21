@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/clothing/under/jobs
+END
+medsci.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/clothing/under/jobs/medsci.dm
+END
+security.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5758/trunk/code/modules/clothing/under/jobs/security.dm
+END
+engineering.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4427/trunk/code/modules/clothing/under/jobs/engineering.dm
+END
+civilian.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4427/trunk/code/modules/clothing/under/jobs/civilian.dm
+END

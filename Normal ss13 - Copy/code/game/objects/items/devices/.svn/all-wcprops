@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/items/devices
+END
+violin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/objects/items/devices/violin.dm
+END
+powersink.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5657/trunk/code/game/objects/items/devices/powersink.dm
+END
+transfer_valve.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/items/devices/transfer_valve.dm
+END
+aicard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/objects/items/devices/aicard.dm
+END
+paicard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5807/trunk/code/game/objects/items/devices/paicard.dm
+END
+flashlight.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/game/objects/items/devices/flashlight.dm
+END
+lightreplacer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5139/trunk/code/game/objects/items/devices/lightreplacer.dm
+END
+uplinks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5789/trunk/code/game/objects/items/devices/uplinks.dm
+END
+chameleonproj.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/items/devices/chameleonproj.dm
+END
+traitordevices.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/devices/traitordevices.dm
+END
+multitool.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5789/trunk/code/game/objects/items/devices/multitool.dm
+END
+scanners.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5724/trunk/code/game/objects/items/devices/scanners.dm
+END
+flash.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5724/trunk/code/game/objects/items/devices/flash.dm
+END
+taperecorder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/4700/trunk/code/game/objects/items/devices/taperecorder.dm
+END

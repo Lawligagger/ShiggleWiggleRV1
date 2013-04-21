@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5906/trunk/code/game/machinery/computer
+END
+pod.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5838/trunk/code/game/machinery/computer/pod.dm
+END
+law.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4708/trunk/code/game/machinery/computer/law.dm
+END
+prisonshuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/prisonshuttle.dm
+END
+message.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/game/machinery/computer/message.dm
+END
+buildandrepair.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/buildandrepair.dm
+END
+robot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5875/trunk/code/game/machinery/computer/robot.dm
+END
+aifixer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/aifixer.dm
+END
+communications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5838/trunk/code/game/machinery/computer/communications.dm
+END
+camera.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5667/trunk/code/game/machinery/computer/camera.dm
+END
+Operating.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5755/trunk/code/game/machinery/computer/Operating.dm
+END
+shuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4446/trunk/code/game/machinery/computer/shuttle.dm
+END
+cloning.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/cloning.dm
+END
+HolodeckControl.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5825/trunk/code/game/machinery/computer/HolodeckControl.dm
+END
+syndicate_shuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5754/trunk/code/game/machinery/computer/syndicate_shuttle.dm
+END
+power.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/power.dm
+END
+medical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/medical.dm
+END
+computer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/machinery/computer/computer.dm
+END
+crew.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5906/trunk/code/game/machinery/computer/crew.dm
+END
+ai_core.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5731/trunk/code/game/machinery/computer/ai_core.dm
+END
+prisoner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/prisoner.dm
+END
+security.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/security.dm
+END
+hologram.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/hologram.dm
+END
+station_alert.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/station_alert.dm
+END
+card.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/machinery/computer/card.dm
+END
+atmos_alert.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/atmos_alert.dm
+END
+arcade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/computer/arcade.dm
+END

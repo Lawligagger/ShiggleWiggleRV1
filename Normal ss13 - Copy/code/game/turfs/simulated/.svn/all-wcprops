@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/turfs/simulated
+END
+floor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/turfs/simulated/floor.dm
+END
+walls.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/turfs/simulated/walls.dm
+END
+walls_reinforced.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/turfs/simulated/walls_reinforced.dm
+END
+floor_types.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5798/trunk/code/game/turfs/simulated/floor_types.dm
+END
+walls_mineral.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5102/trunk/code/game/turfs/simulated/walls_mineral.dm
+END
+dirtystation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5925/trunk/code/game/turfs/simulated/dirtystation.dm
+END
+walls_misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4668/trunk/code/game/turfs/simulated/walls_misc.dm
+END

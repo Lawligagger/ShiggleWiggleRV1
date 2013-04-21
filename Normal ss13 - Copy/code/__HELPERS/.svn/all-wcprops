@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/__HELPERS
+END
+mobs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5271/trunk/code/__HELPERS/mobs.dm
+END
+files.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5473/trunk/code/__HELPERS/files.dm
+END
+names.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/__HELPERS/names.dm
+END
+unsorted.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/__HELPERS/unsorted.dm
+END
+text.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5149/trunk/code/__HELPERS/text.dm
+END
+sanitize_values.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5171/trunk/code/__HELPERS/sanitize_values.dm
+END
+type2type.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/__HELPERS/type2type.dm
+END
+logging.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5829/trunk/code/__HELPERS/logging.dm
+END
+game.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5829/trunk/code/__HELPERS/game.dm
+END
+icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/__HELPERS/icons.dm
+END
+maths.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5171/trunk/code/__HELPERS/maths.dm
+END
+global_lists.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5827/trunk/code/__HELPERS/global_lists.dm
+END
+lists.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/__HELPERS/lists.dm
+END
+time.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/__HELPERS/time.dm
+END

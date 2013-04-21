@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/modules/projectiles/guns/projectile
+END
+revolver.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5696/trunk/code/modules/projectiles/guns/projectile/revolver.dm
+END
+automatic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/modules/projectiles/guns/projectile/automatic.dm
+END
+shotgun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/modules/projectiles/guns/projectile/shotgun.dm
+END
+pistol.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5189/trunk/code/modules/projectiles/guns/projectile/pistol.dm
+END

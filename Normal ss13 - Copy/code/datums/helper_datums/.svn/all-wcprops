@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/datums/helper_datums
+END
+construction_datum.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/2427/trunk/code/datums/helper_datums/construction_datum.dm
+END
+events.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/3066/trunk/code/datums/helper_datums/events.dm
+END
+global_iterator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/2744/trunk/code/datums/helper_datums/global_iterator.dm
+END
+getrev.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/datums/helper_datums/getrev.dm
+END
+topic_input.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/2369/trunk/code/datums/helper_datums/topic_input.dm
+END
+teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5727/trunk/code/datums/helper_datums/teleport.dm
+END

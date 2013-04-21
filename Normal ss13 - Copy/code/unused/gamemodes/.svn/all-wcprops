@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/4432/trunk/code/unused/gamemodes
+END
+restructuring.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/2436/trunk/code/unused/gamemodes/restructuring.dm
+END
+ruby.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/4188/trunk/code/unused/gamemodes/ruby.dm
+END
+deathmatch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4432/trunk/code/unused/gamemodes/deathmatch.dm
+END
+monkey.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4188/trunk/code/unused/gamemodes/monkey.dm
+END
+ctf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/3546/trunk/code/unused/gamemodes/ctf.dm
+END
+ctf_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/4188/trunk/code/unused/gamemodes/ctf_items.dm
+END

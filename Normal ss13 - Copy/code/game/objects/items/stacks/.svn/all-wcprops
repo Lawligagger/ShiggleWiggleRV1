@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/objects/items/stacks
+END
+stack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5008/trunk/code/game/objects/items/stacks/stack.dm
+END
+rods.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4591/trunk/code/game/objects/items/stacks/rods.dm
+END
+medical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/objects/items/stacks/medical.dm
+END

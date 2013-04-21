@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5918/trunk/code/modules/hydroponics
+END
+biogenerator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5777/trunk/code/modules/hydroponics/biogenerator.dm
+END
+hydroponics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5732/trunk/code/modules/hydroponics/hydroponics.dm
+END
+hydroitemdefines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5785/trunk/code/modules/hydroponics/hydroitemdefines.dm
+END
+seeds.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5732/trunk/code/modules/hydroponics/seeds.dm
+END
+growninedible.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5785/trunk/code/modules/hydroponics/growninedible.dm
+END
+seed_extractor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5777/trunk/code/modules/hydroponics/seed_extractor.dm
+END
+grown.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5918/trunk/code/modules/hydroponics/grown.dm
+END
+hydroitemcode.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/modules/hydroponics/hydroitemcode.dm
+END

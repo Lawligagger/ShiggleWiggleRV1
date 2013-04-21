@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/tgstation/-tg-station/!svn/ver/5925/trunk/code
+END
+global.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tgstation/-tg-station/!svn/ver/5832/trunk/code/global.dm
+END
+_compile_options.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/_compile_options.dm
+END
+names.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tgstation/-tg-station/!svn/ver/4955/trunk/code/names.dm
+END
+world.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tgstation/-tg-station/!svn/ver/5915/trunk/code/world.dm
+END
+stylesheet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/stylesheet.dm
+END
+__DEFINES.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/__DEFINES.dm
+END
+hub.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tgstation/-tg-station/!svn/ver/5733/trunk/code/hub.dm
+END

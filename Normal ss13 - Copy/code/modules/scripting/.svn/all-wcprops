@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tgstation/-tg-station/!svn/ver/5917/trunk/code/modules/scripting
+END
+IDE.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5917/trunk/code/modules/scripting/IDE.dm
+END
+stack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/3202/trunk/code/modules/scripting/stack.dm
+END
+Options.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5708/trunk/code/modules/scripting/Options.dm
+END
+Errors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/3261/trunk/code/modules/scripting/Errors.dm
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/5896/trunk/code/modules/reagents
+END
+reagent_dispenser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5836/trunk/code/modules/reagents/reagent_dispenser.dm
+END
+Chemistry-Holder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5824/trunk/code/modules/reagents/Chemistry-Holder.dm
+END
+Chemistry-Readme.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/4503/trunk/code/modules/reagents/Chemistry-Readme.dm
+END
+Chemistry-Machinery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5824/trunk/code/modules/reagents/Chemistry-Machinery.dm
+END
+grenade_launcher.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/grenade_launcher.dm
+END
+syringe_gun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/syringe_gun.dm
+END
+reagent_containers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/modules/reagents/reagent_containers.dm
+END
+Chemistry-Colours.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/4503/trunk/code/modules/reagents/Chemistry-Colours.dm
+END
+Chemistry-Reagents.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5896/trunk/code/modules/reagents/Chemistry-Reagents.dm
+END
+Chemistry-Recipes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5715/trunk/code/modules/reagents/Chemistry-Recipes.dm
+END

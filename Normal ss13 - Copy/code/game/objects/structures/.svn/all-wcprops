@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5911/trunk/code/game/objects/structures
+END
+kitchen_spike.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5230/trunk/code/game/objects/structures/kitchen_spike.dm
+END
+windoor_assembly.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5725/trunk/code/game/objects/structures/windoor_assembly.dm
+END
+signs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5600/trunk/code/game/objects/structures/signs.dm
+END
+lattice.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4591/trunk/code/game/objects/structures/lattice.dm
+END
+OpTable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5825/trunk/code/game/objects/structures/OpTable.dm
+END
+transit_tubes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5911/trunk/code/game/objects/structures/transit_tubes.dm
+END
+mop_bucket.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5561/trunk/code/game/objects/structures/mop_bucket.dm
+END
+noticeboard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/objects/structures/noticeboard.dm
+END
+janicart.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/structures/janicart.dm
+END
+false_walls.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/game/objects/structures/false_walls.dm
+END
+watercloset.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5825/trunk/code/game/objects/structures/watercloset.dm
+END
+mineral_doors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5645/trunk/code/game/objects/structures/mineral_doors.dm
+END
+lamarr_cage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4523/trunk/code/game/objects/structures/lamarr_cage.dm
+END
+tables_racks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5825/trunk/code/game/objects/structures/tables_racks.dm
+END
+morgue.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4591/trunk/code/game/objects/structures/morgue.dm
+END
+girders.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5102/trunk/code/game/objects/structures/girders.dm
+END
+electricchair.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5904/trunk/code/game/objects/structures/electricchair.dm
+END
+displaycase.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4591/trunk/code/game/objects/structures/displaycase.dm
+END
+door_assembly.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5903/trunk/code/game/objects/structures/door_assembly.dm
+END
+flora.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5307/trunk/code/game/objects/structures/flora.dm
+END
+window.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5594/trunk/code/game/objects/structures/window.dm
+END
+musician.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5432/trunk/code/game/objects/structures/musician.dm
+END
+tank_dispenser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/structures/tank_dispenser.dm
+END
+mirror.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5767/trunk/code/game/objects/structures/mirror.dm
+END
+bedsheet_bin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5733/trunk/code/game/objects/structures/bedsheet_bin.dm
+END
+target_stake.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4529/trunk/code/game/objects/structures/target_stake.dm
+END
+ladders.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4529/trunk/code/game/objects/structures/ladders.dm
+END
+grille.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5594/trunk/code/game/objects/structures/grille.dm
+END
+extinguisher.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5503/trunk/code/game/objects/structures/extinguisher.dm
+END
+safe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5793/trunk/code/game/objects/structures/safe.dm
+END

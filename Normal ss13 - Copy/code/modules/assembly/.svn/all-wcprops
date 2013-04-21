@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/modules/assembly
+END
+timer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5695/trunk/code/modules/assembly/timer.dm
+END
+igniter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4976/trunk/code/modules/assembly/igniter.dm
+END
+helpers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/4564/trunk/code/modules/assembly/helpers.dm
+END
+proximity.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5695/trunk/code/modules/assembly/proximity.dm
+END
+signaler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5708/trunk/code/modules/assembly/signaler.dm
+END
+infrared.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5695/trunk/code/modules/assembly/infrared.dm
+END
+holder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/assembly/holder.dm
+END
+shock_kit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/4703/trunk/code/modules/assembly/shock_kit.dm
+END
+assembly.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5695/trunk/code/modules/assembly/assembly.dm
+END
+bomb.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5032/trunk/code/modules/assembly/bomb.dm
+END
+mousetrap.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/modules/assembly/mousetrap.dm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/reagents/reagent_containers/food
+END
+condiment.dm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tgstation/-tg-station/!svn/ver/4546/trunk/code/modules/reagents/reagent_containers/food/condiment.dm
+END
+snacks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/modules/reagents/reagent_containers/food/snacks.dm
+END
+drinks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5504/trunk/code/modules/reagents/reagent_containers/food/drinks.dm
+END

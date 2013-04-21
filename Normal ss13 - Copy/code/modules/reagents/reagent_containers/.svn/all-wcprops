@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5896/trunk/code/modules/reagents/reagent_containers
+END
+pill.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/pill.dm
+END
+syringes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/syringes.dm
+END
+food.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/food.dm
+END
+glass.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/glass.dm
+END
+dropper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/dropper.dm
+END
+hypospray.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/hypospray.dm
+END
+spray.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5896/trunk/code/modules/reagents/reagent_containers/spray.dm
+END
+borghydro.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/modules/reagents/reagent_containers/borghydro.dm
+END

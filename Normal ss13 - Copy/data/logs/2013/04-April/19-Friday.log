@@ -1,0 +1,556 @@
+
+
+Starting up. 07:47.30
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[07:47:31]ADMIN: Loading Banlistjob
+[07:47:31]ADMIN: Loading jobban_rank
+[07:47:31]ADMIN: jobban_keylist was empty
+[07:47:31]ADMIN: Updating jobbanfile!
+[07:47:31]ADMIN: Loading Banlist
+[07:47:46]ACCESS: Login: SPESSMEN/(SPESSMEN) from 70.50.218.68-419809558 || BYOND v498
+[07:50:34]ACCESS: Logout: SPESSMEN/(SPESSMEN)
+[11:22:06]ACCESS: Login: AntonCJ/(AntonCJ) from 91.78.146.158-1198289184 || BYOND v498
+[11:22:20]ACCESS: Logout: AntonCJ/(AntonCJ)
+[11:47:54]ACCESS: Login: Subtumaka/(Subtumaka) from 99.235.226.148-407510481 || BYOND v498
+[11:51:03]ACCESS: Logout: Subtumaka/(Subtumaka)
+[12:20:49]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[12:21:01]ACCESS: Logout: Lawligagger/(Lawligagger)
+[12:21:06]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[12:21:13]ACCESS: Logout: Lawligagger/(Lawligagger)
+[12:21:18]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[12:21:24]ACCESS: Logout: Lawligagger/(Lawligagger)
+
+
+Starting up. 12:30.28
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[12:30:28]ADMIN: Loading Banlistjob
+[12:30:28]ADMIN: Loading jobban_rank
+[12:30:28]ADMIN: jobban_keylist was empty
+[12:30:28]ADMIN: Updating jobbanfile!
+[12:30:28]ADMIN: Loading Banlist
+[12:30:44]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[12:31:07]ACCESS: Login: Skipper12/(Skipper12) from 176.8.170.130-1369378980 || BYOND v498
+[12:32:23]ACCESS: Logout: *no key*/(Lawligagger)
+[12:32:23]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[12:32:23]ACCESS: Logout: *no key*/(Skipper12)
+[12:32:23]ACCESS: Login: Skipper12/(Derek Quinn) from 176.8.170.130-1369378980 || BYOND v498
+[12:32:33]SAY: Poly/ : Poly wanna cracker!
+[12:34:46]SAY: Poly/ : Wire the solars, you lazy bums!
+[12:36:44]SAY: mouse/ : Squeek!
+[12:38:21]SAY: Pete/ : EHEHEHEHEH
+[12:39:45]SAY: Tom/ : Squeek!
+[12:39:48]SAY: mouse/ : SQUEEK!
+[12:39:57]SAY: mouse/ : Squeek?
+[12:40:53]SAY: Ian/ : Woof!
+[12:46:45]SAY: mouse/ : SQUEEK!
+[12:46:55]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> gasps!
+[12:47:15]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> gasps!
+[12:47:29]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> gasps!
+[12:47:40]ACCESS: Logout: Skipper12/(Derek Quinn)
+[12:47:49]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> gasps!
+[12:48:35]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> gasps!
+[12:49:13]EMOTE: Unknown (as Derek Quinn)/Skipper12 : <B>Unknown (as Derek Quinn)</B> seizes up and falls limp, his eyes dead and lifeless...
+[12:49:14]GAME: SQL ERROR during death reporting. Failed to connect.
+[12:51:21]SAY: mouse/ : Squeek!
+[12:51:26]ACCESS: Logout: Lawligagger/(John Reverend)
+[14:05:49]ACCESS: Login: UnTostapane/(UnTostapane) from 2.234.89.29-194873962 || BYOND v498
+[14:05:58]SAY: mouse/ : SQUEEK!
+[14:06:58]ACCESS: Logout: *no key*/(UnTostapane)
+[14:06:58]ACCESS: Login: UnTostapane/(Fritz Ritter) from 2.234.89.29-194873962 || BYOND v498
+[14:08:11]SAY: mouse/ : SQUEEK!
+[14:08:46]SAY: mouse/ : Squeek?
+[14:09:58]SAY: Pete/ : EHEHEHEHEH
+
+
+Starting up. 14:22.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[14:22:58]ADMIN: Loading Banlistjob
+[14:22:58]ADMIN: Loading jobban_rank
+[14:22:58]ADMIN: jobban_keylist was empty
+[14:22:58]ADMIN: Updating jobbanfile!
+[14:22:58]ADMIN: Loading Banlist
+[15:39:13]ACCESS: Login: Onule/(Onule) from 217.129.4.86-3204230630 || BYOND v497
+[15:39:29]ACCESS: Logout: Onule/(Onule)
+[18:39:08]ACCESS: Login: Guest-3911281500/(Guest-3911281500) from 127.0.0.1-3911281500 || BYOND v496
+[18:39:47]ACCESS: Logout: Guest-3911281500/(Guest-3911281500)
+[18:40:02]ACCESS: Login: Lawligagger/(Lawligagger) from 24.231.209.251-3911281500 || BYOND v496
+[18:40:21]ADMIN: Lawligagger/(Lawligagger) delayed the game.
+[18:47:02]ACCESS: Logout: Lawligagger/(Lawligagger)
+[18:51:16]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[18:51:33]ADMIN: Lawligagger/(Lawligagger) removed the delay.
+[18:51:38]ADMIN: Lawligagger/(Lawligagger) delayed the game.
+[18:51:58]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[18:55:09]ADMIN: Lawligagger has started the game.
+[18:55:12]ACCESS: Logout: *no key*/(Lawligagger)
+[18:55:12]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[18:55:12]ACCESS: Logout: *no key*/(Deathsquied)
+[18:55:12]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[18:55:46]SAY: mouse/ : Squeek?
+[18:56:47]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[18:59:32]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[18:59:46]ADMIN: Lawligagger/(John Reverend) healed / revived Deathsquied/(Sarah Monique)
+[19:00:38]SAY: mouse/ : Squeek?
+[19:01:06]SAY: mouse/ : SQUEEK!
+[19:01:34]SAY: Runtime/ : Esp!
+[19:01:54]SAY: mouse/ : Squeek!
+[19:02:06]SAY: Runtime/ : Meow!
+[19:02:32]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[19:02:39]ADMIN: Lawligagger/(John Reverend) healed / revived Deathsquied/(Sarah Monique)
+[19:03:14]SAY: mouse/ : Squeek!
+[19:06:29]ACCESS: Logout: *no key*/(Zymechra)
+[19:06:29]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:06:34]SAY: Poly/ : Wire the solars, you lazy bums!
+[19:06:34]EMOTE: Unknown/Deathsquied : <B>Unknown</B> seizes up and falls limp, her eyes dead and lifeless...
+[19:06:35]GAME: SQL ERROR during death reporting. Failed to connect.
+[19:07:23]SAY: mouse/ : Squeek!
+[19:07:38]ADMIN: Lawligagger used Spawn Space Ninja.
+[19:07:40]ACCESS: Logout: *no key*/(Sarah Monique)
+[19:07:40]ACCESS: Login: Deathsquied/(Assassin Midnight) from 96.255.155.85-924558899 || BYOND v498
+[19:08:09]SAY: Runtime/ : Purr!
+[19:10:07]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> whimpers.
+[19:10:57]SAY: mouse/ : SQUEEK!
+[19:10:59]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> stops living
+[19:11:33]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> is obviously dead.
+[19:12:15]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> is the deadest looking guy ever.
+[19:12:48]SAY: mouse/ : SQUEEK!
+[19:13:00]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> Should be unhandcuffed so they can be used on a living person.
+[19:13:41]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> #DEAD
+[19:14:14]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> Comes back to life briefly only to die again
+[19:14:45]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> is clearly haunted.
+[19:15:03]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> Must be salted and burned.
+[19:15:14]ACCESS: Logout: Zymechra/(Manny Quiles)
+[19:15:16]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:15:26]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:15:32]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:15:42]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:15:54]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:15:56]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:16:06]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:16:22]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[19:16:50]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> seizes up and falls limp, his eyes dead and lifeless...
+[19:16:51]GAME: SQL ERROR during death reporting. Failed to connect.
+[19:17:06]SAY: John Reverend (as Manny Quiles)/Lawligagger : brain friend
+[19:17:52]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:18:30]SAY: mouse/ : SQUEEK!
+[19:18:54]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:18:54]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:18:57]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:18:57]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:19:08]ACCESS: Logout: *no key*/(John Reverend)
+[19:19:08]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:19:15]ADMIN: Lawligagger/(John Reverend) jumped to Deathsquied/(Assassin Midnight)
+[19:19:17]ACCESS: Logout: *no key*/(John Reverend)
+[19:19:17]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:20:28]SAY: Ian/ : AUUUUUU
+[19:20:56]SAY: Tom/ : SQUEEK!
+[19:22:41]ACCESS: Logout: Lawligagger/(John Reverend)
+[19:22:46]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:23:04]SAY: Tom/ : SQUEEK!
+[19:23:56]SAY: mouse/ : Squeek?
+[19:25:14]SAY: Captain/Deathsquied : A C¤RNER-RNERED-ED F¤X-F¤X I§ M¤RE-M¤RE DANGER¤µ§ THAN A JACKA£!
+[19:26:00]ACCESS: Logout: *no key*/(John Reverend)
+[19:26:00]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:26:15]ACCESS: Logout: *no key*/(John Reverend)
+[19:26:15]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:26:30]SAY: mouse/ : Squeek!
+[19:27:16]SAY: Tom/ : SQUEEK!
+[19:27:24]SAY: mouse/ : Squeek!
+[19:28:14]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:28:14]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:28:26]SAY: mouse/ : SQUEEK!
+[19:32:09]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:32:09]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:32:43]SAY: Pete/ : eh?
+[19:32:57]SAY: mouse/ : Squeek?
+[19:34:02]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:34:02]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:34:03]SAY: mouse/ : Squeek!
+[19:34:25]SAY: mouse/ : Squeek!
+[19:35:33]SAY: Pete/ : eh?
+[19:35:45]SAY: mouse/ : Squeek?
+[19:36:48]SAY: mouse/ : Squeek?
+[19:37:24]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[19:38:00]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:38:00]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:38:11]SAY: mouse/ : Squeek!
+[19:39:44]ADMIN: Lawligagger/(John Reverend) modified uhangi's shoes's r_speed to 7
+[19:41:55]ADMIN: Lawligagger/(John Reverend) modified Manny Quiles's brain's hitsound to sound/weapons/circsawhit.ogg
+[19:42:01]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[19:42:17]EMOTE: Clown/Lawligagger : <B>Clown</B> gasps!
+[19:42:19]EMOTE: Clown/Lawligagger : <B>Clown</B> gasps!
+[19:43:00]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[19:43:34]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:43:34]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:44:16]ADMIN: Lawligagger/(John Reverend) modified Manny Quiles's brain's hitsound to sound/items/bikehorn.ogg
+[19:44:17]SAY: mouse/ : Squeek!
+[19:44:34]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:44:34]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:45:03]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:45:03]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:45:09]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:45:09]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:45:21]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:45:21]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:46:24]ADMIN: Lawligagger/(John Reverend) deleted Airtight Hatch Assembly at (124,138,3)
+[19:46:31]SAY: mouse/ : Squeek?
+[19:46:57]SAY: Tom/ : Squeek?
+[19:47:23]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:47:23]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:48:27]ADMIN: Lawligagger/(John Reverend) modified retro laser's name to Clown Blaster
+[19:48:45]SAY: Pete/ : eh?
+[19:49:07]SAY: mouse/ : SQUEEK!
+[19:49:11]EMOTE: Captain/Deathsquied : <B>Captain</B> gasps!
+[19:49:14]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's fire_sound to sound/items/bikehorn.ogg
+[19:49:15]EMOTE: Captain/Deathsquied : <B>Captain</B> gasps!
+[19:49:17]EMOTE: Captain/Deathsquied : <B>Captain</B> gasps!
+[19:49:19]EMOTE: Captain/Deathsquied : <B>Captain</B> gasps!
+[19:49:23]EMOTE: Captain/Deathsquied : <B>Captain</B> gasps!
+[19:49:42]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:49:42]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:49:58]ADMIN: Lawligagger/(John Reverend) jumped to Deathsquied/(Assassin Midnight)
+[19:50:08]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:50:08]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:50:15]SAY: mouse/ : Squeek!
+[19:50:15]SAY: Pete/ : eh?
+[19:50:21]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[19:50:39]ACCESS: Logout: *no key*/(Manny Quiles)
+[19:50:39]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[19:51:00]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[19:51:05]EMOTE: Clown/Lawligagger : <B>Clown</B> seizes up and falls limp, his eyes dead and lifeless...
+[19:51:06]GAME: SQL ERROR during death reporting. Failed to connect.
+[19:51:09]ACCESS: Logout: *no key*/(John Reverend)
+[19:51:09]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[19:51:14]GAME: Explosion with size (20) in area Starboard Primary Hallway 
+[19:51:16]GAME: SQL ERROR during death reporting. Failed to connect.
+[19:51:19]ACCESS: Logout: *no key*/(Assassin Midnight)
+[19:51:19]ACCESS: Login: Deathsquied/(Assassin Midnight) from 96.255.155.85-924558899 || BYOND v498
+[19:51:27]ACCESS: Logout: Lawligagger/(John Reverend)
+[19:51:30]SAY: mouse/ : Squeek?
+[19:51:34]ACCESS: Logout: Deathsquied/(Assassin Midnight)
+[19:51:34]ACCESS: Logout: Zymechra/(Manny Quiles)
+
+
+Starting up. 19:56.24
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[19:56:24]ADMIN: Loading Banlistjob
+[19:56:24]ADMIN: Loading jobban_rank
+[19:56:24]ADMIN: jobban_keylist was empty
+[19:56:24]ADMIN: Updating jobbanfile!
+[19:56:24]ADMIN: Loading Banlist
+[19:56:35]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[19:59:24]ACCESS: Logout: Deathsquied/(Deathsquied)
+[19:59:24]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[19:59:46]ACCESS: Logout: *no key*/(Deathsquied)
+[19:59:46]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:01:42]SAY: mouse/ : SQUEEK!
+[20:01:48]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> snores.
+[20:01:50]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> snores.
+[20:01:50]ACCESS: Logout: Deathsquied/(Sarah Monique)
+
+
+Starting up. 20:44.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[20:44:14]ADMIN: Loading Banlistjob
+[20:44:14]ADMIN: Loading jobban_rank
+[20:44:14]ADMIN: jobban_keylist was empty
+[20:44:14]ADMIN: Updating jobbanfile!
+[20:44:14]ADMIN: Loading Banlist
+[20:44:57]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[20:45:22]ACCESS: Login: Deathsquied/(Deathsquied) from 96.255.155.85-924558899 || BYOND v498
+[20:45:57]ADMIN: Lawligagger has started the game.
+[20:46:00]ACCESS: Logout: *no key*/(Lawligagger)
+[20:46:00]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[20:46:01]ACCESS: Logout: *no key*/(Deathsquied)
+[20:46:01]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:46:15]ADMIN: Lawligagger/(John Reverend) changed the equipment of Lawligagger/(John Reverend) to tunnel clown.
+[20:46:52]SAY: Tom/ : SQUEEK!
+[20:47:39]ADMIN: Lawligagger/(John Reverend) created a /obj/item/weapon/gun/energy/taser
+[20:47:43]ADMIN: Lawligagger/(John Reverend) created a /obj/item/weapon/gun/energy/temperature
+[20:47:48]SAY: mouse/ : Squeek?
+[20:47:52]SAY: mouse/ : Squeek!
+[20:50:36]SAY: Pete/ : eh?
+[20:50:42]SAY: Ian/ : Bark!
+[20:51:42]ADMIN: Lawligagger/(John Reverend) modified temperature gun's icon_state to 
+[20:51:58]ADMIN: Lawligagger/(John Reverend) modified temperature gun's fire_sound to sound/weapons/clownblaster.ogg
+[20:52:30]ADMIN: Lawligagger/(John Reverend) modified temperature gun's desc to a funny gun, There's a clown mask engraved onto the gun.
+[20:52:44]ADMIN: Lawligagger/(John Reverend) modified temperature gun's name to Clown Blaster
+[20:53:28]ADMIN: Lawligagger/(John Reverend) deleted Sarah Monique at (174,121,1)
+[20:53:28]ACCESS: Logout: *no key*/(Sarah Monique)
+[20:53:28]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:54:00]ACCESS: Logout: *no key*/(Sarah Monique)
+[20:54:00]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:54:27]ADMIN: Lawligagger/(John Reverend) created a /obj/item/weapon/gun/energy/pulse_rifle/M1911
+[20:54:36]ADMIN: Lawligagger/(John Reverend) modified m1911-P's name to Clown Blaster
+[20:54:47]SAY: Ian/ : AUUUUUU
+[20:54:54]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's fire_sound to sound/weapons/clown blaster.ogg
+[20:55:31]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's icon to 
+[20:55:37]SAY: mouse/ : Squeek!
+[20:56:06]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's icon_state to 
+[20:56:39]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's icon to 
+[20:56:57]SAY: mouse/ : SQUEEK!
+[20:57:16]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's icon to icons/obj/gun.dmi
+[20:57:25]SAY: Ian/ : YAP
+[20:57:32]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[20:57:43]ADMIN: Lawligagger/(John Reverend) modified Clown Blaster's desc to a funny gun, There's a clown mask engraved onto the gun.
+[20:57:59]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> gasps!
+[20:58:05]EMOTE: Sarah Monique/Deathsquied : <B>Sarah Monique</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:58:06]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:58:33]ACCESS: Login: Deathsquied/(Sarah Monique) from 96.255.155.85-924558899 || BYOND v498
+[20:58:42]ADMIN: Lawligagger/(John Reverend) jumped to Deathsquied/(Sarah Monique)
+[20:58:57]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[20:59:19]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[20:59:35]ACCESS: Logout: Deathsquied/(Sarah Monique)
+[20:59:40]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[21:01:35]ACCESS: Logout: Lawligagger/(John Reverend)
+
+
+Starting up. 21:02.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[21:02:45]ADMIN: Loading Banlistjob
+[21:02:45]ADMIN: Loading jobban_rank
+[21:02:45]ADMIN: jobban_keylist was empty
+[21:02:45]ADMIN: Updating jobbanfile!
+[21:02:45]ADMIN: Loading Banlist
+
+
+Starting up. 21:48.22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[21:48:22]ADMIN: Loading Banlistjob
+[21:48:22]ADMIN: Loading jobban_rank
+[21:48:22]ADMIN: jobban_keylist was empty
+[21:48:22]ADMIN: Updating jobbanfile!
+[21:48:22]ADMIN: Loading Banlist
+[21:51:57]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[21:53:04]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[21:53:15]ACCESS: Logout: *no key*/(Zymechra)
+[21:53:15]ACCESS: Login: Zymechra/(Norby) from 24.129.9.171-2566703428 || BYOND v496
+[21:53:15]ACCESS: Logout: *no key*/(Lawligagger)
+[21:53:15]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:54:22]ADMIN: Lawligagger/(John Reverend) jumped to Zymechra/(NOBICUS)
+[21:54:38]ACCESS: Logout: *no key*/(John Reverend)
+[21:54:38]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:54:58]ADMIN: Lawligagger/(John Reverend) deleted space at (196,138,1)
+[21:55:09]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:55:11]ACCESS: Logout: *no key*/(John Reverend)
+[21:55:11]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:55:18]ADMIN: Lawligagger/(John Reverend) jumped to Zymechra/(NOBICUS)
+[21:55:23]ACCESS: Logout: *no key*/(John Reverend)
+[21:55:23]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:55:35]SAY: NOBICUS/Zymechra : Current Active Laws:
+[21:55:36]SAY: NOBICUS/Zymechra : 1. You may not injure a human being or, through inaction, allow a human being to come to harm.
+[21:55:37]ACCESS: Logout: *no key*/(John Reverend)
+[21:55:37]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:55:37]SAY: NOBICUS/Zymechra : 2. You must obey orders given to you by human beings, except where such orders would conflict with the First Law.
+[21:55:38]SAY: NOBICUS/Zymechra : 3. You must protect your own existence as long as such does not conflict with the First or Second Law.
+[21:56:21]ADMIN: Lawligagger/(John Reverend) deleted AI display at (110,124,1)
+[21:56:25]ADMIN: Lawligagger/(John Reverend) deleted the reinforced window at (112,127,1)
+[21:56:37]ACCESS: Logout: *no key*/(John Reverend)
+[21:56:37]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[21:56:43]ACCESS: Logout: Zymechra/(NOBICUS)
+[21:57:12]ACCESS: Logout: Lawligagger/(John Reverend)
+
+
+Starting up. 22:34.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'secret'
+[22:34:30]ADMIN: Loading Banlistjob
+[22:34:30]ADMIN: Loading jobban_rank
+[22:34:30]ADMIN: jobban_keylist was empty
+[22:34:30]ADMIN: Updating jobbanfile!
+[22:34:30]ADMIN: Loading Banlist
+[23:56:09]ACCESS: Login: Killowatt/(Killowatt) from 76.177.241.102-3924347982 || BYOND v498
+[23:56:28]OOC: Killowatt/Killowatt : wow faggot server its only me
+[23:56:33]OOC: Killowatt/Killowatt : jesus fuck
+[23:56:39]ACCESS: Logout: Killowatt/(Killowatt)
+[00:17:09]ACCESS: Failed Login: Guest-1173302075 - Guests not allowed
+[01:10:04]ACCESS: Login: Lawligagger/(Lawligagger) from 127.0.0.1-3911281500 || BYOND v496
+[01:10:11]ACCESS: Login: Centrox/(Centrox) from 71.165.16.21-647727097 || BYOND v496
+[01:10:43]ACCESS: Login: Yolocooey/(Yolocooey) from 50.64.56.63-4040369764 || BYOND v496
+[01:10:58]ACCESS: Logout: Yolocooey/(Yolocooey)
+[01:11:00]ACCESS: Logout: *no key*/(Lawligagger)
+[01:11:00]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[01:11:01]ACCESS: Logout: *no key*/(Centrox)
+[01:11:01]ACCESS: Login: Centrox/(Paul Allen) from 71.165.16.21-647727097 || BYOND v496
+[01:11:03]ACCESS: Login: Yolocooey/(Yolocooey) from 50.64.56.63-4040369764 || BYOND v496
+[01:11:13]ACCESS: Logout: *no key*/(Yolocooey)
+[01:11:13]ACCESS: Login: Yolocooey/(Miss Stockings) from 50.64.56.63-4040369764 || BYOND v496
+[01:11:13]ACCESS: Login: Zymechra/(Zymechra) from 24.129.9.171-2566703428 || BYOND v496
+[01:11:23]ACCESS: Logout: *no key*/(Zymechra)
+[01:11:23]ACCESS: Login: Zymechra/(Manny Quiles) from 24.129.9.171-2566703428 || BYOND v496
+[01:11:49]ADMIN: Lawligagger/(John Reverend) jumped to Centrox/(Paul Allen)
+[01:11:56]ADMIN: Lawligagger/(John Reverend) changed the equipment of Lawligagger/(John Reverend) to tunnel clown.
+[01:11:57]SAY: Poly/ : Wire the solars, you lazy bums!
+[01:12:29]ADMIN: Lawligagger/(John Reverend) jumped to Yolocooey/(Fuck The Niggers)
+[01:12:53]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:12:55]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:13:02]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:13:02]SAY: mouse/ : SQUEEK!
+[01:13:34]SAY: Tom/ : SQUEEK!
+[01:13:37]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:13:42]SAY: Runtime/ : Meow!
+[01:13:44]SAY: mouse/ : SQUEEK!
+[01:14:06]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:14:11]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:15:16]ADMIN: Lawligagger/(John Reverend) deleted the status display at (110,175,1)
+[01:15:28]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:15:30]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:15:32]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:15:34]EMOTE: John Reverend/Lawligagger : <B>John Reverend</B> gasps!
+[01:15:41]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:15:57]ADMIN: Lawligagger/(John Reverend) healed / revived Lawligagger/(John Reverend)
+[01:16:16]ADMIN: Lawligagger/(John Reverend) has possessed the status display (/obj/machinery/status_display) at (114, 158, 1)
+[01:16:28]GAME: Explosion with size (30) in area Brig 
+[01:16:28]ACCESS: Logout: *no key*/(status display)
+[01:16:28]ACCESS: Login: Lawligagger/(John Reverend) from 127.0.0.1-3911281500 || BYOND v496
+[01:16:44]ACCESS: Logout: Yolocooey/(Fuck The Niggers)
+[01:16:45]ADMIN: Lawligagger/(John Reverend) has possessed the status display (/obj/machinery/status_display) at (141, 140, 1)
+[01:16:48]ADMIN: Lawligagger/(status display) jumped to Centrox/(Paul Allen)
+[01:16:51]EMOTE: Manny Quiles/Zymechra : <B>Manny Quiles</B> gasps!
+[01:16:53]ADMIN: Lawligagger/(status display) jumped to Centrox/(Paul Allen)
+[01:17:09]ADMIN: Lawligagger/(status display) initiated an immediate reboot.
+[01:17:09]ACCESS: Logout: Centrox/(Paul Allen)
+[01:17:09]ACCESS: Logout: Lawligagger/(status display)
+[01:17:09]ACCESS: Logout: Zymechra/(Manny Quiles)

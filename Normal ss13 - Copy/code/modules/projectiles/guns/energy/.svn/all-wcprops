@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/modules/projectiles/guns/energy
+END
+special.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5812/trunk/code/modules/projectiles/guns/energy/special.dm
+END
+laser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/modules/projectiles/guns/energy/laser.dm
+END
+pulse.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5309/trunk/code/modules/projectiles/guns/energy/pulse.dm
+END
+nuclear.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/projectiles/guns/energy/nuclear.dm
+END
+stun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5309/trunk/code/modules/projectiles/guns/energy/stun.dm
+END
+temperature.dm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/modules/projectiles/guns/energy/temperature.dm
+END

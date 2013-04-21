@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5917/trunk/code/game/machinery
+END
+deployable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5244/trunk/code/game/machinery/deployable.dm
+END
+robot_fabricator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/machinery/robot_fabricator.dm
+END
+rechargestation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5244/trunk/code/game/machinery/rechargestation.dm
+END
+constructable_frame.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/5741/trunk/code/game/machinery/constructable_frame.dm
+END
+flasher.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/machinery/flasher.dm
+END
+airlock_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4898/trunk/code/game/machinery/airlock_control.dm
+END
+spaceheater.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/machinery/spaceheater.dm
+END
+autolathe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5793/trunk/code/game/machinery/autolathe.dm
+END
+Beacon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/4244/trunk/code/game/machinery/Beacon.dm
+END
+ai_slipper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/ai_slipper.dm
+END
+buttons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/buttons.dm
+END
+Sleeper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5893/trunk/code/game/machinery/Sleeper.dm
+END
+atmo_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5811/trunk/code/game/machinery/atmo_control.dm
+END
+igniter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/igniter.dm
+END
+shieldgen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5724/trunk/code/game/machinery/shieldgen.dm
+END
+recharger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/machinery/recharger.dm
+END
+door_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/door_control.dm
+END
+suit_storage_unit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/game/machinery/suit_storage_unit.dm
+END
+status_display.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5686/trunk/code/game/machinery/status_display.dm
+END
+turrets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/machinery/turrets.dm
+END
+cell_charger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/machinery/cell_charger.dm
+END
+magnet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/machinery/magnet.dm
+END
+cryo.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5893/trunk/code/game/machinery/cryo.dm
+END
+newscaster.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/game/machinery/newscaster.dm
+END
+machinery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5893/trunk/code/game/machinery/machinery.dm
+END
+washing_machine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5035/trunk/code/game/machinery/washing_machine.dm
+END
+teleporter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/teleporter.dm
+END
+lightswitch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/lightswitch.dm
+END
+cloning.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5803/trunk/code/game/machinery/cloning.dm
+END
+vending.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/vending.dm
+END
+syndicatebeacon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5789/trunk/code/game/machinery/syndicatebeacon.dm
+END
+navbeacon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5008/trunk/code/game/machinery/navbeacon.dm
+END
+alarm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/game/machinery/alarm.dm
+END
+requests_console.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/game/machinery/requests_console.dm
+END
+wishgranter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5395/trunk/code/game/machinery/wishgranter.dm
+END
+Freezer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5893/trunk/code/game/machinery/Freezer.dm
+END
+transformer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/machinery/transformer.dm
+END
+doppler_array.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/4632/trunk/code/game/machinery/doppler_array.dm
+END
+overview.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/game/machinery/overview.dm
+END
+hologram.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5447/trunk/code/game/machinery/hologram.dm
+END
+portable_turret.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5567/trunk/code/game/machinery/portable_turret.dm
+END
+mass_driver.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5244/trunk/code/game/machinery/mass_driver.dm
+END

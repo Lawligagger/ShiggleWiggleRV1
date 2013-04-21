@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/modules/research
+END
+rd-readme.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/1929/trunk/code/modules/research/rd-readme.dm
+END
+protolathe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5493/trunk/code/modules/research/protolathe.dm
+END
+circuitprinter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5094/trunk/code/modules/research/circuitprinter.dm
+END
+destructive_analyzer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4497/trunk/code/modules/research/destructive_analyzer.dm
+END
+server.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5745/trunk/code/modules/research/server.dm
+END
+rdconsole.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5583/trunk/code/modules/research/rdconsole.dm
+END
+message_server.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5022/trunk/code/modules/research/message_server.dm
+END
+designs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/modules/research/designs.dm
+END
+research.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5459/trunk/code/modules/research/research.dm
+END
+rdmachines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4965/trunk/code/modules/research/rdmachines.dm
+END

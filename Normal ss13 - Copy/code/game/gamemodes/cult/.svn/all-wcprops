@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/game/gamemodes/cult
+END
+ritual.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/game/gamemodes/cult/ritual.dm
+END
+cult.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5580/trunk/code/game/gamemodes/cult/cult.dm
+END
+cult_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/gamemodes/cult/cult_items.dm
+END
+talisman.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/4522/trunk/code/game/gamemodes/cult/talisman.dm
+END
+cult_structures.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5092/trunk/code/game/gamemodes/cult/cult_structures.dm
+END
+runes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/game/gamemodes/cult/runes.dm
+END

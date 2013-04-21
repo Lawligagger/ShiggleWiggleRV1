@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5924/trunk/code/modules/mob/living/carbon/human
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5835/trunk/code/modules/mob/living/carbon/human/hud.dm
+END
+whisper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5578/trunk/code/modules/mob/living/carbon/human/whisper.dm
+END
+human_movement.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/4771/trunk/code/modules/mob/living/carbon/human/human_movement.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5169/trunk/code/modules/mob/living/carbon/human/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5924/trunk/code/modules/mob/living/carbon/human/examine.dm
+END
+human_attackhand.dm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/human/human_attackhand.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5823/trunk/code/modules/mob/living/carbon/human/say.dm
+END
+inventory.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/modules/mob/living/carbon/human/inventory.dm
+END
+human_defense.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5823/trunk/code/modules/mob/living/carbon/human/human_defense.dm
+END
+human_defines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5734/trunk/code/modules/mob/living/carbon/human/human_defines.dm
+END
+human_damage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5816/trunk/code/modules/mob/living/carbon/human/human_damage.dm
+END
+human_attackpaw.dm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tgstation/-tg-station/!svn/ver/5696/trunk/code/modules/mob/living/carbon/human/human_attackpaw.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4480/trunk/code/modules/mob/living/carbon/human/login.dm
+END
+human_attackalien.dm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/human/human_attackalien.dm
+END
+human.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5823/trunk/code/modules/mob/living/carbon/human/human.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5841/trunk/code/modules/mob/living/carbon/human/emote.dm
+END
+update_icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tgstation/-tg-station/!svn/ver/5898/trunk/code/modules/mob/living/carbon/human/update_icons.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/human/life.dm
+END

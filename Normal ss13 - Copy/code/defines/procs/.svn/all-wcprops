@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5759/trunk/code/defines/procs
+END
+captain_announce.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/3391/trunk/code/defines/procs/captain_announce.dm
+END
+command_alert.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5515/trunk/code/defines/procs/command_alert.dm
+END
+AStar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/3680/trunk/code/defines/procs/AStar.dm
+END
+statistics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5759/trunk/code/defines/procs/statistics.dm
+END
+dbcore.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5022/trunk/code/defines/procs/dbcore.dm
+END

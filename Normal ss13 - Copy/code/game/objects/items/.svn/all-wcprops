@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tgstation/-tg-station/!svn/ver/5899/trunk/code/game/objects/items
+END
+trash.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5822/trunk/code/game/objects/items/trash.dm
+END
+latexballoon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/4556/trunk/code/game/objects/items/latexballoon.dm
+END
+candle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5891/trunk/code/game/objects/items/candle.dm
+END
+shooting_range.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/items/shooting_range.dm
+END
+blueprints.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5555/trunk/code/game/objects/items/blueprints.dm
+END
+bodybag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5501/trunk/code/game/objects/items/bodybag.dm
+END
+tk_grab.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5890/trunk/code/game/objects/items/tk_grab.dm
+END
+apc_frame.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5398/trunk/code/game/objects/items/apc_frame.dm
+END
+crayons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/4555/trunk/code/game/objects/items/crayons.dm
+END
+toys.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5571/trunk/code/game/objects/items/toys.dm
+END

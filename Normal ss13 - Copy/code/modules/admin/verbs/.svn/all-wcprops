@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tgstation/-tg-station/!svn/ver/5916/trunk/code/modules/admin/verbs
+END
+modifyvariables.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4998/trunk/code/modules/admin/verbs/modifyvariables.dm
+END
+randomverbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5838/trunk/code/modules/admin/verbs/randomverbs.dm
+END
+onlyone.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5109/trunk/code/modules/admin/verbs/onlyone.dm
+END
+adminjump.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5384/trunk/code/modules/admin/verbs/adminjump.dm
+END
+adminpm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5150/trunk/code/modules/admin/verbs/adminpm.dm
+END
+BrokenInhands.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/modules/admin/verbs/BrokenInhands.dm
+END
+debug.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tgstation/-tg-station/!svn/ver/5916/trunk/code/modules/admin/verbs/debug.dm
+END
+tripAI.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tgstation/-tg-station/!svn/ver/5053/trunk/code/modules/admin/verbs/tripAI.dm
+END
+atmosdebug.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/3521/trunk/code/modules/admin/verbs/atmosdebug.dm
+END
+mapping.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5628/trunk/code/modules/admin/verbs/mapping.dm
+END
+cinematic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/3491/trunk/code/modules/admin/verbs/cinematic.dm
+END
+possess.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/4188/trunk/code/modules/admin/verbs/possess.dm
+END
+one_click_antag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5838/trunk/code/modules/admin/verbs/one_click_antag.dm
+END
+adminhelp.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5578/trunk/code/modules/admin/verbs/adminhelp.dm
+END
+getlogs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5473/trunk/code/modules/admin/verbs/getlogs.dm
+END
+adminsay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5112/trunk/code/modules/admin/verbs/adminsay.dm
+END
+diagnostics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/5345/trunk/code/modules/admin/verbs/diagnostics.dm
+END
+deadsay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5150/trunk/code/modules/admin/verbs/deadsay.dm
+END
+pray.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5631/trunk/code/modules/admin/verbs/pray.dm
+END
+massmodvar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/4998/trunk/code/modules/admin/verbs/massmodvar.dm
+END
+playsound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5150/trunk/code/modules/admin/verbs/playsound.dm
+END
+ticklag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tgstation/-tg-station/!svn/ver/5033/trunk/code/modules/admin/verbs/ticklag.dm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5708/trunk/code/modules/scripting/Parser
+END
+Expressions.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5708/trunk/code/modules/scripting/Parser/Expressions.dm
+END
+Keywords.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tgstation/-tg-station/!svn/ver/5708/trunk/code/modules/scripting/Parser/Keywords.dm
+END
+Parser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tgstation/-tg-station/!svn/ver/3315/trunk/code/modules/scripting/Parser/Parser.dm
+END

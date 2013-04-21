@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/WorkInProgress
+END
+buildmode.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tgstation/-tg-station/!svn/ver/5061/trunk/code/WorkInProgress/buildmode.dm
+END
+explosion_particles.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tgstation/-tg-station/!svn/ver/4156/trunk/code/WorkInProgress/explosion_particles.dm
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tgstation/-tg-station/!svn/ver/5894/trunk/code/modules/power
+END
+solar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/solar.dm
+END
+generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/generator.dm
+END
+tracker.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5425/trunk/code/modules/power/tracker.dm
+END
+power.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5669/trunk/code/modules/power/power.dm
+END
+gravitygenerator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tgstation/-tg-station/!svn/ver/5788/trunk/code/modules/power/gravitygenerator.dm
+END
+switch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/4632/trunk/code/modules/power/switch.dm
+END
+apc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tgstation/-tg-station/!svn/ver/5845/trunk/code/modules/power/apc.dm
+END
+lighting.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/power/lighting.dm
+END
+engine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tgstation/-tg-station/!svn/ver/5061/trunk/code/modules/power/engine.dm
+END
+cable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/tgstation/-tg-station/!svn/ver/5893/trunk/code/modules/power/cable.dm
+END
+smes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5482/trunk/code/modules/power/smes.dm
+END
+turbine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5801/trunk/code/modules/power/turbine.dm
+END
+generator_type2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/generator_type2.dm
+END
+terminal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/4251/trunk/code/modules/power/terminal.dm
+END
+port_gen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tgstation/-tg-station/!svn/ver/5498/trunk/code/modules/power/port_gen.dm
+END
+cell.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/modules/power/cell.dm
+END

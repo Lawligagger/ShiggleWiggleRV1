@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/items/robot
+END
+robot_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/4802/trunk/code/game/objects/items/robot/robot_items.dm
+END
+robot_parts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5472/trunk/code/game/objects/items/robot/robot_parts.dm
+END
+robot_upgrades.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tgstation/-tg-station/!svn/ver/5171/trunk/code/game/objects/items/robot/robot_upgrades.dm
+END

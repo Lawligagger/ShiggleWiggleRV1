@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5428/trunk/code/ATMOSPHERICS/components/trinary_devices
+END
+trinary_base.dm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tgstation/-tg-station/!svn/ver/5428/trunk/code/ATMOSPHERICS/components/trinary_devices/trinary_base.dm
+END
+mixer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tgstation/-tg-station/!svn/ver/5428/trunk/code/ATMOSPHERICS/components/trinary_devices/mixer.dm
+END
+filter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tgstation/-tg-station/!svn/ver/5428/trunk/code/ATMOSPHERICS/components/trinary_devices/filter.dm
+END

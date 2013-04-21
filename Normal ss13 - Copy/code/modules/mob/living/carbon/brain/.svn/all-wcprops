@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/brain
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5833/trunk/code/modules/mob/living/carbon/brain/hud.dm
+END
+MMI.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/modules/mob/living/carbon/brain/MMI.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5710/trunk/code/modules/mob/living/carbon/brain/death.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/4097/trunk/code/modules/mob/living/carbon/brain/login.dm
+END
+brain_item.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tgstation/-tg-station/!svn/ver/5791/trunk/code/modules/mob/living/carbon/brain/brain_item.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5150/trunk/code/modules/mob/living/carbon/brain/emote.dm
+END
+brain.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tgstation/-tg-station/!svn/ver/5230/trunk/code/modules/mob/living/carbon/brain/brain.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tgstation/-tg-station/!svn/ver/4919/trunk/code/modules/mob/living/carbon/brain/say.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tgstation/-tg-station/!svn/ver/5199/trunk/code/modules/mob/living/carbon/brain/life.dm
+END
